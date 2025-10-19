@@ -1,0 +1,2325 @@
+2025-01-11 17:29:12,572 - INFO - Fetching historical data.
+2025-01-11 17:29:13,089 - INFO - Historical data fetched.
+2025-01-11 17:29:13,090 - INFO - Fetching latest data...
+2025-01-11 17:29:13,091 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:29:13,202 - INFO - No new data available.
+2025-01-11 17:29:13,202 - INFO - Calculating MACD.
+2025-01-11 17:29:13,206 - INFO - Calculating ADX.
+2025-01-11 17:29:13,212 - INFO - Indicators Calculated.
+2025-01-11 17:29:13,212 - INFO - Checking for buy signals.
+2025-01-11 17:29:13,212 - INFO - Calculating position size to trade.
+2025-01-11 17:29:13,566 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:30:13,569 - INFO - Fetching latest data...
+2025-01-11 17:30:13,570 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:30:13,675 - INFO - No new data available.
+2025-01-11 17:30:13,675 - INFO - Calculating MACD.
+2025-01-11 17:30:13,676 - INFO - Calculating ADX.
+2025-01-11 17:30:13,680 - INFO - Indicators Calculated.
+2025-01-11 17:30:13,680 - INFO - Checking for buy signals.
+2025-01-11 17:30:13,680 - INFO - Calculating position size to trade.
+2025-01-11 17:30:13,829 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:31:13,835 - INFO - Fetching latest data...
+2025-01-11 17:31:13,836 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:31:13,931 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 17:31:13,945 - INFO - Latest data added.
+2025-01-11 17:31:13,946 - INFO - Calculating MACD.
+2025-01-11 17:31:13,947 - INFO - Calculating ADX.
+2025-01-11 17:31:13,954 - INFO - Indicators Calculated.
+2025-01-11 17:31:13,954 - INFO - Checking for buy signals.
+2025-01-11 17:31:13,954 - INFO - Calculating position size to trade.
+2025-01-11 17:31:14,060 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:32:14,074 - INFO - Fetching latest data...
+2025-01-11 17:32:14,075 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:32:14,166 - INFO - No new data available.
+2025-01-11 17:32:14,168 - INFO - Calculating MACD.
+2025-01-11 17:32:14,169 - INFO - Calculating ADX.
+2025-01-11 17:32:14,171 - INFO - Indicators Calculated.
+2025-01-11 17:32:14,172 - INFO - Checking for buy signals.
+2025-01-11 17:32:14,172 - INFO - Calculating position size to trade.
+2025-01-11 17:32:14,261 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:33:14,276 - INFO - Fetching latest data...
+2025-01-11 17:33:14,277 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:33:14,364 - INFO - No new data available.
+2025-01-11 17:33:14,364 - INFO - Calculating MACD.
+2025-01-11 17:33:14,366 - INFO - Calculating ADX.
+2025-01-11 17:33:14,373 - INFO - Indicators Calculated.
+2025-01-11 17:33:14,373 - INFO - Checking for buy signals.
+2025-01-11 17:33:14,373 - INFO - Calculating position size to trade.
+2025-01-11 17:33:14,468 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:34:14,477 - INFO - Fetching latest data...
+2025-01-11 17:34:14,478 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:34:14,579 - INFO - No new data available.
+2025-01-11 17:34:14,579 - INFO - Calculating MACD.
+2025-01-11 17:34:14,582 - INFO - Calculating ADX.
+2025-01-11 17:34:14,588 - INFO - Indicators Calculated.
+2025-01-11 17:34:14,589 - INFO - Checking for buy signals.
+2025-01-11 17:34:14,589 - INFO - Calculating position size to trade.
+2025-01-11 17:34:14,759 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:35:14,764 - INFO - Fetching latest data...
+2025-01-11 17:35:14,765 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:35:14,855 - INFO - No new data available.
+2025-01-11 17:35:14,856 - INFO - Calculating MACD.
+2025-01-11 17:35:14,857 - INFO - Calculating ADX.
+2025-01-11 17:35:14,864 - INFO - Indicators Calculated.
+2025-01-11 17:35:14,864 - INFO - Checking for buy signals.
+2025-01-11 17:35:14,864 - INFO - Calculating position size to trade.
+2025-01-11 17:35:14,957 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:36:14,970 - INFO - Fetching latest data...
+2025-01-11 17:36:14,971 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:36:15,062 - INFO - No new data available.
+2025-01-11 17:36:15,062 - INFO - Calculating MACD.
+2025-01-11 17:36:15,064 - INFO - Calculating ADX.
+2025-01-11 17:36:15,069 - INFO - Indicators Calculated.
+2025-01-11 17:36:15,069 - INFO - Checking for buy signals.
+2025-01-11 17:36:15,069 - INFO - Calculating position size to trade.
+2025-01-11 17:36:15,165 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:37:15,169 - INFO - Fetching latest data...
+2025-01-11 17:37:15,171 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:37:15,301 - INFO - No new data available.
+2025-01-11 17:37:15,302 - INFO - Calculating MACD.
+2025-01-11 17:37:15,303 - INFO - Calculating ADX.
+2025-01-11 17:37:15,312 - INFO - Indicators Calculated.
+2025-01-11 17:37:15,312 - INFO - Checking for buy signals.
+2025-01-11 17:37:15,312 - INFO - Calculating position size to trade.
+2025-01-11 17:37:15,453 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:38:15,466 - INFO - Fetching latest data...
+2025-01-11 17:38:15,467 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:38:16,784 - INFO - No new data available.
+2025-01-11 17:38:16,785 - INFO - Calculating MACD.
+2025-01-11 17:38:16,788 - INFO - Calculating ADX.
+2025-01-11 17:38:16,792 - INFO - Indicators Calculated.
+2025-01-11 17:38:16,792 - INFO - Checking for buy signals.
+2025-01-11 17:38:16,792 - INFO - Calculating position size to trade.
+2025-01-11 17:38:16,885 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:39:16,886 - INFO - Fetching latest data...
+2025-01-11 17:39:16,888 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:39:16,976 - INFO - No new data available.
+2025-01-11 17:39:16,977 - INFO - Calculating MACD.
+2025-01-11 17:39:16,979 - INFO - Calculating ADX.
+2025-01-11 17:39:16,984 - INFO - Indicators Calculated.
+2025-01-11 17:39:16,984 - INFO - Checking for buy signals.
+2025-01-11 17:39:16,984 - INFO - Calculating position size to trade.
+2025-01-11 17:39:17,074 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:40:17,089 - INFO - Fetching latest data...
+2025-01-11 17:40:17,089 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:40:17,185 - INFO - No new data available.
+2025-01-11 17:40:17,186 - INFO - Calculating MACD.
+2025-01-11 17:40:17,187 - INFO - Calculating ADX.
+2025-01-11 17:40:17,194 - INFO - Indicators Calculated.
+2025-01-11 17:40:17,194 - INFO - Checking for buy signals.
+2025-01-11 17:40:17,194 - INFO - Calculating position size to trade.
+2025-01-11 17:40:17,287 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:41:17,301 - INFO - Fetching latest data...
+2025-01-11 17:41:17,301 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:41:17,392 - INFO - No new data available.
+2025-01-11 17:41:17,393 - INFO - Calculating MACD.
+2025-01-11 17:41:17,394 - INFO - Calculating ADX.
+2025-01-11 17:41:17,403 - INFO - Indicators Calculated.
+2025-01-11 17:41:17,403 - INFO - Checking for buy signals.
+2025-01-11 17:41:17,403 - INFO - Calculating position size to trade.
+2025-01-11 17:41:17,514 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:42:17,523 - INFO - Fetching latest data...
+2025-01-11 17:42:17,525 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:42:17,616 - INFO - No new data available.
+2025-01-11 17:42:17,616 - INFO - Calculating MACD.
+2025-01-11 17:42:17,617 - INFO - Calculating ADX.
+2025-01-11 17:42:17,622 - INFO - Indicators Calculated.
+2025-01-11 17:42:17,622 - INFO - Checking for buy signals.
+2025-01-11 17:42:17,622 - INFO - Calculating position size to trade.
+2025-01-11 17:42:17,720 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:43:17,728 - INFO - Fetching latest data...
+2025-01-11 17:43:17,729 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:43:17,831 - INFO - No new data available.
+2025-01-11 17:43:17,832 - INFO - Calculating MACD.
+2025-01-11 17:43:17,832 - INFO - Calculating ADX.
+2025-01-11 17:43:17,836 - INFO - Indicators Calculated.
+2025-01-11 17:43:17,836 - INFO - Checking for buy signals.
+2025-01-11 17:43:17,836 - INFO - Calculating position size to trade.
+2025-01-11 17:43:17,930 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:44:17,943 - INFO - Fetching latest data...
+2025-01-11 17:44:17,944 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:44:18,036 - INFO - No new data available.
+2025-01-11 17:44:18,036 - INFO - Calculating MACD.
+2025-01-11 17:44:18,037 - INFO - Calculating ADX.
+2025-01-11 17:44:18,040 - INFO - Indicators Calculated.
+2025-01-11 17:44:18,040 - INFO - Checking for buy signals.
+2025-01-11 17:44:18,040 - INFO - Calculating position size to trade.
+2025-01-11 17:44:18,132 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:45:18,138 - INFO - Fetching latest data...
+2025-01-11 17:45:18,140 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:45:18,231 - INFO - No new data available.
+2025-01-11 17:45:18,231 - INFO - Calculating MACD.
+2025-01-11 17:45:18,233 - INFO - Calculating ADX.
+2025-01-11 17:45:18,237 - INFO - Indicators Calculated.
+2025-01-11 17:45:18,237 - INFO - Checking for buy signals.
+2025-01-11 17:45:18,237 - INFO - Calculating position size to trade.
+2025-01-11 17:45:18,330 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:46:18,333 - INFO - Fetching latest data...
+2025-01-11 17:46:18,334 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:46:18,432 - INFO - No new data available.
+2025-01-11 17:46:18,433 - INFO - Calculating MACD.
+2025-01-11 17:46:18,435 - INFO - Calculating ADX.
+2025-01-11 17:46:18,439 - INFO - Indicators Calculated.
+2025-01-11 17:46:18,439 - INFO - Checking for buy signals.
+2025-01-11 17:46:18,439 - INFO - Calculating position size to trade.
+2025-01-11 17:46:18,537 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:47:18,547 - INFO - Fetching latest data...
+2025-01-11 17:47:18,548 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:47:18,642 - INFO - No new data available.
+2025-01-11 17:47:18,642 - INFO - Calculating MACD.
+2025-01-11 17:47:18,643 - INFO - Calculating ADX.
+2025-01-11 17:47:18,648 - INFO - Indicators Calculated.
+2025-01-11 17:47:18,648 - INFO - Checking for buy signals.
+2025-01-11 17:47:18,649 - INFO - Calculating position size to trade.
+2025-01-11 17:47:18,738 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:48:18,743 - INFO - Fetching latest data...
+2025-01-11 17:48:18,745 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:48:18,839 - INFO - No new data available.
+2025-01-11 17:48:18,839 - INFO - Calculating MACD.
+2025-01-11 17:48:18,840 - INFO - Calculating ADX.
+2025-01-11 17:48:18,845 - INFO - Indicators Calculated.
+2025-01-11 17:48:18,845 - INFO - Checking for buy signals.
+2025-01-11 17:48:18,845 - INFO - Calculating position size to trade.
+2025-01-11 17:48:18,938 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:49:18,947 - INFO - Fetching latest data...
+2025-01-11 17:49:18,949 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:49:19,042 - INFO - No new data available.
+2025-01-11 17:49:19,042 - INFO - Calculating MACD.
+2025-01-11 17:49:19,043 - INFO - Calculating ADX.
+2025-01-11 17:49:19,046 - INFO - Indicators Calculated.
+2025-01-11 17:49:19,046 - INFO - Checking for buy signals.
+2025-01-11 17:49:19,046 - INFO - Calculating position size to trade.
+2025-01-11 17:49:19,137 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:50:19,144 - INFO - Fetching latest data...
+2025-01-11 17:50:19,144 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:50:19,242 - INFO - No new data available.
+2025-01-11 17:50:19,242 - INFO - Calculating MACD.
+2025-01-11 17:50:19,243 - INFO - Calculating ADX.
+2025-01-11 17:50:19,247 - INFO - Indicators Calculated.
+2025-01-11 17:50:19,248 - INFO - Checking for buy signals.
+2025-01-11 17:50:19,248 - INFO - Calculating position size to trade.
+2025-01-11 17:50:19,342 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:51:19,349 - INFO - Fetching latest data...
+2025-01-11 17:51:19,350 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:51:19,442 - INFO - No new data available.
+2025-01-11 17:51:19,442 - INFO - Calculating MACD.
+2025-01-11 17:51:19,444 - INFO - Calculating ADX.
+2025-01-11 17:51:19,451 - INFO - Indicators Calculated.
+2025-01-11 17:51:19,451 - INFO - Checking for buy signals.
+2025-01-11 17:51:19,451 - INFO - Calculating position size to trade.
+2025-01-11 17:51:19,548 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:52:19,560 - INFO - Fetching latest data...
+2025-01-11 17:52:19,560 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:52:19,781 - INFO - No new data available.
+2025-01-11 17:52:19,781 - INFO - Calculating MACD.
+2025-01-11 17:52:19,783 - INFO - Calculating ADX.
+2025-01-11 17:52:19,787 - INFO - Indicators Calculated.
+2025-01-11 17:52:19,787 - INFO - Checking for buy signals.
+2025-01-11 17:52:19,788 - INFO - Calculating position size to trade.
+2025-01-11 17:52:19,884 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:53:19,887 - INFO - Fetching latest data...
+2025-01-11 17:53:19,889 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:53:19,983 - INFO - No new data available.
+2025-01-11 17:53:19,983 - INFO - Calculating MACD.
+2025-01-11 17:53:19,984 - INFO - Calculating ADX.
+2025-01-11 17:53:19,991 - INFO - Indicators Calculated.
+2025-01-11 17:53:19,991 - INFO - Checking for buy signals.
+2025-01-11 17:53:19,992 - INFO - Calculating position size to trade.
+2025-01-11 17:53:20,103 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:54:20,115 - INFO - Fetching latest data...
+2025-01-11 17:54:20,117 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:54:20,210 - INFO - No new data available.
+2025-01-11 17:54:20,210 - INFO - Calculating MACD.
+2025-01-11 17:54:20,211 - INFO - Calculating ADX.
+2025-01-11 17:54:20,218 - INFO - Indicators Calculated.
+2025-01-11 17:54:20,218 - INFO - Checking for buy signals.
+2025-01-11 17:54:20,218 - INFO - Calculating position size to trade.
+2025-01-11 17:54:20,314 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:55:20,327 - INFO - Fetching latest data...
+2025-01-11 17:55:20,328 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:55:20,414 - INFO - No new data available.
+2025-01-11 17:55:20,414 - INFO - Calculating MACD.
+2025-01-11 17:55:20,415 - INFO - Calculating ADX.
+2025-01-11 17:55:20,418 - INFO - Indicators Calculated.
+2025-01-11 17:55:20,418 - INFO - Checking for buy signals.
+2025-01-11 17:55:20,418 - INFO - Calculating position size to trade.
+2025-01-11 17:55:20,512 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:56:20,516 - INFO - Fetching latest data...
+2025-01-11 17:56:20,518 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:56:20,607 - INFO - No new data available.
+2025-01-11 17:56:20,607 - INFO - Calculating MACD.
+2025-01-11 17:56:20,607 - INFO - Calculating ADX.
+2025-01-11 17:56:20,610 - INFO - Indicators Calculated.
+2025-01-11 17:56:20,610 - INFO - Checking for buy signals.
+2025-01-11 17:56:20,610 - INFO - Calculating position size to trade.
+2025-01-11 17:56:20,699 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:57:20,709 - INFO - Fetching latest data...
+2025-01-11 17:57:20,709 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:57:20,799 - INFO - No new data available.
+2025-01-11 17:57:20,800 - INFO - Calculating MACD.
+2025-01-11 17:57:20,800 - INFO - Calculating ADX.
+2025-01-11 17:57:20,803 - INFO - Indicators Calculated.
+2025-01-11 17:57:20,803 - INFO - Checking for buy signals.
+2025-01-11 17:57:20,803 - INFO - Calculating position size to trade.
+2025-01-11 17:57:20,911 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:58:20,912 - INFO - Fetching latest data...
+2025-01-11 17:58:20,913 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:58:21,003 - INFO - No new data available.
+2025-01-11 17:58:21,003 - INFO - Calculating MACD.
+2025-01-11 17:58:21,003 - INFO - Calculating ADX.
+2025-01-11 17:58:21,006 - INFO - Indicators Calculated.
+2025-01-11 17:58:21,006 - INFO - Checking for buy signals.
+2025-01-11 17:58:21,006 - INFO - Calculating position size to trade.
+2025-01-11 17:58:21,103 - INFO - Sleeping for 60 seconds.
+2025-01-11 17:59:21,114 - INFO - Fetching latest data...
+2025-01-11 17:59:21,115 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:59:21,213 - INFO - No new data available.
+2025-01-11 17:59:21,214 - INFO - Calculating MACD.
+2025-01-11 17:59:21,215 - INFO - Calculating ADX.
+2025-01-11 17:59:21,217 - INFO - Indicators Calculated.
+2025-01-11 17:59:21,217 - INFO - Checking for buy signals.
+2025-01-11 17:59:21,217 - INFO - Calculating position size to trade.
+2025-01-11 17:59:21,313 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:00:21,326 - INFO - Fetching latest data...
+2025-01-11 18:00:21,327 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:00:21,428 - INFO - No new data available.
+2025-01-11 18:00:21,428 - INFO - Calculating MACD.
+2025-01-11 18:00:21,429 - INFO - Calculating ADX.
+2025-01-11 18:00:21,431 - INFO - Indicators Calculated.
+2025-01-11 18:00:21,431 - INFO - Checking for buy signals.
+2025-01-11 18:00:21,431 - INFO - Calculating position size to trade.
+2025-01-11 18:00:21,524 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:01:21,539 - INFO - Fetching latest data...
+2025-01-11 18:01:21,540 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:01:21,636 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 18:01:21,640 - INFO - Latest data added.
+2025-01-11 18:01:21,640 - INFO - Calculating MACD.
+2025-01-11 18:01:21,640 - INFO - Calculating ADX.
+2025-01-11 18:01:21,643 - INFO - Indicators Calculated.
+2025-01-11 18:01:21,643 - INFO - Checking for buy signals.
+2025-01-11 18:01:21,643 - INFO - Calculating position size to trade.
+2025-01-11 18:01:21,735 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:02:21,750 - INFO - Fetching latest data...
+2025-01-11 18:02:21,751 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:02:21,899 - INFO - No new data available.
+2025-01-11 18:02:21,899 - INFO - Calculating MACD.
+2025-01-11 18:02:21,900 - INFO - Calculating ADX.
+2025-01-11 18:02:21,902 - INFO - Indicators Calculated.
+2025-01-11 18:02:21,902 - INFO - Checking for buy signals.
+2025-01-11 18:02:21,902 - INFO - Calculating position size to trade.
+2025-01-11 18:02:22,000 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:03:22,001 - INFO - Fetching latest data...
+2025-01-11 18:03:22,002 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:03:22,095 - INFO - No new data available.
+2025-01-11 18:03:22,096 - INFO - Calculating MACD.
+2025-01-11 18:03:22,096 - INFO - Calculating ADX.
+2025-01-11 18:03:22,099 - INFO - Indicators Calculated.
+2025-01-11 18:03:22,099 - INFO - Checking for buy signals.
+2025-01-11 18:03:22,099 - INFO - Calculating position size to trade.
+2025-01-11 18:03:22,197 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:04:22,213 - INFO - Fetching latest data...
+2025-01-11 18:04:22,214 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:04:22,306 - INFO - No new data available.
+2025-01-11 18:04:22,307 - INFO - Calculating MACD.
+2025-01-11 18:04:22,307 - INFO - Calculating ADX.
+2025-01-11 18:04:22,310 - INFO - Indicators Calculated.
+2025-01-11 18:04:22,310 - INFO - Checking for buy signals.
+2025-01-11 18:04:22,310 - INFO - Calculating position size to trade.
+2025-01-11 18:04:22,418 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:05:22,427 - INFO - Fetching latest data...
+2025-01-11 18:05:22,428 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:05:22,531 - INFO - No new data available.
+2025-01-11 18:05:22,531 - INFO - Calculating MACD.
+2025-01-11 18:05:22,532 - INFO - Calculating ADX.
+2025-01-11 18:05:22,534 - INFO - Indicators Calculated.
+2025-01-11 18:05:22,534 - INFO - Checking for buy signals.
+2025-01-11 18:05:22,535 - INFO - Calculating position size to trade.
+2025-01-11 18:05:22,644 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:06:22,659 - INFO - Fetching latest data...
+2025-01-11 18:06:22,660 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:06:22,750 - INFO - No new data available.
+2025-01-11 18:06:22,750 - INFO - Calculating MACD.
+2025-01-11 18:06:22,751 - INFO - Calculating ADX.
+2025-01-11 18:06:22,753 - INFO - Indicators Calculated.
+2025-01-11 18:06:22,753 - INFO - Checking for buy signals.
+2025-01-11 18:06:22,753 - INFO - Calculating position size to trade.
+2025-01-11 18:06:22,845 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:07:22,858 - INFO - Fetching latest data...
+2025-01-11 18:07:22,859 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:07:22,997 - INFO - No new data available.
+2025-01-11 18:07:22,997 - INFO - Calculating MACD.
+2025-01-11 18:07:22,998 - INFO - Calculating ADX.
+2025-01-11 18:07:23,000 - INFO - Indicators Calculated.
+2025-01-11 18:07:23,000 - INFO - Checking for buy signals.
+2025-01-11 18:07:23,000 - INFO - Calculating position size to trade.
+2025-01-11 18:07:23,102 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:08:23,109 - INFO - Fetching latest data...
+2025-01-11 18:08:23,110 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:08:23,198 - INFO - No new data available.
+2025-01-11 18:08:23,198 - INFO - Calculating MACD.
+2025-01-11 18:08:23,199 - INFO - Calculating ADX.
+2025-01-11 18:08:23,202 - INFO - Indicators Calculated.
+2025-01-11 18:08:23,202 - INFO - Checking for buy signals.
+2025-01-11 18:08:23,202 - INFO - Calculating position size to trade.
+2025-01-11 18:08:23,297 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:09:23,305 - INFO - Fetching latest data...
+2025-01-11 18:09:23,306 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:09:23,396 - INFO - No new data available.
+2025-01-11 18:09:23,396 - INFO - Calculating MACD.
+2025-01-11 18:09:23,397 - INFO - Calculating ADX.
+2025-01-11 18:09:23,400 - INFO - Indicators Calculated.
+2025-01-11 18:09:23,400 - INFO - Checking for buy signals.
+2025-01-11 18:09:23,400 - INFO - Calculating position size to trade.
+2025-01-11 18:09:23,495 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:10:23,507 - INFO - Fetching latest data...
+2025-01-11 18:10:23,508 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:10:23,598 - INFO - No new data available.
+2025-01-11 18:10:23,599 - INFO - Calculating MACD.
+2025-01-11 18:10:23,599 - INFO - Calculating ADX.
+2025-01-11 18:10:23,603 - INFO - Indicators Calculated.
+2025-01-11 18:10:23,603 - INFO - Checking for buy signals.
+2025-01-11 18:10:23,603 - INFO - Calculating position size to trade.
+2025-01-11 18:10:23,696 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:11:23,710 - INFO - Fetching latest data...
+2025-01-11 18:11:23,711 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:11:23,807 - INFO - No new data available.
+2025-01-11 18:11:23,807 - INFO - Calculating MACD.
+2025-01-11 18:11:23,808 - INFO - Calculating ADX.
+2025-01-11 18:11:23,810 - INFO - Indicators Calculated.
+2025-01-11 18:11:23,810 - INFO - Checking for buy signals.
+2025-01-11 18:11:23,810 - INFO - Calculating position size to trade.
+2025-01-11 18:11:23,933 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:12:23,937 - INFO - Fetching latest data...
+2025-01-11 18:12:23,938 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:12:24,032 - INFO - No new data available.
+2025-01-11 18:12:24,032 - INFO - Calculating MACD.
+2025-01-11 18:12:24,033 - INFO - Calculating ADX.
+2025-01-11 18:12:24,036 - INFO - Indicators Calculated.
+2025-01-11 18:12:24,036 - INFO - Checking for buy signals.
+2025-01-11 18:12:24,036 - INFO - Calculating position size to trade.
+2025-01-11 18:12:24,130 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:13:24,135 - INFO - Fetching latest data...
+2025-01-11 18:13:24,136 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:13:24,232 - INFO - No new data available.
+2025-01-11 18:13:24,232 - INFO - Calculating MACD.
+2025-01-11 18:13:24,233 - INFO - Calculating ADX.
+2025-01-11 18:13:24,238 - INFO - Indicators Calculated.
+2025-01-11 18:13:24,238 - INFO - Checking for buy signals.
+2025-01-11 18:13:24,238 - INFO - Calculating position size to trade.
+2025-01-11 18:13:24,331 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:14:24,334 - INFO - Fetching latest data...
+2025-01-11 18:14:24,335 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:14:24,427 - INFO - No new data available.
+2025-01-11 18:14:24,427 - INFO - Calculating MACD.
+2025-01-11 18:14:24,428 - INFO - Calculating ADX.
+2025-01-11 18:14:24,433 - INFO - Indicators Calculated.
+2025-01-11 18:14:24,433 - INFO - Checking for buy signals.
+2025-01-11 18:14:24,433 - INFO - Calculating position size to trade.
+2025-01-11 18:14:24,528 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:15:24,537 - INFO - Fetching latest data...
+2025-01-11 18:15:24,538 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:15:24,638 - INFO - No new data available.
+2025-01-11 18:15:24,638 - INFO - Calculating MACD.
+2025-01-11 18:15:24,639 - INFO - Calculating ADX.
+2025-01-11 18:15:24,644 - INFO - Indicators Calculated.
+2025-01-11 18:15:24,644 - INFO - Checking for buy signals.
+2025-01-11 18:15:24,644 - INFO - Calculating position size to trade.
+2025-01-11 18:15:24,740 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:16:24,746 - INFO - Fetching latest data...
+2025-01-11 18:16:24,747 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:16:24,835 - INFO - No new data available.
+2025-01-11 18:16:24,836 - INFO - Calculating MACD.
+2025-01-11 18:16:24,837 - INFO - Calculating ADX.
+2025-01-11 18:16:24,844 - INFO - Indicators Calculated.
+2025-01-11 18:16:24,844 - INFO - Checking for buy signals.
+2025-01-11 18:16:24,845 - INFO - Calculating position size to trade.
+2025-01-11 18:16:24,936 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:17:24,944 - INFO - Fetching latest data...
+2025-01-11 18:17:24,944 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:17:25,049 - INFO - No new data available.
+2025-01-11 18:17:25,049 - INFO - Calculating MACD.
+2025-01-11 18:17:25,050 - INFO - Calculating ADX.
+2025-01-11 18:17:25,053 - INFO - Indicators Calculated.
+2025-01-11 18:17:25,053 - INFO - Checking for buy signals.
+2025-01-11 18:17:25,053 - INFO - Calculating position size to trade.
+2025-01-11 18:17:25,148 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:18:25,153 - INFO - Fetching latest data...
+2025-01-11 18:18:25,153 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:18:25,242 - INFO - No new data available.
+2025-01-11 18:18:25,242 - INFO - Calculating MACD.
+2025-01-11 18:18:25,244 - INFO - Calculating ADX.
+2025-01-11 18:18:25,249 - INFO - Indicators Calculated.
+2025-01-11 18:18:25,249 - INFO - Checking for buy signals.
+2025-01-11 18:18:25,249 - INFO - Calculating position size to trade.
+2025-01-11 18:18:25,342 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:19:25,354 - INFO - Fetching latest data...
+2025-01-11 18:19:25,356 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:19:25,448 - INFO - No new data available.
+2025-01-11 18:19:25,448 - INFO - Calculating MACD.
+2025-01-11 18:19:25,449 - INFO - Calculating ADX.
+2025-01-11 18:19:25,456 - INFO - Indicators Calculated.
+2025-01-11 18:19:25,456 - INFO - Checking for buy signals.
+2025-01-11 18:19:25,456 - INFO - Calculating position size to trade.
+2025-01-11 18:19:25,551 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:20:25,564 - INFO - Fetching latest data...
+2025-01-11 18:20:25,564 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:20:25,658 - INFO - No new data available.
+2025-01-11 18:20:25,659 - INFO - Calculating MACD.
+2025-01-11 18:20:25,661 - INFO - Calculating ADX.
+2025-01-11 18:20:25,666 - INFO - Indicators Calculated.
+2025-01-11 18:20:25,666 - INFO - Checking for buy signals.
+2025-01-11 18:20:25,666 - INFO - Calculating position size to trade.
+2025-01-11 18:20:25,759 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:21:25,768 - INFO - Fetching latest data...
+2025-01-11 18:21:25,769 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:21:25,863 - INFO - No new data available.
+2025-01-11 18:21:25,863 - INFO - Calculating MACD.
+2025-01-11 18:21:25,864 - INFO - Calculating ADX.
+2025-01-11 18:21:25,870 - INFO - Indicators Calculated.
+2025-01-11 18:21:25,870 - INFO - Checking for buy signals.
+2025-01-11 18:21:25,870 - INFO - Calculating position size to trade.
+2025-01-11 18:21:25,970 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:22:25,975 - INFO - Fetching latest data...
+2025-01-11 18:22:25,976 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:22:26,088 - INFO - No new data available.
+2025-01-11 18:22:26,088 - INFO - Calculating MACD.
+2025-01-11 18:22:26,090 - INFO - Calculating ADX.
+2025-01-11 18:22:26,096 - INFO - Indicators Calculated.
+2025-01-11 18:22:26,097 - INFO - Checking for buy signals.
+2025-01-11 18:22:26,097 - INFO - Calculating position size to trade.
+2025-01-11 18:22:26,194 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:23:26,201 - INFO - Fetching latest data...
+2025-01-11 18:23:26,202 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:23:26,294 - INFO - No new data available.
+2025-01-11 18:23:26,294 - INFO - Calculating MACD.
+2025-01-11 18:23:26,296 - INFO - Calculating ADX.
+2025-01-11 18:23:26,302 - INFO - Indicators Calculated.
+2025-01-11 18:23:26,303 - INFO - Checking for buy signals.
+2025-01-11 18:23:26,303 - INFO - Calculating position size to trade.
+2025-01-11 18:23:26,418 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:24:26,434 - INFO - Fetching latest data...
+2025-01-11 18:24:26,435 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:24:26,579 - INFO - No new data available.
+2025-01-11 18:24:26,580 - INFO - Calculating MACD.
+2025-01-11 18:24:26,582 - INFO - Calculating ADX.
+2025-01-11 18:24:26,587 - INFO - Indicators Calculated.
+2025-01-11 18:24:26,587 - INFO - Checking for buy signals.
+2025-01-11 18:24:26,587 - INFO - Calculating position size to trade.
+2025-01-11 18:24:26,719 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:25:26,730 - INFO - Fetching latest data...
+2025-01-11 18:25:26,731 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:25:26,822 - INFO - No new data available.
+2025-01-11 18:25:26,823 - INFO - Calculating MACD.
+2025-01-11 18:25:26,825 - INFO - Calculating ADX.
+2025-01-11 18:25:26,831 - INFO - Indicators Calculated.
+2025-01-11 18:25:26,831 - INFO - Checking for buy signals.
+2025-01-11 18:25:26,831 - INFO - Calculating position size to trade.
+2025-01-11 18:25:26,924 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:26:26,930 - INFO - Fetching latest data...
+2025-01-11 18:26:26,932 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:26:27,024 - INFO - No new data available.
+2025-01-11 18:26:27,024 - INFO - Calculating MACD.
+2025-01-11 18:26:27,027 - INFO - Calculating ADX.
+2025-01-11 18:26:27,033 - INFO - Indicators Calculated.
+2025-01-11 18:26:27,034 - INFO - Checking for buy signals.
+2025-01-11 18:26:27,034 - INFO - Calculating position size to trade.
+2025-01-11 18:26:27,132 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:27:27,136 - INFO - Fetching latest data...
+2025-01-11 18:27:27,137 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:27:27,231 - INFO - No new data available.
+2025-01-11 18:27:27,232 - INFO - Calculating MACD.
+2025-01-11 18:27:27,233 - INFO - Calculating ADX.
+2025-01-11 18:27:27,240 - INFO - Indicators Calculated.
+2025-01-11 18:27:27,241 - INFO - Checking for buy signals.
+2025-01-11 18:27:27,241 - INFO - Calculating position size to trade.
+2025-01-11 18:27:27,331 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:28:27,337 - INFO - Fetching latest data...
+2025-01-11 18:28:27,338 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:28:27,438 - INFO - No new data available.
+2025-01-11 18:28:27,438 - INFO - Calculating MACD.
+2025-01-11 18:28:27,440 - INFO - Calculating ADX.
+2025-01-11 18:28:27,447 - INFO - Indicators Calculated.
+2025-01-11 18:28:27,447 - INFO - Checking for buy signals.
+2025-01-11 18:28:27,448 - INFO - Calculating position size to trade.
+2025-01-11 18:28:27,540 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:29:27,554 - INFO - Fetching latest data...
+2025-01-11 18:29:27,555 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:29:27,650 - INFO - No new data available.
+2025-01-11 18:29:27,651 - INFO - Calculating MACD.
+2025-01-11 18:29:27,652 - INFO - Calculating ADX.
+2025-01-11 18:29:27,658 - INFO - Indicators Calculated.
+2025-01-11 18:29:27,658 - INFO - Checking for buy signals.
+2025-01-11 18:29:27,658 - INFO - Calculating position size to trade.
+2025-01-11 18:29:27,765 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:30:27,775 - INFO - Fetching latest data...
+2025-01-11 18:30:27,776 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:30:28,092 - INFO - No new data available.
+2025-01-11 18:30:28,093 - INFO - Calculating MACD.
+2025-01-11 18:30:28,094 - INFO - Calculating ADX.
+2025-01-11 18:30:28,098 - INFO - Indicators Calculated.
+2025-01-11 18:30:28,098 - INFO - Checking for buy signals.
+2025-01-11 18:30:28,098 - INFO - Calculating position size to trade.
+2025-01-11 18:30:28,380 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:31:28,396 - INFO - Fetching latest data...
+2025-01-11 18:31:28,397 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:31:28,494 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 18:31:28,505 - INFO - Latest data added.
+2025-01-11 18:31:28,506 - INFO - Calculating MACD.
+2025-01-11 18:31:28,506 - INFO - Calculating ADX.
+2025-01-11 18:31:28,510 - INFO - Indicators Calculated.
+2025-01-11 18:31:28,510 - INFO - Checking for buy signals.
+2025-01-11 18:31:28,510 - INFO - Calculating position size to trade.
+2025-01-11 18:31:28,603 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:32:28,619 - INFO - Fetching latest data...
+2025-01-11 18:32:28,621 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:32:28,714 - INFO - No new data available.
+2025-01-11 18:32:28,714 - INFO - Calculating MACD.
+2025-01-11 18:32:28,715 - INFO - Calculating ADX.
+2025-01-11 18:32:28,720 - INFO - Indicators Calculated.
+2025-01-11 18:32:28,720 - INFO - Checking for buy signals.
+2025-01-11 18:32:28,720 - INFO - Calculating position size to trade.
+2025-01-11 18:32:28,810 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:33:28,811 - INFO - Fetching latest data...
+2025-01-11 18:33:28,813 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:33:28,905 - INFO - No new data available.
+2025-01-11 18:33:28,905 - INFO - Calculating MACD.
+2025-01-11 18:33:28,906 - INFO - Calculating ADX.
+2025-01-11 18:33:28,911 - INFO - Indicators Calculated.
+2025-01-11 18:33:28,911 - INFO - Checking for buy signals.
+2025-01-11 18:33:28,911 - INFO - Calculating position size to trade.
+2025-01-11 18:33:29,003 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:34:29,007 - INFO - Fetching latest data...
+2025-01-11 18:34:29,008 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:34:29,103 - INFO - No new data available.
+2025-01-11 18:34:29,103 - INFO - Calculating MACD.
+2025-01-11 18:34:29,104 - INFO - Calculating ADX.
+2025-01-11 18:34:29,110 - INFO - Indicators Calculated.
+2025-01-11 18:34:29,110 - INFO - Checking for buy signals.
+2025-01-11 18:34:29,110 - INFO - Calculating position size to trade.
+2025-01-11 18:34:29,207 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:35:29,207 - INFO - Fetching latest data...
+2025-01-11 18:35:29,208 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:35:29,298 - INFO - No new data available.
+2025-01-11 18:35:29,298 - INFO - Calculating MACD.
+2025-01-11 18:35:29,300 - INFO - Calculating ADX.
+2025-01-11 18:35:29,307 - INFO - Indicators Calculated.
+2025-01-11 18:35:29,307 - INFO - Checking for buy signals.
+2025-01-11 18:35:29,307 - INFO - Calculating position size to trade.
+2025-01-11 18:35:29,400 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:36:29,414 - INFO - Fetching latest data...
+2025-01-11 18:36:29,416 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:36:29,526 - INFO - No new data available.
+2025-01-11 18:36:29,527 - INFO - Calculating MACD.
+2025-01-11 18:36:29,528 - INFO - Calculating ADX.
+2025-01-11 18:36:29,533 - INFO - Indicators Calculated.
+2025-01-11 18:36:29,533 - INFO - Checking for buy signals.
+2025-01-11 18:36:29,533 - INFO - Calculating position size to trade.
+2025-01-11 18:36:29,626 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:37:29,631 - INFO - Fetching latest data...
+2025-01-11 18:37:29,631 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:37:29,727 - INFO - No new data available.
+2025-01-11 18:37:29,728 - INFO - Calculating MACD.
+2025-01-11 18:37:29,730 - INFO - Calculating ADX.
+2025-01-11 18:37:29,738 - INFO - Indicators Calculated.
+2025-01-11 18:37:29,739 - INFO - Checking for buy signals.
+2025-01-11 18:37:29,739 - INFO - Calculating position size to trade.
+2025-01-11 18:37:29,858 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:38:29,866 - INFO - Fetching latest data...
+2025-01-11 18:38:29,867 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:38:29,968 - INFO - No new data available.
+2025-01-11 18:38:29,968 - INFO - Calculating MACD.
+2025-01-11 18:38:29,970 - INFO - Calculating ADX.
+2025-01-11 18:38:29,977 - INFO - Indicators Calculated.
+2025-01-11 18:38:29,977 - INFO - Checking for buy signals.
+2025-01-11 18:38:29,977 - INFO - Calculating position size to trade.
+2025-01-11 18:38:30,069 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:39:30,071 - INFO - Fetching latest data...
+2025-01-11 18:39:30,072 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:39:30,166 - INFO - No new data available.
+2025-01-11 18:39:30,166 - INFO - Calculating MACD.
+2025-01-11 18:39:30,167 - INFO - Calculating ADX.
+2025-01-11 18:39:30,172 - INFO - Indicators Calculated.
+2025-01-11 18:39:30,174 - INFO - Checking for buy signals.
+2025-01-11 18:39:30,174 - INFO - Calculating position size to trade.
+2025-01-11 18:39:30,264 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:40:30,274 - INFO - Fetching latest data...
+2025-01-11 18:40:30,275 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:40:30,369 - INFO - No new data available.
+2025-01-11 18:40:30,369 - INFO - Calculating MACD.
+2025-01-11 18:40:30,370 - INFO - Calculating ADX.
+2025-01-11 18:40:30,374 - INFO - Indicators Calculated.
+2025-01-11 18:40:30,374 - INFO - Checking for buy signals.
+2025-01-11 18:40:30,374 - INFO - Calculating position size to trade.
+2025-01-11 18:40:30,470 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:41:30,477 - INFO - Fetching latest data...
+2025-01-11 18:41:30,478 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:41:30,572 - INFO - No new data available.
+2025-01-11 18:41:30,572 - INFO - Calculating MACD.
+2025-01-11 18:41:30,574 - INFO - Calculating ADX.
+2025-01-11 18:41:30,581 - INFO - Indicators Calculated.
+2025-01-11 18:41:30,581 - INFO - Checking for buy signals.
+2025-01-11 18:41:30,582 - INFO - Calculating position size to trade.
+2025-01-11 18:41:30,677 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:42:30,678 - INFO - Fetching latest data...
+2025-01-11 18:42:30,680 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:42:30,780 - INFO - No new data available.
+2025-01-11 18:42:30,781 - INFO - Calculating MACD.
+2025-01-11 18:42:30,782 - INFO - Calculating ADX.
+2025-01-11 18:42:30,789 - INFO - Indicators Calculated.
+2025-01-11 18:42:30,789 - INFO - Checking for buy signals.
+2025-01-11 18:42:30,789 - INFO - Calculating position size to trade.
+2025-01-11 18:42:30,881 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:43:30,894 - INFO - Fetching latest data...
+2025-01-11 18:43:30,895 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:43:30,995 - INFO - No new data available.
+2025-01-11 18:43:30,996 - INFO - Calculating MACD.
+2025-01-11 18:43:30,998 - INFO - Calculating ADX.
+2025-01-11 18:43:31,004 - INFO - Indicators Calculated.
+2025-01-11 18:43:31,004 - INFO - Checking for buy signals.
+2025-01-11 18:43:31,004 - INFO - Calculating position size to trade.
+2025-01-11 18:43:31,102 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:44:31,115 - INFO - Fetching latest data...
+2025-01-11 18:44:31,117 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:44:31,216 - INFO - No new data available.
+2025-01-11 18:44:31,217 - INFO - Calculating MACD.
+2025-01-11 18:44:31,219 - INFO - Calculating ADX.
+2025-01-11 18:44:31,224 - INFO - Indicators Calculated.
+2025-01-11 18:44:31,224 - INFO - Checking for buy signals.
+2025-01-11 18:44:31,224 - INFO - Calculating position size to trade.
+2025-01-11 18:44:31,323 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:45:31,326 - INFO - Fetching latest data...
+2025-01-11 18:45:31,327 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:45:31,420 - INFO - No new data available.
+2025-01-11 18:45:31,420 - INFO - Calculating MACD.
+2025-01-11 18:45:31,421 - INFO - Calculating ADX.
+2025-01-11 18:45:31,427 - INFO - Indicators Calculated.
+2025-01-11 18:45:31,427 - INFO - Checking for buy signals.
+2025-01-11 18:45:31,427 - INFO - Calculating position size to trade.
+2025-01-11 18:45:31,523 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:46:31,537 - INFO - Fetching latest data...
+2025-01-11 18:46:31,538 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:46:31,638 - INFO - No new data available.
+2025-01-11 18:46:31,639 - INFO - Calculating MACD.
+2025-01-11 18:46:31,640 - INFO - Calculating ADX.
+2025-01-11 18:46:31,648 - INFO - Indicators Calculated.
+2025-01-11 18:46:31,649 - INFO - Checking for buy signals.
+2025-01-11 18:46:31,649 - INFO - Calculating position size to trade.
+2025-01-11 18:46:31,741 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:47:31,754 - INFO - Fetching latest data...
+2025-01-11 18:47:31,756 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:47:31,850 - INFO - No new data available.
+2025-01-11 18:47:31,851 - INFO - Calculating MACD.
+2025-01-11 18:47:31,853 - INFO - Calculating ADX.
+2025-01-11 18:47:31,859 - INFO - Indicators Calculated.
+2025-01-11 18:47:31,860 - INFO - Checking for buy signals.
+2025-01-11 18:47:31,860 - INFO - Calculating position size to trade.
+2025-01-11 18:47:31,951 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:48:31,958 - INFO - Fetching latest data...
+2025-01-11 18:48:31,959 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:48:32,055 - INFO - No new data available.
+2025-01-11 18:48:32,055 - INFO - Calculating MACD.
+2025-01-11 18:48:32,057 - INFO - Calculating ADX.
+2025-01-11 18:48:32,063 - INFO - Indicators Calculated.
+2025-01-11 18:48:32,063 - INFO - Checking for buy signals.
+2025-01-11 18:48:32,063 - INFO - Calculating position size to trade.
+2025-01-11 18:48:32,158 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:49:32,172 - INFO - Fetching latest data...
+2025-01-11 18:49:32,173 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:49:32,281 - INFO - No new data available.
+2025-01-11 18:49:32,281 - INFO - Calculating MACD.
+2025-01-11 18:49:32,283 - INFO - Calculating ADX.
+2025-01-11 18:49:32,290 - INFO - Indicators Calculated.
+2025-01-11 18:49:32,290 - INFO - Checking for buy signals.
+2025-01-11 18:49:32,290 - INFO - Calculating position size to trade.
+2025-01-11 18:49:32,380 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:50:32,394 - INFO - Fetching latest data...
+2025-01-11 18:50:32,394 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:50:32,484 - INFO - No new data available.
+2025-01-11 18:50:32,484 - INFO - Calculating MACD.
+2025-01-11 18:50:32,485 - INFO - Calculating ADX.
+2025-01-11 18:50:32,487 - INFO - Indicators Calculated.
+2025-01-11 18:50:32,488 - INFO - Checking for buy signals.
+2025-01-11 18:50:32,488 - INFO - Calculating position size to trade.
+2025-01-11 18:50:32,576 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:51:32,579 - INFO - Fetching latest data...
+2025-01-11 18:51:32,581 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:51:32,681 - INFO - No new data available.
+2025-01-11 18:51:32,681 - INFO - Calculating MACD.
+2025-01-11 18:51:32,682 - INFO - Calculating ADX.
+2025-01-11 18:51:32,687 - INFO - Indicators Calculated.
+2025-01-11 18:51:32,688 - INFO - Checking for buy signals.
+2025-01-11 18:51:32,688 - INFO - Calculating position size to trade.
+2025-01-11 18:51:32,791 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:52:32,794 - INFO - Fetching latest data...
+2025-01-11 18:52:32,795 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:52:32,891 - INFO - No new data available.
+2025-01-11 18:52:32,891 - INFO - Calculating MACD.
+2025-01-11 18:52:32,893 - INFO - Calculating ADX.
+2025-01-11 18:52:32,899 - INFO - Indicators Calculated.
+2025-01-11 18:52:32,899 - INFO - Checking for buy signals.
+2025-01-11 18:52:32,900 - INFO - Calculating position size to trade.
+2025-01-11 18:52:32,994 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:53:32,996 - INFO - Fetching latest data...
+2025-01-11 18:53:32,998 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:53:33,101 - INFO - No new data available.
+2025-01-11 18:53:33,101 - INFO - Calculating MACD.
+2025-01-11 18:53:33,102 - INFO - Calculating ADX.
+2025-01-11 18:53:33,107 - INFO - Indicators Calculated.
+2025-01-11 18:53:33,108 - INFO - Checking for buy signals.
+2025-01-11 18:53:33,108 - INFO - Calculating position size to trade.
+2025-01-11 18:53:33,198 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:54:33,213 - INFO - Fetching latest data...
+2025-01-11 18:54:33,214 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:54:33,310 - INFO - No new data available.
+2025-01-11 18:54:33,311 - INFO - Calculating MACD.
+2025-01-11 18:54:33,313 - INFO - Calculating ADX.
+2025-01-11 18:54:33,321 - INFO - Indicators Calculated.
+2025-01-11 18:54:33,321 - INFO - Checking for buy signals.
+2025-01-11 18:54:33,321 - INFO - Calculating position size to trade.
+2025-01-11 18:54:33,410 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:55:33,417 - INFO - Fetching latest data...
+2025-01-11 18:55:33,418 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:55:33,604 - INFO - No new data available.
+2025-01-11 18:55:33,604 - INFO - Calculating MACD.
+2025-01-11 18:55:33,605 - INFO - Calculating ADX.
+2025-01-11 18:55:33,612 - INFO - Indicators Calculated.
+2025-01-11 18:55:33,613 - INFO - Checking for buy signals.
+2025-01-11 18:55:33,613 - INFO - Calculating position size to trade.
+2025-01-11 18:55:33,740 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:56:33,754 - INFO - Fetching latest data...
+2025-01-11 18:56:33,755 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:56:33,857 - INFO - No new data available.
+2025-01-11 18:56:33,858 - INFO - Calculating MACD.
+2025-01-11 18:56:33,859 - INFO - Calculating ADX.
+2025-01-11 18:56:33,867 - INFO - Indicators Calculated.
+2025-01-11 18:56:33,868 - INFO - Checking for buy signals.
+2025-01-11 18:56:33,868 - INFO - Calculating position size to trade.
+2025-01-11 18:56:33,989 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:57:33,991 - INFO - Fetching latest data...
+2025-01-11 18:57:33,993 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:57:34,085 - INFO - No new data available.
+2025-01-11 18:57:34,085 - INFO - Calculating MACD.
+2025-01-11 18:57:34,087 - INFO - Calculating ADX.
+2025-01-11 18:57:34,094 - INFO - Indicators Calculated.
+2025-01-11 18:57:34,094 - INFO - Checking for buy signals.
+2025-01-11 18:57:34,094 - INFO - Calculating position size to trade.
+2025-01-11 18:57:34,186 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:58:34,186 - INFO - Fetching latest data...
+2025-01-11 18:58:34,187 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:58:34,281 - INFO - No new data available.
+2025-01-11 18:58:34,281 - INFO - Calculating MACD.
+2025-01-11 18:58:34,284 - INFO - Calculating ADX.
+2025-01-11 18:58:34,290 - INFO - Indicators Calculated.
+2025-01-11 18:58:34,291 - INFO - Checking for buy signals.
+2025-01-11 18:58:34,291 - INFO - Calculating position size to trade.
+2025-01-11 18:58:34,381 - INFO - Sleeping for 60 seconds.
+2025-01-11 18:59:34,384 - INFO - Fetching latest data...
+2025-01-11 18:59:34,385 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:59:34,469 - INFO - No new data available.
+2025-01-11 18:59:34,469 - INFO - Calculating MACD.
+2025-01-11 18:59:34,481 - INFO - Calculating ADX.
+2025-01-11 18:59:34,485 - INFO - Indicators Calculated.
+2025-01-11 18:59:34,485 - INFO - Checking for buy signals.
+2025-01-11 18:59:34,485 - INFO - Calculating position size to trade.
+2025-01-11 18:59:34,568 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:00:34,575 - INFO - Fetching latest data...
+2025-01-11 19:00:34,578 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:00:34,675 - INFO - No new data available.
+2025-01-11 19:00:34,675 - INFO - Calculating MACD.
+2025-01-11 19:00:34,678 - INFO - Calculating ADX.
+2025-01-11 19:00:34,686 - INFO - Indicators Calculated.
+2025-01-11 19:00:34,686 - INFO - Checking for buy signals.
+2025-01-11 19:00:34,686 - INFO - Calculating position size to trade.
+2025-01-11 19:00:34,778 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:01:34,787 - INFO - Fetching latest data...
+2025-01-11 19:01:34,789 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:01:34,891 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 19:01:34,901 - INFO - Latest data added.
+2025-01-11 19:01:34,901 - INFO - Calculating MACD.
+2025-01-11 19:01:34,902 - INFO - Calculating ADX.
+2025-01-11 19:01:34,907 - INFO - Indicators Calculated.
+2025-01-11 19:01:34,907 - INFO - Checking for buy signals.
+2025-01-11 19:01:34,907 - INFO - Calculating position size to trade.
+2025-01-11 19:01:34,999 - INFO - Buy signal detected.
+2025-01-11 19:01:35,000 - INFO - Attempting to execute trade.
+2025-01-11 19:01:35,001 - INFO - Executing buy order of size 45.49073126350506.
+2025-01-11 19:01:35,130 - INFO - Submitted buy order with size 45.49073126350506.
+2025-01-11 19:01:35,131 - INFO - Verifying if order has been executed.
+2025-01-11 19:01:35,233 - INFO - Open position found.
+2025-01-11 19:01:35,234 - INFO - Setting stop loss and take profit levels.
+2025-01-11 19:01:35,234 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:02:35,247 - INFO - Fetching latest data...
+2025-01-11 19:02:35,249 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:02:35,350 - INFO - No new data available.
+2025-01-11 19:02:35,350 - INFO - Calculating MACD.
+2025-01-11 19:02:35,350 - INFO - Calculating ADX.
+2025-01-11 19:02:35,350 - INFO - Indicators Calculated.
+2025-01-11 19:02:35,350 - INFO - Managing existing position.
+2025-01-11 19:02:35,350 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:02:35,350 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:02:35,350 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:03:35,360 - INFO - Fetching latest data...
+2025-01-11 19:03:35,360 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:03:35,479 - INFO - No new data available.
+2025-01-11 19:03:35,479 - INFO - Calculating MACD.
+2025-01-11 19:03:35,479 - INFO - Calculating ADX.
+2025-01-11 19:03:35,479 - INFO - Indicators Calculated.
+2025-01-11 19:03:35,479 - INFO - Managing existing position.
+2025-01-11 19:03:35,479 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:03:35,479 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:03:35,479 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:04:35,488 - INFO - Fetching latest data...
+2025-01-11 19:04:35,489 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:04:35,601 - INFO - No new data available.
+2025-01-11 19:04:35,602 - INFO - Calculating MACD.
+2025-01-11 19:04:35,602 - INFO - Calculating ADX.
+2025-01-11 19:04:35,606 - INFO - Indicators Calculated.
+2025-01-11 19:04:35,606 - INFO - Managing existing position.
+2025-01-11 19:04:35,606 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:04:35,606 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:04:35,607 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:05:35,615 - INFO - Fetching latest data...
+2025-01-11 19:05:35,616 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:05:35,714 - INFO - No new data available.
+2025-01-11 19:05:35,714 - INFO - Calculating MACD.
+2025-01-11 19:05:35,714 - INFO - Calculating ADX.
+2025-01-11 19:05:35,714 - INFO - Indicators Calculated.
+2025-01-11 19:05:35,714 - INFO - Managing existing position.
+2025-01-11 19:05:35,714 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:05:35,714 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:05:35,714 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:06:35,729 - INFO - Fetching latest data...
+2025-01-11 19:06:35,729 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:06:35,825 - INFO - No new data available.
+2025-01-11 19:06:35,825 - INFO - Calculating MACD.
+2025-01-11 19:06:35,826 - INFO - Calculating ADX.
+2025-01-11 19:06:35,830 - INFO - Indicators Calculated.
+2025-01-11 19:06:35,830 - INFO - Managing existing position.
+2025-01-11 19:06:35,830 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:06:35,830 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:06:35,830 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:07:35,844 - INFO - Fetching latest data...
+2025-01-11 19:07:35,845 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:07:35,922 - INFO - No new data available.
+2025-01-11 19:07:35,938 - INFO - Calculating MACD.
+2025-01-11 19:07:35,938 - INFO - Calculating ADX.
+2025-01-11 19:07:35,938 - INFO - Indicators Calculated.
+2025-01-11 19:07:35,938 - INFO - Managing existing position.
+2025-01-11 19:07:35,938 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:07:35,938 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:07:35,938 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:08:35,947 - INFO - Fetching latest data...
+2025-01-11 19:08:35,949 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:08:36,033 - INFO - No new data available.
+2025-01-11 19:08:36,033 - INFO - Calculating MACD.
+2025-01-11 19:08:36,033 - INFO - Calculating ADX.
+2025-01-11 19:08:36,050 - INFO - Indicators Calculated.
+2025-01-11 19:08:36,050 - INFO - Managing existing position.
+2025-01-11 19:08:36,050 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:08:36,050 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:08:36,050 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:09:36,064 - INFO - Fetching latest data...
+2025-01-11 19:09:36,064 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:09:36,157 - INFO - No new data available.
+2025-01-11 19:09:36,158 - INFO - Calculating MACD.
+2025-01-11 19:09:36,159 - INFO - Calculating ADX.
+2025-01-11 19:09:36,161 - INFO - Indicators Calculated.
+2025-01-11 19:09:36,161 - INFO - Managing existing position.
+2025-01-11 19:09:36,161 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:09:36,161 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:09:36,161 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:10:36,168 - INFO - Fetching latest data...
+2025-01-11 19:10:36,168 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:10:36,262 - INFO - No new data available.
+2025-01-11 19:10:36,262 - INFO - Calculating MACD.
+2025-01-11 19:10:36,262 - INFO - Calculating ADX.
+2025-01-11 19:10:36,262 - INFO - Indicators Calculated.
+2025-01-11 19:10:36,262 - INFO - Managing existing position.
+2025-01-11 19:10:36,262 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:10:36,262 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:10:36,262 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:11:36,265 - INFO - Fetching latest data...
+2025-01-11 19:11:36,267 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:11:36,361 - INFO - No new data available.
+2025-01-11 19:11:36,361 - INFO - Calculating MACD.
+2025-01-11 19:11:36,367 - INFO - Calculating ADX.
+2025-01-11 19:11:36,373 - INFO - Indicators Calculated.
+2025-01-11 19:11:36,373 - INFO - Managing existing position.
+2025-01-11 19:11:36,373 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:11:36,373 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:11:36,373 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:12:36,378 - INFO - Fetching latest data...
+2025-01-11 19:12:36,379 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:12:36,473 - INFO - No new data available.
+2025-01-11 19:12:36,473 - INFO - Calculating MACD.
+2025-01-11 19:12:36,478 - INFO - Calculating ADX.
+2025-01-11 19:12:36,478 - INFO - Indicators Calculated.
+2025-01-11 19:12:36,478 - INFO - Managing existing position.
+2025-01-11 19:12:36,478 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:12:36,478 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:12:36,478 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:13:36,488 - INFO - Fetching latest data...
+2025-01-11 19:13:36,488 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:13:36,582 - INFO - No new data available.
+2025-01-11 19:13:36,582 - INFO - Calculating MACD.
+2025-01-11 19:13:36,584 - INFO - Calculating ADX.
+2025-01-11 19:13:36,588 - INFO - Indicators Calculated.
+2025-01-11 19:13:36,588 - INFO - Managing existing position.
+2025-01-11 19:13:36,588 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:13:36,588 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:13:36,588 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:14:36,599 - INFO - Fetching latest data...
+2025-01-11 19:14:36,600 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:14:36,687 - INFO - No new data available.
+2025-01-11 19:14:36,687 - INFO - Calculating MACD.
+2025-01-11 19:14:36,687 - INFO - Calculating ADX.
+2025-01-11 19:14:36,703 - INFO - Indicators Calculated.
+2025-01-11 19:14:36,703 - INFO - Managing existing position.
+2025-01-11 19:14:36,703 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:14:36,704 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:14:36,704 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:15:36,709 - INFO - Fetching latest data...
+2025-01-11 19:15:36,711 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:15:36,808 - INFO - No new data available.
+2025-01-11 19:15:36,808 - INFO - Calculating MACD.
+2025-01-11 19:15:36,811 - INFO - Calculating ADX.
+2025-01-11 19:15:36,816 - INFO - Indicators Calculated.
+2025-01-11 19:15:36,816 - INFO - Managing existing position.
+2025-01-11 19:15:36,817 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:15:36,817 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:15:36,817 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:16:36,821 - INFO - Fetching latest data...
+2025-01-11 19:16:36,823 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:16:36,916 - INFO - No new data available.
+2025-01-11 19:16:36,917 - INFO - Calculating MACD.
+2025-01-11 19:16:36,918 - INFO - Calculating ADX.
+2025-01-11 19:16:36,925 - INFO - Indicators Calculated.
+2025-01-11 19:16:36,925 - INFO - Managing existing position.
+2025-01-11 19:16:36,926 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:16:36,926 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:16:36,926 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:17:36,937 - INFO - Fetching latest data...
+2025-01-11 19:17:36,937 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:17:37,034 - INFO - No new data available.
+2025-01-11 19:17:37,034 - INFO - Calculating MACD.
+2025-01-11 19:17:37,034 - INFO - Calculating ADX.
+2025-01-11 19:17:37,050 - INFO - Indicators Calculated.
+2025-01-11 19:17:37,050 - INFO - Managing existing position.
+2025-01-11 19:17:37,050 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:17:37,050 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:17:37,050 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:18:37,052 - INFO - Fetching latest data...
+2025-01-11 19:18:37,052 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:18:37,131 - INFO - No new data available.
+2025-01-11 19:18:37,147 - INFO - Calculating MACD.
+2025-01-11 19:18:37,147 - INFO - Calculating ADX.
+2025-01-11 19:18:37,147 - INFO - Indicators Calculated.
+2025-01-11 19:18:37,147 - INFO - Managing existing position.
+2025-01-11 19:18:37,147 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:18:37,147 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:18:37,147 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:19:37,152 - INFO - Fetching latest data...
+2025-01-11 19:19:37,152 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:19:37,246 - INFO - No new data available.
+2025-01-11 19:19:37,246 - INFO - Calculating MACD.
+2025-01-11 19:19:37,246 - INFO - Calculating ADX.
+2025-01-11 19:19:37,256 - INFO - Indicators Calculated.
+2025-01-11 19:19:37,256 - INFO - Managing existing position.
+2025-01-11 19:19:37,256 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:19:37,256 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:19:37,256 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:20:37,266 - INFO - Fetching latest data...
+2025-01-11 19:20:37,268 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:20:37,362 - INFO - No new data available.
+2025-01-11 19:20:37,363 - INFO - Calculating MACD.
+2025-01-11 19:20:37,364 - INFO - Calculating ADX.
+2025-01-11 19:20:37,372 - INFO - Indicators Calculated.
+2025-01-11 19:20:37,373 - INFO - Managing existing position.
+2025-01-11 19:20:37,373 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:20:37,373 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:20:37,373 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:21:37,377 - INFO - Fetching latest data...
+2025-01-11 19:21:37,380 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:21:37,511 - INFO - No new data available.
+2025-01-11 19:21:37,511 - INFO - Calculating MACD.
+2025-01-11 19:21:37,513 - INFO - Calculating ADX.
+2025-01-11 19:21:37,519 - INFO - Indicators Calculated.
+2025-01-11 19:21:37,519 - INFO - Managing existing position.
+2025-01-11 19:21:37,519 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:21:37,519 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:21:37,519 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:22:37,519 - INFO - Fetching latest data...
+2025-01-11 19:22:37,522 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:22:37,616 - INFO - No new data available.
+2025-01-11 19:22:37,616 - INFO - Calculating MACD.
+2025-01-11 19:22:37,618 - INFO - Calculating ADX.
+2025-01-11 19:22:37,626 - INFO - Indicators Calculated.
+2025-01-11 19:22:37,626 - INFO - Managing existing position.
+2025-01-11 19:22:37,626 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:22:37,627 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:22:37,627 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:23:37,631 - INFO - Fetching latest data...
+2025-01-11 19:23:37,631 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:23:37,729 - INFO - No new data available.
+2025-01-11 19:23:37,729 - INFO - Calculating MACD.
+2025-01-11 19:23:37,729 - INFO - Calculating ADX.
+2025-01-11 19:23:37,734 - INFO - Indicators Calculated.
+2025-01-11 19:23:37,734 - INFO - Managing existing position.
+2025-01-11 19:23:37,734 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:23:37,734 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:23:37,734 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:24:37,743 - INFO - Fetching latest data...
+2025-01-11 19:24:37,745 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:24:37,841 - INFO - No new data available.
+2025-01-11 19:24:37,842 - INFO - Calculating MACD.
+2025-01-11 19:24:37,844 - INFO - Calculating ADX.
+2025-01-11 19:24:37,850 - INFO - Indicators Calculated.
+2025-01-11 19:24:37,850 - INFO - Managing existing position.
+2025-01-11 19:24:37,850 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:24:37,851 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:24:37,851 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:25:37,855 - INFO - Fetching latest data...
+2025-01-11 19:25:37,856 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:25:37,947 - INFO - No new data available.
+2025-01-11 19:25:37,948 - INFO - Calculating MACD.
+2025-01-11 19:25:37,949 - INFO - Calculating ADX.
+2025-01-11 19:25:37,957 - INFO - Indicators Calculated.
+2025-01-11 19:25:37,957 - INFO - Managing existing position.
+2025-01-11 19:25:37,957 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:25:37,958 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:25:37,958 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:26:37,967 - INFO - Fetching latest data...
+2025-01-11 19:26:37,968 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:26:38,063 - INFO - No new data available.
+2025-01-11 19:26:38,063 - INFO - Calculating MACD.
+2025-01-11 19:26:38,063 - INFO - Calculating ADX.
+2025-01-11 19:26:38,079 - INFO - Indicators Calculated.
+2025-01-11 19:26:38,080 - INFO - Managing existing position.
+2025-01-11 19:26:38,080 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:26:38,080 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:26:38,080 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:27:38,094 - INFO - Fetching latest data...
+2025-01-11 19:27:38,096 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:27:38,193 - INFO - No new data available.
+2025-01-11 19:27:38,193 - INFO - Calculating MACD.
+2025-01-11 19:27:38,194 - INFO - Calculating ADX.
+2025-01-11 19:27:38,198 - INFO - Indicators Calculated.
+2025-01-11 19:27:38,198 - INFO - Managing existing position.
+2025-01-11 19:27:38,198 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:27:38,198 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:27:38,198 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:28:38,205 - INFO - Fetching latest data...
+2025-01-11 19:28:38,206 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:28:38,302 - INFO - No new data available.
+2025-01-11 19:28:38,302 - INFO - Calculating MACD.
+2025-01-11 19:28:38,302 - INFO - Calculating ADX.
+2025-01-11 19:28:38,302 - INFO - Indicators Calculated.
+2025-01-11 19:28:38,302 - INFO - Managing existing position.
+2025-01-11 19:28:38,302 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:28:38,302 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:28:38,302 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:29:38,316 - INFO - Fetching latest data...
+2025-01-11 19:29:38,318 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:29:38,418 - INFO - No new data available.
+2025-01-11 19:29:38,418 - INFO - Calculating MACD.
+2025-01-11 19:29:38,420 - INFO - Calculating ADX.
+2025-01-11 19:29:38,425 - INFO - Indicators Calculated.
+2025-01-11 19:29:38,425 - INFO - Managing existing position.
+2025-01-11 19:29:38,425 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:29:38,426 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:29:38,426 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:30:38,429 - INFO - Fetching latest data...
+2025-01-11 19:30:38,430 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:30:38,530 - INFO - No new data available.
+2025-01-11 19:30:38,530 - INFO - Calculating MACD.
+2025-01-11 19:30:38,530 - INFO - Calculating ADX.
+2025-01-11 19:30:38,530 - INFO - Indicators Calculated.
+2025-01-11 19:30:38,530 - INFO - Managing existing position.
+2025-01-11 19:30:38,530 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:30:38,530 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:30:38,530 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:31:38,539 - INFO - Fetching latest data...
+2025-01-11 19:31:38,541 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:31:38,860 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 19:31:38,869 - INFO - Latest data added.
+2025-01-11 19:31:38,870 - INFO - Calculating MACD.
+2025-01-11 19:31:38,871 - INFO - Calculating ADX.
+2025-01-11 19:31:38,876 - INFO - Indicators Calculated.
+2025-01-11 19:31:38,876 - INFO - Managing existing position.
+2025-01-11 19:31:38,876 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:31:38,876 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:31:38,876 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:32:38,880 - INFO - Fetching latest data...
+2025-01-11 19:32:38,880 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:32:38,976 - INFO - No new data available.
+2025-01-11 19:32:38,976 - INFO - Calculating MACD.
+2025-01-11 19:32:38,976 - INFO - Calculating ADX.
+2025-01-11 19:32:38,985 - INFO - Indicators Calculated.
+2025-01-11 19:32:38,985 - INFO - Managing existing position.
+2025-01-11 19:32:38,985 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:32:38,985 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:32:38,985 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:33:38,991 - INFO - Fetching latest data...
+2025-01-11 19:33:38,992 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:33:39,092 - INFO - No new data available.
+2025-01-11 19:33:39,092 - INFO - Calculating MACD.
+2025-01-11 19:33:39,094 - INFO - Calculating ADX.
+2025-01-11 19:33:39,102 - INFO - Indicators Calculated.
+2025-01-11 19:33:39,102 - INFO - Managing existing position.
+2025-01-11 19:33:39,102 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:33:39,102 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:33:39,102 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:34:39,117 - INFO - Fetching latest data...
+2025-01-11 19:34:39,117 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:34:39,196 - INFO - No new data available.
+2025-01-11 19:34:39,196 - INFO - Calculating MACD.
+2025-01-11 19:34:39,196 - INFO - Calculating ADX.
+2025-01-11 19:34:39,211 - INFO - Indicators Calculated.
+2025-01-11 19:34:39,211 - INFO - Managing existing position.
+2025-01-11 19:34:39,211 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:34:39,211 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:34:39,211 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:35:39,223 - INFO - Fetching latest data...
+2025-01-11 19:35:39,223 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:35:39,301 - INFO - No new data available.
+2025-01-11 19:35:39,301 - INFO - Calculating MACD.
+2025-01-11 19:35:39,318 - INFO - Calculating ADX.
+2025-01-11 19:35:39,319 - INFO - Indicators Calculated.
+2025-01-11 19:35:39,319 - INFO - Managing existing position.
+2025-01-11 19:35:39,319 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:35:39,319 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:35:39,319 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:36:39,324 - INFO - Fetching latest data...
+2025-01-11 19:36:39,324 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:36:39,404 - INFO - No new data available.
+2025-01-11 19:36:39,404 - INFO - Calculating MACD.
+2025-01-11 19:36:39,404 - INFO - Calculating ADX.
+2025-01-11 19:36:39,404 - INFO - Indicators Calculated.
+2025-01-11 19:36:39,404 - INFO - Managing existing position.
+2025-01-11 19:36:39,404 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:36:39,420 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:36:39,420 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:37:39,429 - INFO - Fetching latest data...
+2025-01-11 19:37:39,429 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:37:39,523 - INFO - No new data available.
+2025-01-11 19:37:39,523 - INFO - Calculating MACD.
+2025-01-11 19:37:39,523 - INFO - Calculating ADX.
+2025-01-11 19:37:39,523 - INFO - Indicators Calculated.
+2025-01-11 19:37:39,523 - INFO - Managing existing position.
+2025-01-11 19:37:39,523 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:37:39,523 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:37:39,523 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:38:39,535 - INFO - Fetching latest data...
+2025-01-11 19:38:39,535 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:38:39,630 - INFO - No new data available.
+2025-01-11 19:38:39,630 - INFO - Calculating MACD.
+2025-01-11 19:38:39,630 - INFO - Calculating ADX.
+2025-01-11 19:38:39,630 - INFO - Indicators Calculated.
+2025-01-11 19:38:39,630 - INFO - Managing existing position.
+2025-01-11 19:38:39,630 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:38:39,630 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:38:39,630 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:39:39,644 - INFO - Fetching latest data...
+2025-01-11 19:39:39,644 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:39:39,753 - INFO - No new data available.
+2025-01-11 19:39:39,753 - INFO - Calculating MACD.
+2025-01-11 19:39:39,753 - INFO - Calculating ADX.
+2025-01-11 19:39:39,753 - INFO - Indicators Calculated.
+2025-01-11 19:39:39,753 - INFO - Managing existing position.
+2025-01-11 19:39:39,753 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:39:39,753 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:39:39,753 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:40:39,762 - INFO - Fetching latest data...
+2025-01-11 19:40:39,762 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:40:39,856 - INFO - No new data available.
+2025-01-11 19:40:39,856 - INFO - Calculating MACD.
+2025-01-11 19:40:39,856 - INFO - Calculating ADX.
+2025-01-11 19:40:39,856 - INFO - Indicators Calculated.
+2025-01-11 19:40:39,856 - INFO - Managing existing position.
+2025-01-11 19:40:39,856 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:40:39,856 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:40:39,856 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:41:39,864 - INFO - Fetching latest data...
+2025-01-11 19:41:39,864 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:41:39,958 - INFO - No new data available.
+2025-01-11 19:41:39,958 - INFO - Calculating MACD.
+2025-01-11 19:41:39,958 - INFO - Calculating ADX.
+2025-01-11 19:41:39,958 - INFO - Indicators Calculated.
+2025-01-11 19:41:39,958 - INFO - Managing existing position.
+2025-01-11 19:41:39,958 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:41:39,958 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:41:39,958 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:42:39,960 - INFO - Fetching latest data...
+2025-01-11 19:42:39,962 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:42:40,055 - INFO - No new data available.
+2025-01-11 19:42:40,055 - INFO - Calculating MACD.
+2025-01-11 19:42:40,055 - INFO - Calculating ADX.
+2025-01-11 19:42:40,055 - INFO - Indicators Calculated.
+2025-01-11 19:42:40,055 - INFO - Managing existing position.
+2025-01-11 19:42:40,055 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:42:40,055 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:42:40,055 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:43:40,056 - INFO - Fetching latest data...
+2025-01-11 19:43:40,056 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:43:40,149 - INFO - No new data available.
+2025-01-11 19:43:40,149 - INFO - Calculating MACD.
+2025-01-11 19:43:40,149 - INFO - Calculating ADX.
+2025-01-11 19:43:40,149 - INFO - Indicators Calculated.
+2025-01-11 19:43:40,149 - INFO - Managing existing position.
+2025-01-11 19:43:40,149 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:43:40,149 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:43:40,149 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:44:40,151 - INFO - Fetching latest data...
+2025-01-11 19:44:40,151 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:44:40,248 - INFO - No new data available.
+2025-01-11 19:44:40,248 - INFO - Calculating MACD.
+2025-01-11 19:44:40,248 - INFO - Calculating ADX.
+2025-01-11 19:44:40,253 - INFO - Indicators Calculated.
+2025-01-11 19:44:40,253 - INFO - Managing existing position.
+2025-01-11 19:44:40,253 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:44:40,253 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:44:40,253 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:45:40,255 - INFO - Fetching latest data...
+2025-01-11 19:45:40,255 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:45:40,349 - INFO - No new data available.
+2025-01-11 19:45:40,349 - INFO - Calculating MACD.
+2025-01-11 19:45:40,349 - INFO - Calculating ADX.
+2025-01-11 19:45:40,349 - INFO - Indicators Calculated.
+2025-01-11 19:45:40,349 - INFO - Managing existing position.
+2025-01-11 19:45:40,349 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:45:40,349 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:45:40,349 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:46:40,356 - INFO - Fetching latest data...
+2025-01-11 19:46:40,356 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:46:40,435 - INFO - No new data available.
+2025-01-11 19:46:40,435 - INFO - Calculating MACD.
+2025-01-11 19:46:40,435 - INFO - Calculating ADX.
+2025-01-11 19:46:40,451 - INFO - Indicators Calculated.
+2025-01-11 19:46:40,451 - INFO - Managing existing position.
+2025-01-11 19:46:40,451 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:46:40,451 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:46:40,451 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:47:40,459 - INFO - Fetching latest data...
+2025-01-11 19:47:40,459 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:47:40,553 - INFO - No new data available.
+2025-01-11 19:47:40,553 - INFO - Calculating MACD.
+2025-01-11 19:47:40,553 - INFO - Calculating ADX.
+2025-01-11 19:47:40,553 - INFO - Indicators Calculated.
+2025-01-11 19:47:40,553 - INFO - Managing existing position.
+2025-01-11 19:47:40,553 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:47:40,553 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:47:40,553 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:48:40,561 - INFO - Fetching latest data...
+2025-01-11 19:48:40,561 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:48:40,656 - INFO - No new data available.
+2025-01-11 19:48:40,656 - INFO - Calculating MACD.
+2025-01-11 19:48:40,656 - INFO - Calculating ADX.
+2025-01-11 19:48:40,656 - INFO - Indicators Calculated.
+2025-01-11 19:48:40,656 - INFO - Managing existing position.
+2025-01-11 19:48:40,656 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:48:40,656 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:48:40,656 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:49:40,663 - INFO - Fetching latest data...
+2025-01-11 19:49:40,663 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:49:40,757 - INFO - No new data available.
+2025-01-11 19:49:40,757 - INFO - Calculating MACD.
+2025-01-11 19:49:40,757 - INFO - Calculating ADX.
+2025-01-11 19:49:40,757 - INFO - Indicators Calculated.
+2025-01-11 19:49:40,757 - INFO - Managing existing position.
+2025-01-11 19:49:40,757 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:49:40,757 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:49:40,757 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:50:40,761 - INFO - Fetching latest data...
+2025-01-11 19:50:40,761 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:50:40,854 - INFO - No new data available.
+2025-01-11 19:50:40,854 - INFO - Calculating MACD.
+2025-01-11 19:50:40,854 - INFO - Calculating ADX.
+2025-01-11 19:50:40,870 - INFO - Indicators Calculated.
+2025-01-11 19:50:40,870 - INFO - Managing existing position.
+2025-01-11 19:50:40,870 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:50:40,870 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:50:40,870 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:51:40,879 - INFO - Fetching latest data...
+2025-01-11 19:51:40,879 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:51:40,973 - INFO - No new data available.
+2025-01-11 19:51:40,973 - INFO - Calculating MACD.
+2025-01-11 19:51:40,973 - INFO - Calculating ADX.
+2025-01-11 19:51:40,973 - INFO - Indicators Calculated.
+2025-01-11 19:51:40,973 - INFO - Managing existing position.
+2025-01-11 19:51:40,973 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:51:40,973 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:51:40,973 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:52:40,978 - INFO - Fetching latest data...
+2025-01-11 19:52:40,978 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:52:41,072 - INFO - No new data available.
+2025-01-11 19:52:41,072 - INFO - Calculating MACD.
+2025-01-11 19:52:41,072 - INFO - Calculating ADX.
+2025-01-11 19:52:41,072 - INFO - Indicators Calculated.
+2025-01-11 19:52:41,072 - INFO - Managing existing position.
+2025-01-11 19:52:41,072 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:52:41,072 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:52:41,072 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:53:41,076 - INFO - Fetching latest data...
+2025-01-11 19:53:41,076 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:53:41,263 - INFO - No new data available.
+2025-01-11 19:53:41,263 - INFO - Calculating MACD.
+2025-01-11 19:53:41,263 - INFO - Calculating ADX.
+2025-01-11 19:53:41,280 - INFO - Indicators Calculated.
+2025-01-11 19:53:41,280 - INFO - Managing existing position.
+2025-01-11 19:53:41,280 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:53:41,280 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:53:41,280 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:54:41,291 - INFO - Fetching latest data...
+2025-01-11 19:54:41,291 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:54:41,399 - INFO - No new data available.
+2025-01-11 19:54:41,399 - INFO - Calculating MACD.
+2025-01-11 19:54:41,399 - INFO - Calculating ADX.
+2025-01-11 19:54:41,399 - INFO - Indicators Calculated.
+2025-01-11 19:54:41,399 - INFO - Managing existing position.
+2025-01-11 19:54:41,399 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:54:41,399 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:54:41,399 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:55:41,403 - INFO - Fetching latest data...
+2025-01-11 19:55:41,403 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:55:41,492 - INFO - No new data available.
+2025-01-11 19:55:41,492 - INFO - Calculating MACD.
+2025-01-11 19:55:41,492 - INFO - Calculating ADX.
+2025-01-11 19:55:41,492 - INFO - Indicators Calculated.
+2025-01-11 19:55:41,492 - INFO - Managing existing position.
+2025-01-11 19:55:41,492 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:55:41,492 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:55:41,492 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:56:41,504 - INFO - Fetching latest data...
+2025-01-11 19:56:41,505 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:56:41,605 - INFO - No new data available.
+2025-01-11 19:56:41,605 - INFO - Calculating MACD.
+2025-01-11 19:56:41,605 - INFO - Calculating ADX.
+2025-01-11 19:56:41,605 - INFO - Indicators Calculated.
+2025-01-11 19:56:41,605 - INFO - Managing existing position.
+2025-01-11 19:56:41,605 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:56:41,605 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:56:41,605 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:57:41,615 - INFO - Fetching latest data...
+2025-01-11 19:57:41,616 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:57:41,696 - INFO - No new data available.
+2025-01-11 19:57:41,696 - INFO - Calculating MACD.
+2025-01-11 19:57:41,696 - INFO - Calculating ADX.
+2025-01-11 19:57:41,711 - INFO - Indicators Calculated.
+2025-01-11 19:57:41,711 - INFO - Managing existing position.
+2025-01-11 19:57:41,711 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:57:41,711 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:57:41,711 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:58:41,722 - INFO - Fetching latest data...
+2025-01-11 19:58:41,722 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:58:41,803 - INFO - No new data available.
+2025-01-11 19:58:41,803 - INFO - Calculating MACD.
+2025-01-11 19:58:41,818 - INFO - Calculating ADX.
+2025-01-11 19:58:41,818 - INFO - Indicators Calculated.
+2025-01-11 19:58:41,818 - INFO - Managing existing position.
+2025-01-11 19:58:41,818 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:58:41,818 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:58:41,818 - INFO - Sleeping for 60 seconds.
+2025-01-11 19:59:41,828 - INFO - Fetching latest data...
+2025-01-11 19:59:41,828 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:59:41,922 - INFO - No new data available.
+2025-01-11 19:59:41,922 - INFO - Calculating MACD.
+2025-01-11 19:59:41,922 - INFO - Calculating ADX.
+2025-01-11 19:59:41,922 - INFO - Indicators Calculated.
+2025-01-11 19:59:41,922 - INFO - Managing existing position.
+2025-01-11 19:59:41,922 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 19:59:41,922 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 19:59:41,922 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:00:41,926 - INFO - Fetching latest data...
+2025-01-11 20:00:41,926 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:00:42,018 - INFO - No new data available.
+2025-01-11 20:00:42,018 - INFO - Calculating MACD.
+2025-01-11 20:00:42,018 - INFO - Calculating ADX.
+2025-01-11 20:00:42,018 - INFO - Indicators Calculated.
+2025-01-11 20:00:42,018 - INFO - Managing existing position.
+2025-01-11 20:00:42,018 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:00:42,018 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:00:42,018 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:01:42,027 - INFO - Fetching latest data...
+2025-01-11 20:01:42,028 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:01:42,136 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 20:01:42,149 - INFO - Latest data added.
+2025-01-11 20:01:42,149 - INFO - Calculating MACD.
+2025-01-11 20:01:42,150 - INFO - Calculating ADX.
+2025-01-11 20:01:42,155 - INFO - Indicators Calculated.
+2025-01-11 20:01:42,155 - INFO - Managing existing position.
+2025-01-11 20:01:42,155 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:01:42,155 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:01:42,156 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:02:42,170 - INFO - Fetching latest data...
+2025-01-11 20:02:42,171 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:02:42,255 - INFO - No new data available.
+2025-01-11 20:02:42,255 - INFO - Calculating MACD.
+2025-01-11 20:02:42,265 - INFO - Calculating ADX.
+2025-01-11 20:02:42,271 - INFO - Indicators Calculated.
+2025-01-11 20:02:42,271 - INFO - Managing existing position.
+2025-01-11 20:02:42,271 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:02:42,271 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:02:42,271 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:03:42,275 - INFO - Fetching latest data...
+2025-01-11 20:03:42,275 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:03:42,371 - INFO - No new data available.
+2025-01-11 20:03:42,371 - INFO - Calculating MACD.
+2025-01-11 20:03:42,371 - INFO - Calculating ADX.
+2025-01-11 20:03:42,371 - INFO - Indicators Calculated.
+2025-01-11 20:03:42,371 - INFO - Managing existing position.
+2025-01-11 20:03:42,371 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:03:42,371 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:03:42,371 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:04:42,380 - INFO - Fetching latest data...
+2025-01-11 20:04:42,380 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:04:42,474 - INFO - No new data available.
+2025-01-11 20:04:42,474 - INFO - Calculating MACD.
+2025-01-11 20:04:42,474 - INFO - Calculating ADX.
+2025-01-11 20:04:42,478 - INFO - Indicators Calculated.
+2025-01-11 20:04:42,478 - INFO - Managing existing position.
+2025-01-11 20:04:42,478 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:04:42,478 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:04:42,478 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:05:42,483 - INFO - Fetching latest data...
+2025-01-11 20:05:42,483 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:05:42,574 - INFO - No new data available.
+2025-01-11 20:05:42,574 - INFO - Calculating MACD.
+2025-01-11 20:05:42,574 - INFO - Calculating ADX.
+2025-01-11 20:05:42,588 - INFO - Indicators Calculated.
+2025-01-11 20:05:42,588 - INFO - Managing existing position.
+2025-01-11 20:05:42,588 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:05:42,588 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:05:42,588 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:06:42,599 - INFO - Fetching latest data...
+2025-01-11 20:06:42,600 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:06:42,702 - INFO - No new data available.
+2025-01-11 20:06:42,702 - INFO - Calculating MACD.
+2025-01-11 20:06:42,702 - INFO - Calculating ADX.
+2025-01-11 20:06:42,702 - INFO - Indicators Calculated.
+2025-01-11 20:06:42,702 - INFO - Managing existing position.
+2025-01-11 20:06:42,702 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:06:42,702 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:06:42,702 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:07:42,707 - INFO - Fetching latest data...
+2025-01-11 20:07:42,707 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:07:42,802 - INFO - No new data available.
+2025-01-11 20:07:42,802 - INFO - Calculating MACD.
+2025-01-11 20:07:42,802 - INFO - Calculating ADX.
+2025-01-11 20:07:42,810 - INFO - Indicators Calculated.
+2025-01-11 20:07:42,810 - INFO - Managing existing position.
+2025-01-11 20:07:42,810 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:07:42,810 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:07:42,810 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:08:42,813 - INFO - Fetching latest data...
+2025-01-11 20:08:42,814 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:08:42,894 - INFO - No new data available.
+2025-01-11 20:08:42,908 - INFO - Calculating MACD.
+2025-01-11 20:08:42,908 - INFO - Calculating ADX.
+2025-01-11 20:08:42,908 - INFO - Indicators Calculated.
+2025-01-11 20:08:42,908 - INFO - Managing existing position.
+2025-01-11 20:08:42,908 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:08:42,908 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:08:42,908 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:09:42,916 - INFO - Fetching latest data...
+2025-01-11 20:09:42,916 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:09:43,000 - INFO - No new data available.
+2025-01-11 20:09:43,000 - INFO - Calculating MACD.
+2025-01-11 20:09:43,000 - INFO - Calculating ADX.
+2025-01-11 20:09:43,016 - INFO - Indicators Calculated.
+2025-01-11 20:09:43,016 - INFO - Managing existing position.
+2025-01-11 20:09:43,016 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:09:43,016 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:09:43,016 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:10:43,028 - INFO - Fetching latest data...
+2025-01-11 20:10:43,029 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:10:43,120 - INFO - No new data available.
+2025-01-11 20:10:43,120 - INFO - Calculating MACD.
+2025-01-11 20:10:43,122 - INFO - Calculating ADX.
+2025-01-11 20:10:43,130 - INFO - Indicators Calculated.
+2025-01-11 20:10:43,131 - INFO - Managing existing position.
+2025-01-11 20:10:43,131 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:10:43,131 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:10:43,131 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:11:43,137 - INFO - Fetching latest data...
+2025-01-11 20:11:43,138 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:11:43,224 - INFO - No new data available.
+2025-01-11 20:11:43,224 - INFO - Calculating MACD.
+2025-01-11 20:11:43,224 - INFO - Calculating ADX.
+2025-01-11 20:11:43,224 - INFO - Indicators Calculated.
+2025-01-11 20:11:43,224 - INFO - Managing existing position.
+2025-01-11 20:11:43,224 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:11:43,224 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:11:43,224 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:12:43,228 - INFO - Fetching latest data...
+2025-01-11 20:12:43,228 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:12:43,322 - INFO - No new data available.
+2025-01-11 20:12:43,322 - INFO - Calculating MACD.
+2025-01-11 20:12:43,322 - INFO - Calculating ADX.
+2025-01-11 20:12:43,322 - INFO - Indicators Calculated.
+2025-01-11 20:12:43,322 - INFO - Managing existing position.
+2025-01-11 20:12:43,322 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:12:43,322 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:12:43,322 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:13:43,336 - INFO - Fetching latest data...
+2025-01-11 20:13:43,337 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:13:43,431 - INFO - No new data available.
+2025-01-11 20:13:43,431 - INFO - Calculating MACD.
+2025-01-11 20:13:43,431 - INFO - Calculating ADX.
+2025-01-11 20:13:43,431 - INFO - Indicators Calculated.
+2025-01-11 20:13:43,431 - INFO - Managing existing position.
+2025-01-11 20:13:43,431 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:13:43,431 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:13:43,431 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:14:43,455 - INFO - Fetching latest data...
+2025-01-11 20:14:43,457 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:14:43,539 - INFO - No new data available.
+2025-01-11 20:14:43,554 - INFO - Calculating MACD.
+2025-01-11 20:14:43,556 - INFO - Calculating ADX.
+2025-01-11 20:14:43,556 - INFO - Indicators Calculated.
+2025-01-11 20:14:43,556 - INFO - Managing existing position.
+2025-01-11 20:14:43,556 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:14:43,556 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:14:43,556 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:15:43,566 - INFO - Fetching latest data...
+2025-01-11 20:15:43,568 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:15:43,665 - INFO - No new data available.
+2025-01-11 20:15:43,665 - INFO - Calculating MACD.
+2025-01-11 20:15:43,665 - INFO - Calculating ADX.
+2025-01-11 20:15:43,665 - INFO - Indicators Calculated.
+2025-01-11 20:15:43,665 - INFO - Managing existing position.
+2025-01-11 20:15:43,665 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:15:43,665 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:15:43,665 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:16:43,676 - INFO - Fetching latest data...
+2025-01-11 20:16:43,676 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:16:43,761 - INFO - No new data available.
+2025-01-11 20:16:43,761 - INFO - Calculating MACD.
+2025-01-11 20:16:43,761 - INFO - Calculating ADX.
+2025-01-11 20:16:43,778 - INFO - Indicators Calculated.
+2025-01-11 20:16:43,778 - INFO - Managing existing position.
+2025-01-11 20:16:43,778 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:16:43,778 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:16:43,778 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:17:43,782 - INFO - Fetching latest data...
+2025-01-11 20:17:43,782 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:17:43,879 - INFO - No new data available.
+2025-01-11 20:17:43,879 - INFO - Calculating MACD.
+2025-01-11 20:17:43,879 - INFO - Calculating ADX.
+2025-01-11 20:17:43,894 - INFO - Indicators Calculated.
+2025-01-11 20:17:43,894 - INFO - Managing existing position.
+2025-01-11 20:17:43,894 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:17:43,894 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:17:43,894 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:18:43,906 - INFO - Fetching latest data...
+2025-01-11 20:18:43,906 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:18:44,018 - INFO - No new data available.
+2025-01-11 20:18:44,018 - INFO - Calculating MACD.
+2025-01-11 20:18:44,018 - INFO - Calculating ADX.
+2025-01-11 20:18:44,035 - INFO - Indicators Calculated.
+2025-01-11 20:18:44,035 - INFO - Managing existing position.
+2025-01-11 20:18:44,035 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:18:44,035 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:18:44,035 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:19:44,044 - INFO - Fetching latest data...
+2025-01-11 20:19:44,046 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:19:44,142 - INFO - No new data available.
+2025-01-11 20:19:44,143 - INFO - Calculating MACD.
+2025-01-11 20:19:44,144 - INFO - Calculating ADX.
+2025-01-11 20:19:44,144 - INFO - Indicators Calculated.
+2025-01-11 20:19:44,144 - INFO - Managing existing position.
+2025-01-11 20:19:44,144 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:19:44,144 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:19:44,144 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:20:44,154 - INFO - Fetching latest data...
+2025-01-11 20:20:44,155 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:20:44,324 - INFO - No new data available.
+2025-01-11 20:20:44,325 - INFO - Calculating MACD.
+2025-01-11 20:20:44,327 - INFO - Calculating ADX.
+2025-01-11 20:20:44,332 - INFO - Indicators Calculated.
+2025-01-11 20:20:44,332 - INFO - Managing existing position.
+2025-01-11 20:20:44,332 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:20:44,332 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:20:44,332 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:21:44,338 - INFO - Fetching latest data...
+2025-01-11 20:21:44,338 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:21:44,418 - INFO - No new data available.
+2025-01-11 20:21:44,418 - INFO - Calculating MACD.
+2025-01-11 20:21:44,418 - INFO - Calculating ADX.
+2025-01-11 20:21:44,435 - INFO - Indicators Calculated.
+2025-01-11 20:21:44,435 - INFO - Managing existing position.
+2025-01-11 20:21:44,435 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:21:44,435 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:21:44,435 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:22:44,443 - INFO - Fetching latest data...
+2025-01-11 20:22:44,444 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:22:44,547 - INFO - No new data available.
+2025-01-11 20:22:44,547 - INFO - Calculating MACD.
+2025-01-11 20:22:44,549 - INFO - Calculating ADX.
+2025-01-11 20:22:44,555 - INFO - Indicators Calculated.
+2025-01-11 20:22:44,555 - INFO - Managing existing position.
+2025-01-11 20:22:44,555 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:22:44,555 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:22:44,555 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:23:44,555 - INFO - Fetching latest data...
+2025-01-11 20:23:44,556 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:23:44,655 - INFO - No new data available.
+2025-01-11 20:23:44,655 - INFO - Calculating MACD.
+2025-01-11 20:23:44,656 - INFO - Calculating ADX.
+2025-01-11 20:23:44,662 - INFO - Indicators Calculated.
+2025-01-11 20:23:44,662 - INFO - Managing existing position.
+2025-01-11 20:23:44,663 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:23:44,663 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:23:44,663 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:24:44,666 - INFO - Fetching latest data...
+2025-01-11 20:24:44,668 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:24:44,761 - INFO - No new data available.
+2025-01-11 20:24:44,761 - INFO - Calculating MACD.
+2025-01-11 20:24:44,762 - INFO - Calculating ADX.
+2025-01-11 20:24:44,767 - INFO - Indicators Calculated.
+2025-01-11 20:24:44,767 - INFO - Managing existing position.
+2025-01-11 20:24:44,767 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:24:44,768 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:24:44,768 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:25:44,778 - INFO - Fetching latest data...
+2025-01-11 20:25:44,780 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:25:44,879 - INFO - No new data available.
+2025-01-11 20:25:44,879 - INFO - Calculating MACD.
+2025-01-11 20:25:44,880 - INFO - Calculating ADX.
+2025-01-11 20:25:44,886 - INFO - Indicators Calculated.
+2025-01-11 20:25:44,887 - INFO - Managing existing position.
+2025-01-11 20:25:44,887 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:25:44,887 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:25:44,887 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:26:44,891 - INFO - Fetching latest data...
+2025-01-11 20:26:44,891 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:26:44,987 - INFO - No new data available.
+2025-01-11 20:26:44,987 - INFO - Calculating MACD.
+2025-01-11 20:26:44,989 - INFO - Calculating ADX.
+2025-01-11 20:26:44,996 - INFO - Indicators Calculated.
+2025-01-11 20:26:44,996 - INFO - Managing existing position.
+2025-01-11 20:26:44,996 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:26:44,996 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:26:44,997 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:27:45,001 - INFO - Fetching latest data...
+2025-01-11 20:27:45,002 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:27:45,092 - INFO - No new data available.
+2025-01-11 20:27:45,092 - INFO - Calculating MACD.
+2025-01-11 20:27:45,093 - INFO - Calculating ADX.
+2025-01-11 20:27:45,101 - INFO - Indicators Calculated.
+2025-01-11 20:27:45,101 - INFO - Managing existing position.
+2025-01-11 20:27:45,102 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:27:45,102 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:27:45,102 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:28:45,113 - INFO - Fetching latest data...
+2025-01-11 20:28:45,113 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:28:45,208 - INFO - No new data available.
+2025-01-11 20:28:45,208 - INFO - Calculating MACD.
+2025-01-11 20:28:45,210 - INFO - Calculating ADX.
+2025-01-11 20:28:45,212 - INFO - Indicators Calculated.
+2025-01-11 20:28:45,212 - INFO - Managing existing position.
+2025-01-11 20:28:45,212 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:28:45,212 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:28:45,212 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:29:45,214 - INFO - Fetching latest data...
+2025-01-11 20:29:45,214 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:29:45,313 - INFO - No new data available.
+2025-01-11 20:29:45,314 - INFO - Calculating MACD.
+2025-01-11 20:29:45,315 - INFO - Calculating ADX.
+2025-01-11 20:29:45,322 - INFO - Indicators Calculated.
+2025-01-11 20:29:45,322 - INFO - Managing existing position.
+2025-01-11 20:29:45,322 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:29:45,322 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:29:45,322 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:30:45,334 - INFO - Fetching latest data...
+2025-01-11 20:30:45,336 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:30:45,437 - INFO - No new data available.
+2025-01-11 20:30:45,437 - INFO - Calculating MACD.
+2025-01-11 20:30:45,437 - INFO - Calculating ADX.
+2025-01-11 20:30:45,437 - INFO - Indicators Calculated.
+2025-01-11 20:30:45,437 - INFO - Managing existing position.
+2025-01-11 20:30:45,437 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:30:45,437 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:30:45,437 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:31:45,445 - INFO - Fetching latest data...
+2025-01-11 20:31:45,445 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:31:45,542 - INFO - No new data available.
+2025-01-11 20:31:45,542 - INFO - Calculating MACD.
+2025-01-11 20:31:45,543 - INFO - Calculating ADX.
+2025-01-11 20:31:45,546 - INFO - Indicators Calculated.
+2025-01-11 20:31:45,546 - INFO - Managing existing position.
+2025-01-11 20:31:45,546 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:31:45,546 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:31:45,546 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:32:45,556 - INFO - Fetching latest data...
+2025-01-11 20:32:45,557 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:32:45,870 - INFO - No new data available.
+2025-01-11 20:32:45,870 - INFO - Calculating MACD.
+2025-01-11 20:32:45,870 - INFO - Calculating ADX.
+2025-01-11 20:32:45,878 - INFO - Indicators Calculated.
+2025-01-11 20:32:45,878 - INFO - Managing existing position.
+2025-01-11 20:32:45,878 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:32:45,879 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:32:45,879 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:33:45,885 - INFO - Fetching latest data...
+2025-01-11 20:33:45,886 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:33:45,983 - INFO - No new data available.
+2025-01-11 20:33:45,984 - INFO - Calculating MACD.
+2025-01-11 20:33:45,985 - INFO - Calculating ADX.
+2025-01-11 20:33:45,986 - INFO - Indicators Calculated.
+2025-01-11 20:33:45,986 - INFO - Managing existing position.
+2025-01-11 20:33:45,986 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:33:45,986 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:33:45,986 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:34:45,996 - INFO - Fetching latest data...
+2025-01-11 20:34:45,998 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:34:46,094 - INFO - No new data available.
+2025-01-11 20:34:46,094 - INFO - Calculating MACD.
+2025-01-11 20:34:46,097 - INFO - Calculating ADX.
+2025-01-11 20:34:46,103 - INFO - Indicators Calculated.
+2025-01-11 20:34:46,103 - INFO - Managing existing position.
+2025-01-11 20:34:46,103 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:34:46,104 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:34:46,104 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:35:46,107 - INFO - Fetching latest data...
+2025-01-11 20:35:46,107 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:35:46,204 - INFO - No new data available.
+2025-01-11 20:35:46,205 - INFO - Calculating MACD.
+2025-01-11 20:35:46,206 - INFO - Calculating ADX.
+2025-01-11 20:35:46,211 - INFO - Indicators Calculated.
+2025-01-11 20:35:46,212 - INFO - Managing existing position.
+2025-01-11 20:35:46,212 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:35:46,212 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:35:46,212 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:36:46,213 - INFO - Fetching latest data...
+2025-01-11 20:36:46,213 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:36:46,316 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 20:36:46,326 - INFO - Latest data added.
+2025-01-11 20:36:46,326 - INFO - Calculating MACD.
+2025-01-11 20:36:46,327 - INFO - Calculating ADX.
+2025-01-11 20:36:46,333 - INFO - Indicators Calculated.
+2025-01-11 20:36:46,333 - INFO - Managing existing position.
+2025-01-11 20:36:46,333 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:36:46,333 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:36:46,333 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:37:46,347 - INFO - Fetching latest data...
+2025-01-11 20:37:46,348 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:37:46,448 - INFO - No new data available.
+2025-01-11 20:37:46,448 - INFO - Calculating MACD.
+2025-01-11 20:37:46,448 - INFO - Calculating ADX.
+2025-01-11 20:37:46,448 - INFO - Indicators Calculated.
+2025-01-11 20:37:46,448 - INFO - Managing existing position.
+2025-01-11 20:37:46,448 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:37:46,448 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:37:46,448 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:38:46,451 - INFO - Fetching latest data...
+2025-01-11 20:38:46,452 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:38:46,545 - INFO - No new data available.
+2025-01-11 20:38:46,545 - INFO - Calculating MACD.
+2025-01-11 20:38:46,547 - INFO - Calculating ADX.
+2025-01-11 20:38:46,552 - INFO - Indicators Calculated.
+2025-01-11 20:38:46,552 - INFO - Managing existing position.
+2025-01-11 20:38:46,552 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:38:46,553 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:38:46,553 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:39:46,558 - INFO - Fetching latest data...
+2025-01-11 20:39:46,558 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:39:46,654 - INFO - No new data available.
+2025-01-11 20:39:46,654 - INFO - Calculating MACD.
+2025-01-11 20:39:46,655 - INFO - Calculating ADX.
+2025-01-11 20:39:46,665 - INFO - Indicators Calculated.
+2025-01-11 20:39:46,665 - INFO - Managing existing position.
+2025-01-11 20:39:46,665 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:39:46,665 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:39:46,665 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:40:46,679 - INFO - Fetching latest data...
+2025-01-11 20:40:46,682 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:40:46,781 - INFO - No new data available.
+2025-01-11 20:40:46,781 - INFO - Calculating MACD.
+2025-01-11 20:40:46,783 - INFO - Calculating ADX.
+2025-01-11 20:40:46,783 - INFO - Indicators Calculated.
+2025-01-11 20:40:46,783 - INFO - Managing existing position.
+2025-01-11 20:40:46,783 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:40:46,783 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:40:46,783 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:41:46,792 - INFO - Fetching latest data...
+2025-01-11 20:41:46,793 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:41:46,877 - INFO - No new data available.
+2025-01-11 20:41:46,877 - INFO - Calculating MACD.
+2025-01-11 20:41:46,877 - INFO - Calculating ADX.
+2025-01-11 20:41:46,894 - INFO - Indicators Calculated.
+2025-01-11 20:41:46,894 - INFO - Managing existing position.
+2025-01-11 20:41:46,895 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:41:46,895 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:41:46,895 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:42:46,903 - INFO - Fetching latest data...
+2025-01-11 20:42:46,904 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:42:46,998 - INFO - No new data available.
+2025-01-11 20:42:46,998 - INFO - Calculating MACD.
+2025-01-11 20:42:47,000 - INFO - Calculating ADX.
+2025-01-11 20:42:47,003 - INFO - Indicators Calculated.
+2025-01-11 20:42:47,003 - INFO - Managing existing position.
+2025-01-11 20:42:47,003 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:42:47,003 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:42:47,003 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:43:47,012 - INFO - Fetching latest data...
+2025-01-11 20:43:47,014 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:43:47,098 - INFO - No new data available.
+2025-01-11 20:43:47,098 - INFO - Calculating MACD.
+2025-01-11 20:43:47,098 - INFO - Calculating ADX.
+2025-01-11 20:43:47,098 - INFO - Indicators Calculated.
+2025-01-11 20:43:47,098 - INFO - Managing existing position.
+2025-01-11 20:43:47,098 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:43:47,098 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:43:47,098 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:44:47,106 - INFO - Fetching latest data...
+2025-01-11 20:44:47,107 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:44:47,197 - INFO - No new data available.
+2025-01-11 20:44:47,197 - INFO - Calculating MACD.
+2025-01-11 20:44:47,199 - INFO - Calculating ADX.
+2025-01-11 20:44:47,205 - INFO - Indicators Calculated.
+2025-01-11 20:44:47,205 - INFO - Managing existing position.
+2025-01-11 20:44:47,205 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:44:47,205 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:44:47,206 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:45:47,218 - INFO - Fetching latest data...
+2025-01-11 20:45:47,219 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:45:47,304 - INFO - No new data available.
+2025-01-11 20:45:47,304 - INFO - Calculating MACD.
+2025-01-11 20:45:47,304 - INFO - Calculating ADX.
+2025-01-11 20:45:47,304 - INFO - Indicators Calculated.
+2025-01-11 20:45:47,304 - INFO - Managing existing position.
+2025-01-11 20:45:47,304 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:45:47,304 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:45:47,304 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:46:47,314 - INFO - Fetching latest data...
+2025-01-11 20:46:47,315 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:46:47,409 - INFO - No new data available.
+2025-01-11 20:46:47,410 - INFO - Calculating MACD.
+2025-01-11 20:46:47,411 - INFO - Calculating ADX.
+2025-01-11 20:46:47,415 - INFO - Indicators Calculated.
+2025-01-11 20:46:47,415 - INFO - Managing existing position.
+2025-01-11 20:46:47,415 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:46:47,415 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:46:47,415 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:47:47,425 - INFO - Fetching latest data...
+2025-01-11 20:47:47,427 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:47:47,510 - INFO - No new data available.
+2025-01-11 20:47:47,510 - INFO - Calculating MACD.
+2025-01-11 20:47:47,510 - INFO - Calculating ADX.
+2025-01-11 20:47:47,529 - INFO - Indicators Calculated.
+2025-01-11 20:47:47,530 - INFO - Managing existing position.
+2025-01-11 20:47:47,530 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:47:47,530 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:47:47,530 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:48:47,536 - INFO - Fetching latest data...
+2025-01-11 20:48:47,537 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:48:47,621 - INFO - No new data available.
+2025-01-11 20:48:47,621 - INFO - Calculating MACD.
+2025-01-11 20:48:47,621 - INFO - Calculating ADX.
+2025-01-11 20:48:47,640 - INFO - Indicators Calculated.
+2025-01-11 20:48:47,640 - INFO - Managing existing position.
+2025-01-11 20:48:47,641 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:48:47,641 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:48:47,641 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:49:47,647 - INFO - Fetching latest data...
+2025-01-11 20:49:47,648 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:49:47,739 - INFO - No new data available.
+2025-01-11 20:49:47,739 - INFO - Calculating MACD.
+2025-01-11 20:49:47,741 - INFO - Calculating ADX.
+2025-01-11 20:49:47,748 - INFO - Indicators Calculated.
+2025-01-11 20:49:47,748 - INFO - Managing existing position.
+2025-01-11 20:49:47,748 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:49:47,748 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:49:47,749 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:50:47,759 - INFO - Fetching latest data...
+2025-01-11 20:50:47,760 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:50:47,857 - INFO - No new data available.
+2025-01-11 20:50:47,857 - INFO - Calculating MACD.
+2025-01-11 20:50:47,859 - INFO - Calculating ADX.
+2025-01-11 20:50:47,859 - INFO - Indicators Calculated.
+2025-01-11 20:50:47,859 - INFO - Managing existing position.
+2025-01-11 20:50:47,859 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:50:47,859 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:50:47,859 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:51:47,869 - INFO - Fetching latest data...
+2025-01-11 20:51:47,870 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:51:47,960 - INFO - No new data available.
+2025-01-11 20:51:47,960 - INFO - Calculating MACD.
+2025-01-11 20:51:47,960 - INFO - Calculating ADX.
+2025-01-11 20:51:47,972 - INFO - Indicators Calculated.
+2025-01-11 20:51:47,973 - INFO - Managing existing position.
+2025-01-11 20:51:47,973 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:51:47,973 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:51:47,973 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:52:47,981 - INFO - Fetching latest data...
+2025-01-11 20:52:47,983 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:52:48,082 - INFO - No new data available.
+2025-01-11 20:52:48,082 - INFO - Calculating MACD.
+2025-01-11 20:52:48,083 - INFO - Calculating ADX.
+2025-01-11 20:52:48,088 - INFO - Indicators Calculated.
+2025-01-11 20:52:48,088 - INFO - Managing existing position.
+2025-01-11 20:52:48,088 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:52:48,088 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:52:48,088 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:53:48,093 - INFO - Fetching latest data...
+2025-01-11 20:53:48,093 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:53:48,212 - INFO - No new data available.
+2025-01-11 20:53:48,212 - INFO - Calculating MACD.
+2025-01-11 20:53:48,212 - INFO - Calculating ADX.
+2025-01-11 20:53:48,212 - INFO - Indicators Calculated.
+2025-01-11 20:53:48,212 - INFO - Managing existing position.
+2025-01-11 20:53:48,226 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:53:48,226 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:53:48,226 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:54:48,236 - INFO - Fetching latest data...
+2025-01-11 20:54:48,238 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:54:48,323 - INFO - No new data available.
+2025-01-11 20:54:48,323 - INFO - Calculating MACD.
+2025-01-11 20:54:48,323 - INFO - Calculating ADX.
+2025-01-11 20:54:48,338 - INFO - Indicators Calculated.
+2025-01-11 20:54:48,339 - INFO - Managing existing position.
+2025-01-11 20:54:48,339 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:54:48,339 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:54:48,339 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:55:48,352 - INFO - Fetching latest data...
+2025-01-11 20:55:48,352 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:55:48,442 - INFO - No new data available.
+2025-01-11 20:55:48,442 - INFO - Calculating MACD.
+2025-01-11 20:55:48,444 - INFO - Calculating ADX.
+2025-01-11 20:55:48,450 - INFO - Indicators Calculated.
+2025-01-11 20:55:48,450 - INFO - Managing existing position.
+2025-01-11 20:55:48,450 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:55:48,451 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:55:48,451 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:56:48,459 - INFO - Fetching latest data...
+2025-01-11 20:56:48,460 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:56:48,582 - INFO - No new data available.
+2025-01-11 20:56:48,582 - INFO - Calculating MACD.
+2025-01-11 20:56:48,584 - INFO - Calculating ADX.
+2025-01-11 20:56:48,589 - INFO - Indicators Calculated.
+2025-01-11 20:56:48,589 - INFO - Managing existing position.
+2025-01-11 20:56:48,589 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:56:48,589 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:56:48,589 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:57:48,599 - INFO - Fetching latest data...
+2025-01-11 20:57:48,599 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:57:48,689 - INFO - No new data available.
+2025-01-11 20:57:48,689 - INFO - Calculating MACD.
+2025-01-11 20:57:48,691 - INFO - Calculating ADX.
+2025-01-11 20:57:48,698 - INFO - Indicators Calculated.
+2025-01-11 20:57:48,698 - INFO - Managing existing position.
+2025-01-11 20:57:48,699 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:57:48,699 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:57:48,699 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:58:48,713 - INFO - Fetching latest data...
+2025-01-11 20:58:48,713 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:58:48,799 - INFO - No new data available.
+2025-01-11 20:58:48,808 - INFO - Calculating MACD.
+2025-01-11 20:58:48,808 - INFO - Calculating ADX.
+2025-01-11 20:58:48,815 - INFO - Indicators Calculated.
+2025-01-11 20:58:48,815 - INFO - Managing existing position.
+2025-01-11 20:58:48,815 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:58:48,815 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:58:48,815 - INFO - Sleeping for 60 seconds.
+2025-01-11 20:59:48,826 - INFO - Fetching latest data...
+2025-01-11 20:59:48,828 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:59:48,919 - INFO - No new data available.
+2025-01-11 20:59:48,920 - INFO - Calculating MACD.
+2025-01-11 20:59:48,921 - INFO - Calculating ADX.
+2025-01-11 20:59:48,928 - INFO - Indicators Calculated.
+2025-01-11 20:59:48,928 - INFO - Managing existing position.
+2025-01-11 20:59:48,928 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 20:59:48,929 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 20:59:48,929 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:00:48,935 - INFO - Fetching latest data...
+2025-01-11 21:00:48,938 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:00:49,038 - INFO - No new data available.
+2025-01-11 21:00:49,039 - INFO - Calculating MACD.
+2025-01-11 21:00:49,041 - INFO - Calculating ADX.
+2025-01-11 21:00:49,046 - INFO - Indicators Calculated.
+2025-01-11 21:00:49,046 - INFO - Managing existing position.
+2025-01-11 21:00:49,046 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:00:49,046 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:00:49,046 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:01:49,049 - INFO - Fetching latest data...
+2025-01-11 21:01:49,050 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:01:49,148 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 21:01:49,156 - INFO - Latest data added.
+2025-01-11 21:01:49,156 - INFO - Calculating MACD.
+2025-01-11 21:01:49,156 - INFO - Calculating ADX.
+2025-01-11 21:01:49,167 - INFO - Indicators Calculated.
+2025-01-11 21:01:49,167 - INFO - Managing existing position.
+2025-01-11 21:01:49,167 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:01:49,167 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:01:49,167 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:02:49,175 - INFO - Fetching latest data...
+2025-01-11 21:02:49,177 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:02:49,270 - INFO - No new data available.
+2025-01-11 21:02:49,270 - INFO - Calculating MACD.
+2025-01-11 21:02:49,272 - INFO - Calculating ADX.
+2025-01-11 21:02:49,280 - INFO - Indicators Calculated.
+2025-01-11 21:02:49,280 - INFO - Managing existing position.
+2025-01-11 21:02:49,280 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:02:49,281 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:02:49,281 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:03:49,287 - INFO - Fetching latest data...
+2025-01-11 21:03:49,288 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:03:49,378 - INFO - No new data available.
+2025-01-11 21:03:49,378 - INFO - Calculating MACD.
+2025-01-11 21:03:49,380 - INFO - Calculating ADX.
+2025-01-11 21:03:49,387 - INFO - Indicators Calculated.
+2025-01-11 21:03:49,387 - INFO - Managing existing position.
+2025-01-11 21:03:49,388 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:03:49,388 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:03:49,388 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:04:49,398 - INFO - Fetching latest data...
+2025-01-11 21:04:49,399 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:04:49,493 - INFO - No new data available.
+2025-01-11 21:04:49,493 - INFO - Calculating MACD.
+2025-01-11 21:04:49,495 - INFO - Calculating ADX.
+2025-01-11 21:04:49,501 - INFO - Indicators Calculated.
+2025-01-11 21:04:49,501 - INFO - Managing existing position.
+2025-01-11 21:04:49,501 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:04:49,501 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:04:49,501 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:05:49,508 - INFO - Fetching latest data...
+2025-01-11 21:05:49,509 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:05:49,605 - INFO - No new data available.
+2025-01-11 21:05:49,605 - INFO - Calculating MACD.
+2025-01-11 21:05:49,606 - INFO - Calculating ADX.
+2025-01-11 21:05:49,606 - INFO - Indicators Calculated.
+2025-01-11 21:05:49,606 - INFO - Managing existing position.
+2025-01-11 21:05:49,606 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:05:49,606 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:05:49,606 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:06:49,608 - INFO - Fetching latest data...
+2025-01-11 21:06:49,608 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:06:49,690 - INFO - No new data available.
+2025-01-11 21:06:49,690 - INFO - Calculating MACD.
+2025-01-11 21:06:49,706 - INFO - Calculating ADX.
+2025-01-11 21:06:49,709 - INFO - Indicators Calculated.
+2025-01-11 21:06:49,709 - INFO - Managing existing position.
+2025-01-11 21:06:49,709 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:06:49,709 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:06:49,709 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:07:49,718 - INFO - Fetching latest data...
+2025-01-11 21:07:49,719 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:07:49,851 - INFO - No new data available.
+2025-01-11 21:07:49,851 - INFO - Calculating MACD.
+2025-01-11 21:07:49,851 - INFO - Calculating ADX.
+2025-01-11 21:07:49,851 - INFO - Indicators Calculated.
+2025-01-11 21:07:49,851 - INFO - Managing existing position.
+2025-01-11 21:07:49,851 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:07:49,851 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:07:49,851 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:08:49,859 - INFO - Fetching latest data...
+2025-01-11 21:08:49,861 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:08:49,957 - INFO - No new data available.
+2025-01-11 21:08:49,957 - INFO - Calculating MACD.
+2025-01-11 21:08:49,961 - INFO - Calculating ADX.
+2025-01-11 21:08:49,961 - INFO - Indicators Calculated.
+2025-01-11 21:08:49,961 - INFO - Managing existing position.
+2025-01-11 21:08:49,961 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:08:49,961 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:08:49,961 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:09:49,978 - INFO - Fetching latest data...
+2025-01-11 21:09:49,978 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:09:50,073 - INFO - No new data available.
+2025-01-11 21:09:50,073 - INFO - Calculating MACD.
+2025-01-11 21:09:50,073 - INFO - Calculating ADX.
+2025-01-11 21:09:50,073 - INFO - Indicators Calculated.
+2025-01-11 21:09:50,073 - INFO - Managing existing position.
+2025-01-11 21:09:50,073 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:09:50,073 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:09:50,073 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:10:50,080 - INFO - Fetching latest data...
+2025-01-11 21:10:50,080 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:10:50,167 - INFO - No new data available.
+2025-01-11 21:10:50,167 - INFO - Calculating MACD.
+2025-01-11 21:10:50,167 - INFO - Calculating ADX.
+2025-01-11 21:10:50,183 - INFO - Indicators Calculated.
+2025-01-11 21:10:50,183 - INFO - Managing existing position.
+2025-01-11 21:10:50,183 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:10:50,183 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:10:50,183 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:11:50,190 - INFO - Fetching latest data...
+2025-01-11 21:11:50,190 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:11:50,278 - INFO - No new data available.
+2025-01-11 21:11:50,278 - INFO - Calculating MACD.
+2025-01-11 21:11:50,278 - INFO - Calculating ADX.
+2025-01-11 21:11:50,295 - INFO - Indicators Calculated.
+2025-01-11 21:11:50,295 - INFO - Managing existing position.
+2025-01-11 21:11:50,295 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:11:50,295 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:11:50,295 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:12:50,310 - INFO - Fetching latest data...
+2025-01-11 21:12:50,310 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:12:50,389 - INFO - No new data available.
+2025-01-11 21:12:50,389 - INFO - Calculating MACD.
+2025-01-11 21:12:50,389 - INFO - Calculating ADX.
+2025-01-11 21:12:50,389 - INFO - Indicators Calculated.
+2025-01-11 21:12:50,389 - INFO - Managing existing position.
+2025-01-11 21:12:50,389 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:12:50,389 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:12:50,389 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:13:50,393 - INFO - Fetching latest data...
+2025-01-11 21:13:50,393 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:13:50,501 - INFO - No new data available.
+2025-01-11 21:13:50,501 - INFO - Calculating MACD.
+2025-01-11 21:13:50,501 - INFO - Calculating ADX.
+2025-01-11 21:13:50,501 - INFO - Indicators Calculated.
+2025-01-11 21:13:50,501 - INFO - Managing existing position.
+2025-01-11 21:13:50,501 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:13:50,501 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:13:50,501 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:14:50,509 - INFO - Fetching latest data...
+2025-01-11 21:14:50,511 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:14:50,600 - INFO - No new data available.
+2025-01-11 21:14:50,600 - INFO - Calculating MACD.
+2025-01-11 21:14:50,602 - INFO - Calculating ADX.
+2025-01-11 21:14:50,608 - INFO - Indicators Calculated.
+2025-01-11 21:14:50,609 - INFO - Managing existing position.
+2025-01-11 21:14:50,609 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:14:50,609 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:14:50,609 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:15:50,619 - INFO - Fetching latest data...
+2025-01-11 21:15:50,621 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:15:50,718 - INFO - No new data available.
+2025-01-11 21:15:50,719 - INFO - Calculating MACD.
+2025-01-11 21:15:50,721 - INFO - Calculating ADX.
+2025-01-11 21:15:50,725 - INFO - Indicators Calculated.
+2025-01-11 21:15:50,726 - INFO - Managing existing position.
+2025-01-11 21:15:50,726 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:15:50,726 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:15:50,726 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:16:50,734 - INFO - Fetching latest data...
+2025-01-11 21:16:50,735 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:16:50,825 - INFO - No new data available.
+2025-01-11 21:16:50,826 - INFO - Calculating MACD.
+2025-01-11 21:16:50,827 - INFO - Calculating ADX.
+2025-01-11 21:16:50,832 - INFO - Indicators Calculated.
+2025-01-11 21:16:50,832 - INFO - Managing existing position.
+2025-01-11 21:16:50,832 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:16:50,832 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:16:50,833 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:17:50,847 - INFO - Fetching latest data...
+2025-01-11 21:17:50,847 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:17:50,986 - INFO - No new data available.
+2025-01-11 21:17:50,987 - INFO - Calculating MACD.
+2025-01-11 21:17:50,988 - INFO - Calculating ADX.
+2025-01-11 21:17:50,993 - INFO - Indicators Calculated.
+2025-01-11 21:17:50,993 - INFO - Managing existing position.
+2025-01-11 21:17:50,993 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:17:50,993 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:17:50,993 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:18:51,007 - INFO - Fetching latest data...
+2025-01-11 21:18:51,008 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:18:51,092 - INFO - No new data available.
+2025-01-11 21:18:51,092 - INFO - Calculating MACD.
+2025-01-11 21:18:51,092 - INFO - Calculating ADX.
+2025-01-11 21:18:51,107 - INFO - Indicators Calculated.
+2025-01-11 21:18:51,107 - INFO - Managing existing position.
+2025-01-11 21:18:51,107 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:18:51,107 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:18:51,107 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:19:51,114 - INFO - Fetching latest data...
+2025-01-11 21:19:51,114 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:19:51,205 - INFO - No new data available.
+2025-01-11 21:19:51,206 - INFO - Calculating MACD.
+2025-01-11 21:19:51,207 - INFO - Calculating ADX.
+2025-01-11 21:19:51,213 - INFO - Indicators Calculated.
+2025-01-11 21:19:51,213 - INFO - Managing existing position.
+2025-01-11 21:19:51,213 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:19:51,213 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:19:51,213 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:20:51,226 - INFO - Fetching latest data...
+2025-01-11 21:20:51,229 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:20:51,337 - INFO - No new data available.
+2025-01-11 21:20:51,338 - INFO - Calculating MACD.
+2025-01-11 21:20:51,338 - INFO - Calculating ADX.
+2025-01-11 21:20:51,344 - INFO - Indicators Calculated.
+2025-01-11 21:20:51,344 - INFO - Managing existing position.
+2025-01-11 21:20:51,344 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:20:51,344 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:20:51,345 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:21:51,357 - INFO - Fetching latest data...
+2025-01-11 21:21:51,358 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:21:51,455 - INFO - No new data available.
+2025-01-11 21:21:51,457 - INFO - Calculating MACD.
+2025-01-11 21:21:51,459 - INFO - Calculating ADX.
+2025-01-11 21:21:51,463 - INFO - Indicators Calculated.
+2025-01-11 21:21:51,464 - INFO - Managing existing position.
+2025-01-11 21:21:51,464 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:21:51,464 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:21:51,464 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:22:51,469 - INFO - Fetching latest data...
+2025-01-11 21:22:51,470 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:22:51,562 - INFO - No new data available.
+2025-01-11 21:22:51,563 - INFO - Calculating MACD.
+2025-01-11 21:22:51,564 - INFO - Calculating ADX.
+2025-01-11 21:22:51,572 - INFO - Indicators Calculated.
+2025-01-11 21:22:51,573 - INFO - Managing existing position.
+2025-01-11 21:22:51,573 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:22:51,573 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:22:51,573 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:23:51,582 - INFO - Fetching latest data...
+2025-01-11 21:23:51,583 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:23:51,680 - INFO - No new data available.
+2025-01-11 21:23:51,680 - INFO - Calculating MACD.
+2025-01-11 21:23:51,682 - INFO - Calculating ADX.
+2025-01-11 21:23:51,688 - INFO - Indicators Calculated.
+2025-01-11 21:23:51,688 - INFO - Managing existing position.
+2025-01-11 21:23:51,688 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:23:51,688 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:23:51,689 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:24:51,690 - INFO - Fetching latest data...
+2025-01-11 21:24:51,692 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:24:51,782 - INFO - No new data available.
+2025-01-11 21:24:51,782 - INFO - Calculating MACD.
+2025-01-11 21:24:51,784 - INFO - Calculating ADX.
+2025-01-11 21:24:51,790 - INFO - Indicators Calculated.
+2025-01-11 21:24:51,790 - INFO - Managing existing position.
+2025-01-11 21:24:51,790 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:24:51,790 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:24:51,790 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:25:51,801 - INFO - Fetching latest data...
+2025-01-11 21:25:51,802 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:25:51,892 - INFO - No new data available.
+2025-01-11 21:25:51,893 - INFO - Calculating MACD.
+2025-01-11 21:25:51,895 - INFO - Calculating ADX.
+2025-01-11 21:25:51,902 - INFO - Indicators Calculated.
+2025-01-11 21:25:51,902 - INFO - Managing existing position.
+2025-01-11 21:25:51,902 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:25:51,902 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:25:51,902 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:26:51,906 - INFO - Fetching latest data...
+2025-01-11 21:26:51,906 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:26:52,002 - INFO - No new data available.
+2025-01-11 21:26:52,002 - INFO - Calculating MACD.
+2025-01-11 21:26:52,017 - INFO - Calculating ADX.
+2025-01-11 21:26:52,017 - INFO - Indicators Calculated.
+2025-01-11 21:26:52,017 - INFO - Managing existing position.
+2025-01-11 21:26:52,017 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:26:52,017 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:26:52,017 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:27:52,023 - INFO - Fetching latest data...
+2025-01-11 21:27:52,025 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:27:52,126 - INFO - No new data available.
+2025-01-11 21:27:52,126 - INFO - Calculating MACD.
+2025-01-11 21:27:52,128 - INFO - Calculating ADX.
+2025-01-11 21:27:52,133 - INFO - Indicators Calculated.
+2025-01-11 21:27:52,134 - INFO - Managing existing position.
+2025-01-11 21:27:52,134 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:27:52,134 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:27:52,134 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:28:52,135 - INFO - Fetching latest data...
+2025-01-11 21:28:52,137 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:28:52,236 - INFO - No new data available.
+2025-01-11 21:28:52,237 - INFO - Calculating MACD.
+2025-01-11 21:28:52,238 - INFO - Calculating ADX.
+2025-01-11 21:28:52,240 - INFO - Indicators Calculated.
+2025-01-11 21:28:52,240 - INFO - Managing existing position.
+2025-01-11 21:28:52,240 - INFO - Checking if ADX is below the exit threshold.
+2025-01-11 21:28:52,240 - INFO - Checking if stop loss or take profit levels have been hit.
+2025-01-11 21:28:52,240 - INFO - Sleeping for 60 seconds.
+2025-01-11 21:29:52,243 - INFO - Reached maximum runtime of 4:00:00. Exiting.

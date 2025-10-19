@@ -1,0 +1,2171 @@
+2025-01-11 17:29:34,802 - INFO - Fetching historical data.
+2025-01-11 17:29:35,258 - INFO - Historical data fetched.
+2025-01-11 17:29:35,258 - INFO - Fetching latest data...
+2025-01-11 17:29:35,258 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:29:35,344 - INFO - No new data available.
+2025-01-11 17:29:35,345 - INFO - Calculating EMA.
+2025-01-11 17:29:35,345 - INFO - Calculating RSI.
+2025-01-11 17:29:35,352 - INFO - Indicators Calculated.
+2025-01-11 17:29:35,352 - INFO - Checking for buy signals.
+2025-01-11 17:29:35,352 - INFO - Calculating position size to trade.
+2025-01-11 17:29:36,782 - INFO - Sleeping for 60 seconds
+2025-01-11 17:30:36,797 - INFO - Fetching latest data...
+2025-01-11 17:30:36,797 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:30:36,894 - INFO - No new data available.
+2025-01-11 17:30:36,894 - INFO - Calculating EMA.
+2025-01-11 17:30:36,894 - INFO - Calculating RSI.
+2025-01-11 17:30:36,896 - INFO - Indicators Calculated.
+2025-01-11 17:30:36,896 - INFO - Checking for buy signals.
+2025-01-11 17:30:36,896 - INFO - Calculating position size to trade.
+2025-01-11 17:30:36,985 - INFO - Sleeping for 60 seconds
+2025-01-11 17:31:36,994 - INFO - Fetching latest data...
+2025-01-11 17:31:36,994 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:31:37,093 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 17:31:37,097 - INFO - Latest data added.
+2025-01-11 17:31:37,097 - INFO - Calculating EMA.
+2025-01-11 17:31:37,097 - INFO - Calculating RSI.
+2025-01-11 17:31:37,098 - INFO - Indicators Calculated.
+2025-01-11 17:31:37,099 - INFO - Checking for buy signals.
+2025-01-11 17:31:37,099 - INFO - Calculating position size to trade.
+2025-01-11 17:31:37,190 - INFO - Sleeping for 60 seconds
+2025-01-11 17:32:37,198 - INFO - Fetching latest data...
+2025-01-11 17:32:37,199 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:32:37,297 - INFO - No new data available.
+2025-01-11 17:32:37,297 - INFO - Calculating EMA.
+2025-01-11 17:32:37,297 - INFO - Calculating RSI.
+2025-01-11 17:32:37,300 - INFO - Indicators Calculated.
+2025-01-11 17:32:37,300 - INFO - Checking for buy signals.
+2025-01-11 17:32:37,300 - INFO - Calculating position size to trade.
+2025-01-11 17:32:37,393 - INFO - Sleeping for 60 seconds
+2025-01-11 17:33:37,405 - INFO - Fetching latest data...
+2025-01-11 17:33:37,406 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:33:37,499 - INFO - No new data available.
+2025-01-11 17:33:37,500 - INFO - Calculating EMA.
+2025-01-11 17:33:37,501 - INFO - Calculating RSI.
+2025-01-11 17:33:37,504 - INFO - Indicators Calculated.
+2025-01-11 17:33:37,504 - INFO - Checking for buy signals.
+2025-01-11 17:33:37,504 - INFO - Calculating position size to trade.
+2025-01-11 17:33:37,645 - INFO - Sleeping for 60 seconds
+2025-01-11 17:34:37,646 - INFO - Fetching latest data...
+2025-01-11 17:34:37,647 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:34:37,744 - INFO - No new data available.
+2025-01-11 17:34:37,744 - INFO - Calculating EMA.
+2025-01-11 17:34:37,745 - INFO - Calculating RSI.
+2025-01-11 17:34:37,749 - INFO - Indicators Calculated.
+2025-01-11 17:34:37,750 - INFO - Checking for buy signals.
+2025-01-11 17:34:37,750 - INFO - Calculating position size to trade.
+2025-01-11 17:34:37,839 - INFO - Sleeping for 60 seconds
+2025-01-11 17:35:37,849 - INFO - Fetching latest data...
+2025-01-11 17:35:37,849 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:35:37,936 - INFO - No new data available.
+2025-01-11 17:35:37,937 - INFO - Calculating EMA.
+2025-01-11 17:35:37,937 - INFO - Calculating RSI.
+2025-01-11 17:35:37,940 - INFO - Indicators Calculated.
+2025-01-11 17:35:37,941 - INFO - Checking for buy signals.
+2025-01-11 17:35:37,941 - INFO - Calculating position size to trade.
+2025-01-11 17:35:38,036 - INFO - Sleeping for 60 seconds
+2025-01-11 17:36:38,047 - INFO - Fetching latest data...
+2025-01-11 17:36:38,048 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:36:38,142 - INFO - No new data available.
+2025-01-11 17:36:38,142 - INFO - Calculating EMA.
+2025-01-11 17:36:38,142 - INFO - Calculating RSI.
+2025-01-11 17:36:38,145 - INFO - Indicators Calculated.
+2025-01-11 17:36:38,145 - INFO - Checking for buy signals.
+2025-01-11 17:36:38,145 - INFO - Calculating position size to trade.
+2025-01-11 17:36:38,238 - INFO - Sleeping for 60 seconds
+2025-01-11 17:37:38,254 - INFO - Fetching latest data...
+2025-01-11 17:37:38,255 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:37:38,354 - INFO - No new data available.
+2025-01-11 17:37:38,355 - INFO - Calculating EMA.
+2025-01-11 17:37:38,356 - INFO - Calculating RSI.
+2025-01-11 17:37:38,359 - INFO - Indicators Calculated.
+2025-01-11 17:37:38,359 - INFO - Checking for buy signals.
+2025-01-11 17:37:38,359 - INFO - Calculating position size to trade.
+2025-01-11 17:37:38,477 - INFO - Sleeping for 60 seconds
+2025-01-11 17:38:38,477 - INFO - Fetching latest data...
+2025-01-11 17:38:38,478 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:38:38,573 - INFO - No new data available.
+2025-01-11 17:38:38,573 - INFO - Calculating EMA.
+2025-01-11 17:38:38,574 - INFO - Calculating RSI.
+2025-01-11 17:38:38,576 - INFO - Indicators Calculated.
+2025-01-11 17:38:38,576 - INFO - Checking for buy signals.
+2025-01-11 17:38:38,577 - INFO - Calculating position size to trade.
+2025-01-11 17:38:38,666 - INFO - Sleeping for 60 seconds
+2025-01-11 17:39:38,681 - INFO - Fetching latest data...
+2025-01-11 17:39:38,683 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:39:38,777 - INFO - No new data available.
+2025-01-11 17:39:38,777 - INFO - Calculating EMA.
+2025-01-11 17:39:38,778 - INFO - Calculating RSI.
+2025-01-11 17:39:38,782 - INFO - Indicators Calculated.
+2025-01-11 17:39:38,782 - INFO - Checking for buy signals.
+2025-01-11 17:39:38,783 - INFO - Calculating position size to trade.
+2025-01-11 17:39:38,895 - INFO - Sleeping for 60 seconds
+2025-01-11 17:40:38,910 - INFO - Fetching latest data...
+2025-01-11 17:40:38,911 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:40:39,011 - INFO - No new data available.
+2025-01-11 17:40:39,011 - INFO - Calculating EMA.
+2025-01-11 17:40:39,012 - INFO - Calculating RSI.
+2025-01-11 17:40:39,014 - INFO - Indicators Calculated.
+2025-01-11 17:40:39,014 - INFO - Checking for buy signals.
+2025-01-11 17:40:39,014 - INFO - Calculating position size to trade.
+2025-01-11 17:40:39,173 - INFO - Sleeping for 60 seconds
+2025-01-11 17:41:39,181 - INFO - Fetching latest data...
+2025-01-11 17:41:39,181 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:41:39,273 - INFO - No new data available.
+2025-01-11 17:41:39,274 - INFO - Calculating EMA.
+2025-01-11 17:41:39,275 - INFO - Calculating RSI.
+2025-01-11 17:41:39,277 - INFO - Indicators Calculated.
+2025-01-11 17:41:39,278 - INFO - Checking for buy signals.
+2025-01-11 17:41:39,278 - INFO - Calculating position size to trade.
+2025-01-11 17:41:39,366 - INFO - Sleeping for 60 seconds
+2025-01-11 17:42:39,369 - INFO - Fetching latest data...
+2025-01-11 17:42:39,370 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:42:39,461 - INFO - No new data available.
+2025-01-11 17:42:39,461 - INFO - Calculating EMA.
+2025-01-11 17:42:39,461 - INFO - Calculating RSI.
+2025-01-11 17:42:39,463 - INFO - Indicators Calculated.
+2025-01-11 17:42:39,463 - INFO - Checking for buy signals.
+2025-01-11 17:42:39,463 - INFO - Calculating position size to trade.
+2025-01-11 17:42:39,555 - INFO - Sleeping for 60 seconds
+2025-01-11 17:43:39,558 - INFO - Fetching latest data...
+2025-01-11 17:43:39,559 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:43:39,653 - INFO - No new data available.
+2025-01-11 17:43:39,653 - INFO - Calculating EMA.
+2025-01-11 17:43:39,653 - INFO - Calculating RSI.
+2025-01-11 17:43:39,655 - INFO - Indicators Calculated.
+2025-01-11 17:43:39,655 - INFO - Checking for buy signals.
+2025-01-11 17:43:39,655 - INFO - Calculating position size to trade.
+2025-01-11 17:43:39,750 - INFO - Sleeping for 60 seconds
+2025-01-11 17:44:39,758 - INFO - Fetching latest data...
+2025-01-11 17:44:39,758 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:44:39,850 - INFO - No new data available.
+2025-01-11 17:44:39,851 - INFO - Calculating EMA.
+2025-01-11 17:44:39,852 - INFO - Calculating RSI.
+2025-01-11 17:44:39,855 - INFO - Indicators Calculated.
+2025-01-11 17:44:39,855 - INFO - Checking for buy signals.
+2025-01-11 17:44:39,855 - INFO - Calculating position size to trade.
+2025-01-11 17:44:39,948 - INFO - Sleeping for 60 seconds
+2025-01-11 17:45:39,963 - INFO - Fetching latest data...
+2025-01-11 17:45:39,965 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:45:40,055 - INFO - No new data available.
+2025-01-11 17:45:40,056 - INFO - Calculating EMA.
+2025-01-11 17:45:40,057 - INFO - Calculating RSI.
+2025-01-11 17:45:40,059 - INFO - Indicators Calculated.
+2025-01-11 17:45:40,060 - INFO - Checking for buy signals.
+2025-01-11 17:45:40,060 - INFO - Calculating position size to trade.
+2025-01-11 17:45:40,150 - INFO - Sleeping for 60 seconds
+2025-01-11 17:46:40,160 - INFO - Fetching latest data...
+2025-01-11 17:46:40,161 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:46:40,256 - INFO - No new data available.
+2025-01-11 17:46:40,256 - INFO - Calculating EMA.
+2025-01-11 17:46:40,257 - INFO - Calculating RSI.
+2025-01-11 17:46:40,263 - INFO - Indicators Calculated.
+2025-01-11 17:46:40,263 - INFO - Checking for buy signals.
+2025-01-11 17:46:40,263 - INFO - Calculating position size to trade.
+2025-01-11 17:46:40,354 - INFO - Sleeping for 60 seconds
+2025-01-11 17:47:40,364 - INFO - Fetching latest data...
+2025-01-11 17:47:40,365 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:47:40,462 - INFO - No new data available.
+2025-01-11 17:47:40,463 - INFO - Calculating EMA.
+2025-01-11 17:47:40,463 - INFO - Calculating RSI.
+2025-01-11 17:47:40,466 - INFO - Indicators Calculated.
+2025-01-11 17:47:40,466 - INFO - Checking for buy signals.
+2025-01-11 17:47:40,466 - INFO - Calculating position size to trade.
+2025-01-11 17:47:40,558 - INFO - Sleeping for 60 seconds
+2025-01-11 17:48:40,565 - INFO - Fetching latest data...
+2025-01-11 17:48:40,568 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:48:40,661 - INFO - No new data available.
+2025-01-11 17:48:40,661 - INFO - Calculating EMA.
+2025-01-11 17:48:40,662 - INFO - Calculating RSI.
+2025-01-11 17:48:40,664 - INFO - Indicators Calculated.
+2025-01-11 17:48:40,664 - INFO - Checking for buy signals.
+2025-01-11 17:48:40,664 - INFO - Calculating position size to trade.
+2025-01-11 17:48:40,766 - INFO - Sleeping for 60 seconds
+2025-01-11 17:49:40,775 - INFO - Fetching latest data...
+2025-01-11 17:49:40,777 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:49:40,886 - INFO - No new data available.
+2025-01-11 17:49:40,886 - INFO - Calculating EMA.
+2025-01-11 17:49:40,887 - INFO - Calculating RSI.
+2025-01-11 17:49:40,888 - INFO - Indicators Calculated.
+2025-01-11 17:49:40,888 - INFO - Checking for buy signals.
+2025-01-11 17:49:40,888 - INFO - Calculating position size to trade.
+2025-01-11 17:49:40,979 - INFO - Sleeping for 60 seconds
+2025-01-11 17:50:40,989 - INFO - Fetching latest data...
+2025-01-11 17:50:40,990 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:50:41,079 - INFO - No new data available.
+2025-01-11 17:50:41,079 - INFO - Calculating EMA.
+2025-01-11 17:50:41,080 - INFO - Calculating RSI.
+2025-01-11 17:50:41,081 - INFO - Indicators Calculated.
+2025-01-11 17:50:41,081 - INFO - Checking for buy signals.
+2025-01-11 17:50:41,082 - INFO - Calculating position size to trade.
+2025-01-11 17:50:41,170 - INFO - Sleeping for 60 seconds
+2025-01-11 17:51:41,171 - INFO - Fetching latest data...
+2025-01-11 17:51:41,172 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:51:41,332 - INFO - No new data available.
+2025-01-11 17:51:41,333 - INFO - Calculating EMA.
+2025-01-11 17:51:41,334 - INFO - Calculating RSI.
+2025-01-11 17:51:41,337 - INFO - Indicators Calculated.
+2025-01-11 17:51:41,337 - INFO - Checking for buy signals.
+2025-01-11 17:51:41,337 - INFO - Calculating position size to trade.
+2025-01-11 17:51:41,489 - INFO - Sleeping for 60 seconds
+2025-01-11 17:52:41,493 - INFO - Fetching latest data...
+2025-01-11 17:52:41,495 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:52:41,588 - INFO - No new data available.
+2025-01-11 17:52:41,588 - INFO - Calculating EMA.
+2025-01-11 17:52:41,589 - INFO - Calculating RSI.
+2025-01-11 17:52:41,591 - INFO - Indicators Calculated.
+2025-01-11 17:52:41,591 - INFO - Checking for buy signals.
+2025-01-11 17:52:41,591 - INFO - Calculating position size to trade.
+2025-01-11 17:52:41,681 - INFO - Sleeping for 60 seconds
+2025-01-11 17:53:41,695 - INFO - Fetching latest data...
+2025-01-11 17:53:41,696 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:53:41,787 - INFO - No new data available.
+2025-01-11 17:53:41,787 - INFO - Calculating EMA.
+2025-01-11 17:53:41,789 - INFO - Calculating RSI.
+2025-01-11 17:53:41,792 - INFO - Indicators Calculated.
+2025-01-11 17:53:41,793 - INFO - Checking for buy signals.
+2025-01-11 17:53:41,793 - INFO - Calculating position size to trade.
+2025-01-11 17:53:41,884 - INFO - Sleeping for 60 seconds
+2025-01-11 17:54:41,899 - INFO - Fetching latest data...
+2025-01-11 17:54:41,900 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:54:41,995 - INFO - No new data available.
+2025-01-11 17:54:41,995 - INFO - Calculating EMA.
+2025-01-11 17:54:41,996 - INFO - Calculating RSI.
+2025-01-11 17:54:41,998 - INFO - Indicators Calculated.
+2025-01-11 17:54:41,998 - INFO - Checking for buy signals.
+2025-01-11 17:54:41,998 - INFO - Calculating position size to trade.
+2025-01-11 17:54:42,088 - INFO - Sleeping for 60 seconds
+2025-01-11 17:55:42,100 - INFO - Fetching latest data...
+2025-01-11 17:55:42,101 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:55:42,199 - INFO - No new data available.
+2025-01-11 17:55:42,199 - INFO - Calculating EMA.
+2025-01-11 17:55:42,199 - INFO - Calculating RSI.
+2025-01-11 17:55:42,200 - INFO - Indicators Calculated.
+2025-01-11 17:55:42,201 - INFO - Checking for buy signals.
+2025-01-11 17:55:42,201 - INFO - Calculating position size to trade.
+2025-01-11 17:55:42,295 - INFO - Sleeping for 60 seconds
+2025-01-11 17:56:42,309 - INFO - Fetching latest data...
+2025-01-11 17:56:42,310 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:56:42,407 - INFO - No new data available.
+2025-01-11 17:56:42,407 - INFO - Calculating EMA.
+2025-01-11 17:56:42,407 - INFO - Calculating RSI.
+2025-01-11 17:56:42,408 - INFO - Indicators Calculated.
+2025-01-11 17:56:42,408 - INFO - Checking for buy signals.
+2025-01-11 17:56:42,408 - INFO - Calculating position size to trade.
+2025-01-11 17:56:42,495 - INFO - Sleeping for 60 seconds
+2025-01-11 17:57:42,506 - INFO - Fetching latest data...
+2025-01-11 17:57:42,506 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:57:42,626 - INFO - No new data available.
+2025-01-11 17:57:42,626 - INFO - Calculating EMA.
+2025-01-11 17:57:42,626 - INFO - Calculating RSI.
+2025-01-11 17:57:42,627 - INFO - Indicators Calculated.
+2025-01-11 17:57:42,628 - INFO - Checking for buy signals.
+2025-01-11 17:57:42,628 - INFO - Calculating position size to trade.
+2025-01-11 17:57:42,721 - INFO - Sleeping for 60 seconds
+2025-01-11 17:58:42,733 - INFO - Fetching latest data...
+2025-01-11 17:58:42,734 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:58:42,828 - INFO - No new data available.
+2025-01-11 17:58:42,829 - INFO - Calculating EMA.
+2025-01-11 17:58:42,829 - INFO - Calculating RSI.
+2025-01-11 17:58:42,831 - INFO - Indicators Calculated.
+2025-01-11 17:58:42,831 - INFO - Checking for buy signals.
+2025-01-11 17:58:42,831 - INFO - Calculating position size to trade.
+2025-01-11 17:58:42,931 - INFO - Sleeping for 60 seconds
+2025-01-11 17:59:42,934 - INFO - Fetching latest data...
+2025-01-11 17:59:42,936 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 17:59:43,028 - INFO - No new data available.
+2025-01-11 17:59:43,028 - INFO - Calculating EMA.
+2025-01-11 17:59:43,029 - INFO - Calculating RSI.
+2025-01-11 17:59:43,030 - INFO - Indicators Calculated.
+2025-01-11 17:59:43,030 - INFO - Checking for buy signals.
+2025-01-11 17:59:43,030 - INFO - Calculating position size to trade.
+2025-01-11 17:59:43,120 - INFO - Sleeping for 60 seconds
+2025-01-11 18:00:43,126 - INFO - Fetching latest data...
+2025-01-11 18:00:43,127 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:00:43,221 - INFO - No new data available.
+2025-01-11 18:00:43,221 - INFO - Calculating EMA.
+2025-01-11 18:00:43,222 - INFO - Calculating RSI.
+2025-01-11 18:00:43,223 - INFO - Indicators Calculated.
+2025-01-11 18:00:43,223 - INFO - Checking for buy signals.
+2025-01-11 18:00:43,223 - INFO - Calculating position size to trade.
+2025-01-11 18:00:43,312 - INFO - Sleeping for 60 seconds
+2025-01-11 18:01:43,324 - INFO - Fetching latest data...
+2025-01-11 18:01:43,325 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:01:43,456 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 18:01:43,458 - INFO - Latest data added.
+2025-01-11 18:01:43,458 - INFO - Calculating EMA.
+2025-01-11 18:01:43,459 - INFO - Calculating RSI.
+2025-01-11 18:01:43,460 - INFO - Indicators Calculated.
+2025-01-11 18:01:43,460 - INFO - Checking for buy signals.
+2025-01-11 18:01:43,460 - INFO - Calculating position size to trade.
+2025-01-11 18:01:43,573 - INFO - Sleeping for 60 seconds
+2025-01-11 18:02:43,575 - INFO - Fetching latest data...
+2025-01-11 18:02:43,575 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:02:45,071 - INFO - No new data available.
+2025-01-11 18:02:45,072 - INFO - Calculating EMA.
+2025-01-11 18:02:45,072 - INFO - Calculating RSI.
+2025-01-11 18:02:45,073 - INFO - Indicators Calculated.
+2025-01-11 18:02:45,074 - INFO - Checking for buy signals.
+2025-01-11 18:02:45,074 - INFO - Calculating position size to trade.
+2025-01-11 18:02:45,164 - INFO - Sleeping for 60 seconds
+2025-01-11 18:03:45,177 - INFO - Fetching latest data...
+2025-01-11 18:03:45,178 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:03:45,267 - INFO - No new data available.
+2025-01-11 18:03:45,267 - INFO - Calculating EMA.
+2025-01-11 18:03:45,268 - INFO - Calculating RSI.
+2025-01-11 18:03:45,269 - INFO - Indicators Calculated.
+2025-01-11 18:03:45,269 - INFO - Checking for buy signals.
+2025-01-11 18:03:45,269 - INFO - Calculating position size to trade.
+2025-01-11 18:03:45,367 - INFO - Sleeping for 60 seconds
+2025-01-11 18:04:45,381 - INFO - Fetching latest data...
+2025-01-11 18:04:45,383 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:04:45,480 - INFO - No new data available.
+2025-01-11 18:04:45,480 - INFO - Calculating EMA.
+2025-01-11 18:04:45,481 - INFO - Calculating RSI.
+2025-01-11 18:04:45,482 - INFO - Indicators Calculated.
+2025-01-11 18:04:45,483 - INFO - Checking for buy signals.
+2025-01-11 18:04:45,483 - INFO - Calculating position size to trade.
+2025-01-11 18:04:45,569 - INFO - Sleeping for 60 seconds
+2025-01-11 18:05:45,583 - INFO - Fetching latest data...
+2025-01-11 18:05:45,584 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:05:45,675 - INFO - No new data available.
+2025-01-11 18:05:45,675 - INFO - Calculating EMA.
+2025-01-11 18:05:45,675 - INFO - Calculating RSI.
+2025-01-11 18:05:45,676 - INFO - Indicators Calculated.
+2025-01-11 18:05:45,677 - INFO - Checking for buy signals.
+2025-01-11 18:05:45,677 - INFO - Calculating position size to trade.
+2025-01-11 18:05:45,767 - INFO - Sleeping for 60 seconds
+2025-01-11 18:06:45,773 - INFO - Fetching latest data...
+2025-01-11 18:06:45,774 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:06:45,879 - INFO - No new data available.
+2025-01-11 18:06:45,879 - INFO - Calculating EMA.
+2025-01-11 18:06:45,879 - INFO - Calculating RSI.
+2025-01-11 18:06:45,881 - INFO - Indicators Calculated.
+2025-01-11 18:06:45,881 - INFO - Checking for buy signals.
+2025-01-11 18:06:45,881 - INFO - Calculating position size to trade.
+2025-01-11 18:06:45,986 - INFO - Sleeping for 60 seconds
+2025-01-11 18:07:46,001 - INFO - Fetching latest data...
+2025-01-11 18:07:46,001 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:07:46,097 - INFO - No new data available.
+2025-01-11 18:07:46,098 - INFO - Calculating EMA.
+2025-01-11 18:07:46,098 - INFO - Calculating RSI.
+2025-01-11 18:07:46,100 - INFO - Indicators Calculated.
+2025-01-11 18:07:46,100 - INFO - Checking for buy signals.
+2025-01-11 18:07:46,100 - INFO - Calculating position size to trade.
+2025-01-11 18:07:46,188 - INFO - Sleeping for 60 seconds
+2025-01-11 18:08:46,189 - INFO - Fetching latest data...
+2025-01-11 18:08:46,189 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:08:46,274 - INFO - No new data available.
+2025-01-11 18:08:46,274 - INFO - Calculating EMA.
+2025-01-11 18:08:46,274 - INFO - Calculating RSI.
+2025-01-11 18:08:46,275 - INFO - Indicators Calculated.
+2025-01-11 18:08:46,275 - INFO - Checking for buy signals.
+2025-01-11 18:08:46,275 - INFO - Calculating position size to trade.
+2025-01-11 18:08:46,367 - INFO - Sleeping for 60 seconds
+2025-01-11 18:09:46,379 - INFO - Fetching latest data...
+2025-01-11 18:09:46,380 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:09:46,472 - INFO - No new data available.
+2025-01-11 18:09:46,473 - INFO - Calculating EMA.
+2025-01-11 18:09:46,473 - INFO - Calculating RSI.
+2025-01-11 18:09:46,475 - INFO - Indicators Calculated.
+2025-01-11 18:09:46,475 - INFO - Checking for buy signals.
+2025-01-11 18:09:46,475 - INFO - Calculating position size to trade.
+2025-01-11 18:09:46,561 - INFO - Sleeping for 60 seconds
+2025-01-11 18:10:46,571 - INFO - Fetching latest data...
+2025-01-11 18:10:46,572 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:10:46,667 - INFO - No new data available.
+2025-01-11 18:10:46,667 - INFO - Calculating EMA.
+2025-01-11 18:10:46,667 - INFO - Calculating RSI.
+2025-01-11 18:10:46,669 - INFO - Indicators Calculated.
+2025-01-11 18:10:46,669 - INFO - Checking for buy signals.
+2025-01-11 18:10:46,669 - INFO - Calculating position size to trade.
+2025-01-11 18:10:46,759 - INFO - Sleeping for 60 seconds
+2025-01-11 18:11:46,763 - INFO - Fetching latest data...
+2025-01-11 18:11:46,763 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:11:46,853 - INFO - No new data available.
+2025-01-11 18:11:46,854 - INFO - Calculating EMA.
+2025-01-11 18:11:46,854 - INFO - Calculating RSI.
+2025-01-11 18:11:46,855 - INFO - Indicators Calculated.
+2025-01-11 18:11:46,855 - INFO - Checking for buy signals.
+2025-01-11 18:11:46,855 - INFO - Calculating position size to trade.
+2025-01-11 18:11:46,942 - INFO - Sleeping for 60 seconds
+2025-01-11 18:12:46,949 - INFO - Fetching latest data...
+2025-01-11 18:12:46,950 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:12:47,054 - INFO - No new data available.
+2025-01-11 18:12:47,054 - INFO - Calculating EMA.
+2025-01-11 18:12:47,055 - INFO - Calculating RSI.
+2025-01-11 18:12:47,057 - INFO - Indicators Calculated.
+2025-01-11 18:12:47,058 - INFO - Checking for buy signals.
+2025-01-11 18:12:47,058 - INFO - Calculating position size to trade.
+2025-01-11 18:12:47,153 - INFO - Sleeping for 60 seconds
+2025-01-11 18:13:47,165 - INFO - Fetching latest data...
+2025-01-11 18:13:47,166 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:13:47,261 - INFO - No new data available.
+2025-01-11 18:13:47,262 - INFO - Calculating EMA.
+2025-01-11 18:13:47,263 - INFO - Calculating RSI.
+2025-01-11 18:13:47,264 - INFO - Indicators Calculated.
+2025-01-11 18:13:47,265 - INFO - Checking for buy signals.
+2025-01-11 18:13:47,265 - INFO - Calculating position size to trade.
+2025-01-11 18:13:47,359 - INFO - Sleeping for 60 seconds
+2025-01-11 18:14:47,363 - INFO - Fetching latest data...
+2025-01-11 18:14:47,364 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:14:47,460 - INFO - No new data available.
+2025-01-11 18:14:47,461 - INFO - Calculating EMA.
+2025-01-11 18:14:47,462 - INFO - Calculating RSI.
+2025-01-11 18:14:47,465 - INFO - Indicators Calculated.
+2025-01-11 18:14:47,465 - INFO - Checking for buy signals.
+2025-01-11 18:14:47,465 - INFO - Calculating position size to trade.
+2025-01-11 18:14:47,620 - INFO - Sleeping for 60 seconds
+2025-01-11 18:15:47,634 - INFO - Fetching latest data...
+2025-01-11 18:15:47,635 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:15:47,738 - INFO - No new data available.
+2025-01-11 18:15:47,738 - INFO - Calculating EMA.
+2025-01-11 18:15:47,739 - INFO - Calculating RSI.
+2025-01-11 18:15:47,742 - INFO - Indicators Calculated.
+2025-01-11 18:15:47,742 - INFO - Checking for buy signals.
+2025-01-11 18:15:47,742 - INFO - Calculating position size to trade.
+2025-01-11 18:15:47,836 - INFO - Sleeping for 60 seconds
+2025-01-11 18:16:47,849 - INFO - Fetching latest data...
+2025-01-11 18:16:47,850 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:16:47,938 - INFO - No new data available.
+2025-01-11 18:16:47,938 - INFO - Calculating EMA.
+2025-01-11 18:16:47,939 - INFO - Calculating RSI.
+2025-01-11 18:16:47,941 - INFO - Indicators Calculated.
+2025-01-11 18:16:47,941 - INFO - Checking for buy signals.
+2025-01-11 18:16:47,942 - INFO - Calculating position size to trade.
+2025-01-11 18:16:48,034 - INFO - Sleeping for 60 seconds
+2025-01-11 18:17:48,050 - INFO - Fetching latest data...
+2025-01-11 18:17:48,051 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:17:48,144 - INFO - No new data available.
+2025-01-11 18:17:48,144 - INFO - Calculating EMA.
+2025-01-11 18:17:48,145 - INFO - Calculating RSI.
+2025-01-11 18:17:48,147 - INFO - Indicators Calculated.
+2025-01-11 18:17:48,149 - INFO - Checking for buy signals.
+2025-01-11 18:17:48,149 - INFO - Calculating position size to trade.
+2025-01-11 18:17:48,239 - INFO - Sleeping for 60 seconds
+2025-01-11 18:18:48,240 - INFO - Fetching latest data...
+2025-01-11 18:18:48,241 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:18:48,338 - INFO - No new data available.
+2025-01-11 18:18:48,338 - INFO - Calculating EMA.
+2025-01-11 18:18:48,339 - INFO - Calculating RSI.
+2025-01-11 18:18:48,342 - INFO - Indicators Calculated.
+2025-01-11 18:18:48,343 - INFO - Checking for buy signals.
+2025-01-11 18:18:48,343 - INFO - Calculating position size to trade.
+2025-01-11 18:18:48,437 - INFO - Sleeping for 60 seconds
+2025-01-11 18:19:48,450 - INFO - Fetching latest data...
+2025-01-11 18:19:48,452 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:19:48,550 - INFO - No new data available.
+2025-01-11 18:19:48,550 - INFO - Calculating EMA.
+2025-01-11 18:19:48,551 - INFO - Calculating RSI.
+2025-01-11 18:19:48,553 - INFO - Indicators Calculated.
+2025-01-11 18:19:48,553 - INFO - Checking for buy signals.
+2025-01-11 18:19:48,553 - INFO - Calculating position size to trade.
+2025-01-11 18:19:48,654 - INFO - Sleeping for 60 seconds
+2025-01-11 18:20:48,658 - INFO - Fetching latest data...
+2025-01-11 18:20:48,660 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:20:48,955 - INFO - No new data available.
+2025-01-11 18:20:48,955 - INFO - Calculating EMA.
+2025-01-11 18:20:48,956 - INFO - Calculating RSI.
+2025-01-11 18:20:48,959 - INFO - Indicators Calculated.
+2025-01-11 18:20:48,959 - INFO - Checking for buy signals.
+2025-01-11 18:20:48,959 - INFO - Calculating position size to trade.
+2025-01-11 18:20:49,057 - INFO - Sleeping for 60 seconds
+2025-01-11 18:21:49,071 - INFO - Fetching latest data...
+2025-01-11 18:21:49,072 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:21:49,166 - INFO - No new data available.
+2025-01-11 18:21:49,166 - INFO - Calculating EMA.
+2025-01-11 18:21:49,166 - INFO - Calculating RSI.
+2025-01-11 18:21:49,168 - INFO - Indicators Calculated.
+2025-01-11 18:21:49,168 - INFO - Checking for buy signals.
+2025-01-11 18:21:49,168 - INFO - Calculating position size to trade.
+2025-01-11 18:21:49,265 - INFO - Sleeping for 60 seconds
+2025-01-11 18:22:49,274 - INFO - Fetching latest data...
+2025-01-11 18:22:49,276 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:22:49,381 - INFO - No new data available.
+2025-01-11 18:22:49,381 - INFO - Calculating EMA.
+2025-01-11 18:22:49,382 - INFO - Calculating RSI.
+2025-01-11 18:22:49,385 - INFO - Indicators Calculated.
+2025-01-11 18:22:49,385 - INFO - Checking for buy signals.
+2025-01-11 18:22:49,385 - INFO - Calculating position size to trade.
+2025-01-11 18:22:49,492 - INFO - Sleeping for 60 seconds
+2025-01-11 18:23:49,492 - INFO - Fetching latest data...
+2025-01-11 18:23:49,493 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:23:49,585 - INFO - No new data available.
+2025-01-11 18:23:49,586 - INFO - Calculating EMA.
+2025-01-11 18:23:49,586 - INFO - Calculating RSI.
+2025-01-11 18:23:49,589 - INFO - Indicators Calculated.
+2025-01-11 18:23:49,590 - INFO - Checking for buy signals.
+2025-01-11 18:23:49,590 - INFO - Calculating position size to trade.
+2025-01-11 18:23:49,685 - INFO - Sleeping for 60 seconds
+2025-01-11 18:24:49,690 - INFO - Fetching latest data...
+2025-01-11 18:24:49,691 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:24:49,785 - INFO - No new data available.
+2025-01-11 18:24:49,785 - INFO - Calculating EMA.
+2025-01-11 18:24:49,786 - INFO - Calculating RSI.
+2025-01-11 18:24:49,789 - INFO - Indicators Calculated.
+2025-01-11 18:24:49,790 - INFO - Checking for buy signals.
+2025-01-11 18:24:49,790 - INFO - Calculating position size to trade.
+2025-01-11 18:24:49,903 - INFO - Sleeping for 60 seconds
+2025-01-11 18:25:49,904 - INFO - Fetching latest data...
+2025-01-11 18:25:49,905 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:25:50,003 - INFO - No new data available.
+2025-01-11 18:25:50,003 - INFO - Calculating EMA.
+2025-01-11 18:25:50,004 - INFO - Calculating RSI.
+2025-01-11 18:25:50,006 - INFO - Indicators Calculated.
+2025-01-11 18:25:50,006 - INFO - Checking for buy signals.
+2025-01-11 18:25:50,006 - INFO - Calculating position size to trade.
+2025-01-11 18:25:50,100 - INFO - Sleeping for 60 seconds
+2025-01-11 18:26:50,106 - INFO - Fetching latest data...
+2025-01-11 18:26:50,108 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:26:50,222 - INFO - No new data available.
+2025-01-11 18:26:50,222 - INFO - Calculating EMA.
+2025-01-11 18:26:50,223 - INFO - Calculating RSI.
+2025-01-11 18:26:50,226 - INFO - Indicators Calculated.
+2025-01-11 18:26:50,226 - INFO - Checking for buy signals.
+2025-01-11 18:26:50,226 - INFO - Calculating position size to trade.
+2025-01-11 18:26:50,318 - INFO - Sleeping for 60 seconds
+2025-01-11 18:27:50,324 - INFO - Fetching latest data...
+2025-01-11 18:27:50,326 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:27:50,420 - INFO - No new data available.
+2025-01-11 18:27:50,420 - INFO - Calculating EMA.
+2025-01-11 18:27:50,421 - INFO - Calculating RSI.
+2025-01-11 18:27:50,424 - INFO - Indicators Calculated.
+2025-01-11 18:27:50,424 - INFO - Checking for buy signals.
+2025-01-11 18:27:50,424 - INFO - Calculating position size to trade.
+2025-01-11 18:27:50,515 - INFO - Sleeping for 60 seconds
+2025-01-11 18:28:50,522 - INFO - Fetching latest data...
+2025-01-11 18:28:50,523 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:28:50,631 - INFO - No new data available.
+2025-01-11 18:28:50,632 - INFO - Calculating EMA.
+2025-01-11 18:28:50,632 - INFO - Calculating RSI.
+2025-01-11 18:28:50,635 - INFO - Indicators Calculated.
+2025-01-11 18:28:50,635 - INFO - Checking for buy signals.
+2025-01-11 18:28:50,635 - INFO - Calculating position size to trade.
+2025-01-11 18:28:50,728 - INFO - Sleeping for 60 seconds
+2025-01-11 18:29:50,735 - INFO - Fetching latest data...
+2025-01-11 18:29:50,736 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:29:50,827 - INFO - No new data available.
+2025-01-11 18:29:50,828 - INFO - Calculating EMA.
+2025-01-11 18:29:50,828 - INFO - Calculating RSI.
+2025-01-11 18:29:50,830 - INFO - Indicators Calculated.
+2025-01-11 18:29:50,830 - INFO - Checking for buy signals.
+2025-01-11 18:29:50,830 - INFO - Calculating position size to trade.
+2025-01-11 18:29:50,923 - INFO - Sleeping for 60 seconds
+2025-01-11 18:30:50,933 - INFO - Fetching latest data...
+2025-01-11 18:30:50,934 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:30:51,215 - INFO - No new data available.
+2025-01-11 18:30:51,215 - INFO - Calculating EMA.
+2025-01-11 18:30:51,216 - INFO - Calculating RSI.
+2025-01-11 18:30:51,219 - INFO - Indicators Calculated.
+2025-01-11 18:30:51,219 - INFO - Checking for buy signals.
+2025-01-11 18:30:51,219 - INFO - Calculating position size to trade.
+2025-01-11 18:30:51,506 - INFO - Sleeping for 60 seconds
+2025-01-11 18:31:51,516 - INFO - Fetching latest data...
+2025-01-11 18:31:51,517 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:31:51,616 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 18:31:51,620 - INFO - Latest data added.
+2025-01-11 18:31:51,621 - INFO - Calculating EMA.
+2025-01-11 18:31:51,621 - INFO - Calculating RSI.
+2025-01-11 18:31:51,622 - INFO - Indicators Calculated.
+2025-01-11 18:31:51,622 - INFO - Checking for buy signals.
+2025-01-11 18:31:51,622 - INFO - Calculating position size to trade.
+2025-01-11 18:31:51,715 - INFO - Sleeping for 60 seconds
+2025-01-11 18:32:51,720 - INFO - Fetching latest data...
+2025-01-11 18:32:51,721 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:32:51,816 - INFO - No new data available.
+2025-01-11 18:32:51,816 - INFO - Calculating EMA.
+2025-01-11 18:32:51,817 - INFO - Calculating RSI.
+2025-01-11 18:32:51,820 - INFO - Indicators Calculated.
+2025-01-11 18:32:51,820 - INFO - Checking for buy signals.
+2025-01-11 18:32:51,820 - INFO - Calculating position size to trade.
+2025-01-11 18:32:51,913 - INFO - Sleeping for 60 seconds
+2025-01-11 18:33:51,924 - INFO - Fetching latest data...
+2025-01-11 18:33:51,926 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:33:52,029 - INFO - No new data available.
+2025-01-11 18:33:52,030 - INFO - Calculating EMA.
+2025-01-11 18:33:52,030 - INFO - Calculating RSI.
+2025-01-11 18:33:52,034 - INFO - Indicators Calculated.
+2025-01-11 18:33:52,034 - INFO - Checking for buy signals.
+2025-01-11 18:33:52,034 - INFO - Calculating position size to trade.
+2025-01-11 18:33:52,136 - INFO - Sleeping for 60 seconds
+2025-01-11 18:34:52,140 - INFO - Fetching latest data...
+2025-01-11 18:34:52,141 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:34:52,253 - INFO - No new data available.
+2025-01-11 18:34:52,253 - INFO - Calculating EMA.
+2025-01-11 18:34:52,255 - INFO - Calculating RSI.
+2025-01-11 18:34:52,257 - INFO - Indicators Calculated.
+2025-01-11 18:34:52,257 - INFO - Checking for buy signals.
+2025-01-11 18:34:52,257 - INFO - Calculating position size to trade.
+2025-01-11 18:34:52,348 - INFO - Sleeping for 60 seconds
+2025-01-11 18:35:52,364 - INFO - Fetching latest data...
+2025-01-11 18:35:52,364 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:35:52,461 - INFO - No new data available.
+2025-01-11 18:35:52,461 - INFO - Calculating EMA.
+2025-01-11 18:35:52,461 - INFO - Calculating RSI.
+2025-01-11 18:35:52,464 - INFO - Indicators Calculated.
+2025-01-11 18:35:52,464 - INFO - Checking for buy signals.
+2025-01-11 18:35:52,464 - INFO - Calculating position size to trade.
+2025-01-11 18:35:52,561 - INFO - Sleeping for 60 seconds
+2025-01-11 18:36:52,561 - INFO - Fetching latest data...
+2025-01-11 18:36:52,561 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:36:52,655 - INFO - No new data available.
+2025-01-11 18:36:52,656 - INFO - Calculating EMA.
+2025-01-11 18:36:52,656 - INFO - Calculating RSI.
+2025-01-11 18:36:52,658 - INFO - Indicators Calculated.
+2025-01-11 18:36:52,658 - INFO - Checking for buy signals.
+2025-01-11 18:36:52,658 - INFO - Calculating position size to trade.
+2025-01-11 18:36:52,750 - INFO - Sleeping for 60 seconds
+2025-01-11 18:37:52,758 - INFO - Fetching latest data...
+2025-01-11 18:37:52,760 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:37:52,855 - INFO - No new data available.
+2025-01-11 18:37:52,856 - INFO - Calculating EMA.
+2025-01-11 18:37:52,856 - INFO - Calculating RSI.
+2025-01-11 18:37:52,858 - INFO - Indicators Calculated.
+2025-01-11 18:37:52,858 - INFO - Checking for buy signals.
+2025-01-11 18:37:52,858 - INFO - Calculating position size to trade.
+2025-01-11 18:37:52,960 - INFO - Sleeping for 60 seconds
+2025-01-11 18:38:52,963 - INFO - Fetching latest data...
+2025-01-11 18:38:52,964 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:38:53,054 - INFO - No new data available.
+2025-01-11 18:38:53,055 - INFO - Calculating EMA.
+2025-01-11 18:38:53,055 - INFO - Calculating RSI.
+2025-01-11 18:38:53,057 - INFO - Indicators Calculated.
+2025-01-11 18:38:53,057 - INFO - Checking for buy signals.
+2025-01-11 18:38:53,058 - INFO - Calculating position size to trade.
+2025-01-11 18:38:53,156 - INFO - Sleeping for 60 seconds
+2025-01-11 18:39:53,167 - INFO - Fetching latest data...
+2025-01-11 18:39:53,168 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:39:53,269 - INFO - No new data available.
+2025-01-11 18:39:53,269 - INFO - Calculating EMA.
+2025-01-11 18:39:53,270 - INFO - Calculating RSI.
+2025-01-11 18:39:53,273 - INFO - Indicators Calculated.
+2025-01-11 18:39:53,273 - INFO - Checking for buy signals.
+2025-01-11 18:39:53,273 - INFO - Calculating position size to trade.
+2025-01-11 18:39:53,378 - INFO - Sleeping for 60 seconds
+2025-01-11 18:40:53,382 - INFO - Fetching latest data...
+2025-01-11 18:40:53,384 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:40:53,482 - INFO - No new data available.
+2025-01-11 18:40:53,482 - INFO - Calculating EMA.
+2025-01-11 18:40:53,483 - INFO - Calculating RSI.
+2025-01-11 18:40:53,487 - INFO - Indicators Calculated.
+2025-01-11 18:40:53,487 - INFO - Checking for buy signals.
+2025-01-11 18:40:53,487 - INFO - Calculating position size to trade.
+2025-01-11 18:40:53,581 - INFO - Sleeping for 60 seconds
+2025-01-11 18:41:53,586 - INFO - Fetching latest data...
+2025-01-11 18:41:53,587 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:41:53,682 - INFO - No new data available.
+2025-01-11 18:41:53,682 - INFO - Calculating EMA.
+2025-01-11 18:41:53,683 - INFO - Calculating RSI.
+2025-01-11 18:41:53,686 - INFO - Indicators Calculated.
+2025-01-11 18:41:53,687 - INFO - Checking for buy signals.
+2025-01-11 18:41:53,687 - INFO - Calculating position size to trade.
+2025-01-11 18:41:53,784 - INFO - Sleeping for 60 seconds
+2025-01-11 18:42:53,799 - INFO - Fetching latest data...
+2025-01-11 18:42:53,799 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:42:53,912 - INFO - No new data available.
+2025-01-11 18:42:53,913 - INFO - Calculating EMA.
+2025-01-11 18:42:53,913 - INFO - Calculating RSI.
+2025-01-11 18:42:53,916 - INFO - Indicators Calculated.
+2025-01-11 18:42:53,916 - INFO - Checking for buy signals.
+2025-01-11 18:42:53,916 - INFO - Calculating position size to trade.
+2025-01-11 18:42:54,011 - INFO - Sleeping for 60 seconds
+2025-01-11 18:43:54,012 - INFO - Fetching latest data...
+2025-01-11 18:43:54,013 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:43:54,101 - INFO - No new data available.
+2025-01-11 18:43:54,102 - INFO - Calculating EMA.
+2025-01-11 18:43:54,103 - INFO - Calculating RSI.
+2025-01-11 18:43:54,105 - INFO - Indicators Calculated.
+2025-01-11 18:43:54,106 - INFO - Checking for buy signals.
+2025-01-11 18:43:54,106 - INFO - Calculating position size to trade.
+2025-01-11 18:43:54,204 - INFO - Sleeping for 60 seconds
+2025-01-11 18:44:54,214 - INFO - Fetching latest data...
+2025-01-11 18:44:54,214 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:44:54,305 - INFO - No new data available.
+2025-01-11 18:44:54,305 - INFO - Calculating EMA.
+2025-01-11 18:44:54,306 - INFO - Calculating RSI.
+2025-01-11 18:44:54,308 - INFO - Indicators Calculated.
+2025-01-11 18:44:54,309 - INFO - Checking for buy signals.
+2025-01-11 18:44:54,309 - INFO - Calculating position size to trade.
+2025-01-11 18:44:54,405 - INFO - Sleeping for 60 seconds
+2025-01-11 18:45:54,410 - INFO - Fetching latest data...
+2025-01-11 18:45:54,410 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:45:54,508 - INFO - No new data available.
+2025-01-11 18:45:54,508 - INFO - Calculating EMA.
+2025-01-11 18:45:54,509 - INFO - Calculating RSI.
+2025-01-11 18:45:54,512 - INFO - Indicators Calculated.
+2025-01-11 18:45:54,512 - INFO - Checking for buy signals.
+2025-01-11 18:45:54,512 - INFO - Calculating position size to trade.
+2025-01-11 18:45:54,607 - INFO - Sleeping for 60 seconds
+2025-01-11 18:46:54,613 - INFO - Fetching latest data...
+2025-01-11 18:46:54,613 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:46:54,777 - INFO - No new data available.
+2025-01-11 18:46:54,777 - INFO - Calculating EMA.
+2025-01-11 18:46:54,777 - INFO - Calculating RSI.
+2025-01-11 18:46:54,778 - INFO - Indicators Calculated.
+2025-01-11 18:46:54,778 - INFO - Checking for buy signals.
+2025-01-11 18:46:54,778 - INFO - Calculating position size to trade.
+2025-01-11 18:46:54,919 - INFO - Sleeping for 60 seconds
+2025-01-11 18:47:54,931 - INFO - Fetching latest data...
+2025-01-11 18:47:54,932 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:47:55,026 - INFO - No new data available.
+2025-01-11 18:47:55,026 - INFO - Calculating EMA.
+2025-01-11 18:47:55,026 - INFO - Calculating RSI.
+2025-01-11 18:47:55,028 - INFO - Indicators Calculated.
+2025-01-11 18:47:55,028 - INFO - Checking for buy signals.
+2025-01-11 18:47:55,028 - INFO - Calculating position size to trade.
+2025-01-11 18:47:55,131 - INFO - Sleeping for 60 seconds
+2025-01-11 18:48:55,140 - INFO - Fetching latest data...
+2025-01-11 18:48:55,141 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:48:55,233 - INFO - No new data available.
+2025-01-11 18:48:55,234 - INFO - Calculating EMA.
+2025-01-11 18:48:55,234 - INFO - Calculating RSI.
+2025-01-11 18:48:55,238 - INFO - Indicators Calculated.
+2025-01-11 18:48:55,238 - INFO - Checking for buy signals.
+2025-01-11 18:48:55,238 - INFO - Calculating position size to trade.
+2025-01-11 18:48:55,331 - INFO - Sleeping for 60 seconds
+2025-01-11 18:49:55,332 - INFO - Fetching latest data...
+2025-01-11 18:49:55,334 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:49:55,428 - INFO - No new data available.
+2025-01-11 18:49:55,428 - INFO - Calculating EMA.
+2025-01-11 18:49:55,428 - INFO - Calculating RSI.
+2025-01-11 18:49:55,431 - INFO - Indicators Calculated.
+2025-01-11 18:49:55,431 - INFO - Checking for buy signals.
+2025-01-11 18:49:55,431 - INFO - Calculating position size to trade.
+2025-01-11 18:49:55,523 - INFO - Sleeping for 60 seconds
+2025-01-11 18:50:55,538 - INFO - Fetching latest data...
+2025-01-11 18:50:55,540 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:50:55,633 - INFO - No new data available.
+2025-01-11 18:50:55,634 - INFO - Calculating EMA.
+2025-01-11 18:50:55,634 - INFO - Calculating RSI.
+2025-01-11 18:50:55,635 - INFO - Indicators Calculated.
+2025-01-11 18:50:55,635 - INFO - Checking for buy signals.
+2025-01-11 18:50:55,635 - INFO - Calculating position size to trade.
+2025-01-11 18:50:55,734 - INFO - Sleeping for 60 seconds
+2025-01-11 18:51:55,734 - INFO - Fetching latest data...
+2025-01-11 18:51:55,734 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:51:55,847 - INFO - No new data available.
+2025-01-11 18:51:55,847 - INFO - Calculating EMA.
+2025-01-11 18:51:55,847 - INFO - Calculating RSI.
+2025-01-11 18:51:55,851 - INFO - Indicators Calculated.
+2025-01-11 18:51:55,851 - INFO - Checking for buy signals.
+2025-01-11 18:51:55,851 - INFO - Calculating position size to trade.
+2025-01-11 18:51:56,026 - INFO - Sleeping for 60 seconds
+2025-01-11 18:52:56,028 - INFO - Fetching latest data...
+2025-01-11 18:52:56,029 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:52:56,125 - INFO - No new data available.
+2025-01-11 18:52:56,125 - INFO - Calculating EMA.
+2025-01-11 18:52:56,126 - INFO - Calculating RSI.
+2025-01-11 18:52:56,129 - INFO - Indicators Calculated.
+2025-01-11 18:52:56,129 - INFO - Checking for buy signals.
+2025-01-11 18:52:56,129 - INFO - Calculating position size to trade.
+2025-01-11 18:52:56,222 - INFO - Sleeping for 60 seconds
+2025-01-11 18:53:56,226 - INFO - Fetching latest data...
+2025-01-11 18:53:56,227 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:53:56,326 - INFO - No new data available.
+2025-01-11 18:53:56,326 - INFO - Calculating EMA.
+2025-01-11 18:53:56,328 - INFO - Calculating RSI.
+2025-01-11 18:53:56,331 - INFO - Indicators Calculated.
+2025-01-11 18:53:56,331 - INFO - Checking for buy signals.
+2025-01-11 18:53:56,331 - INFO - Calculating position size to trade.
+2025-01-11 18:53:56,427 - INFO - Sleeping for 60 seconds
+2025-01-11 18:54:56,433 - INFO - Fetching latest data...
+2025-01-11 18:54:56,433 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:54:56,526 - INFO - No new data available.
+2025-01-11 18:54:56,527 - INFO - Calculating EMA.
+2025-01-11 18:54:56,528 - INFO - Calculating RSI.
+2025-01-11 18:54:56,532 - INFO - Indicators Calculated.
+2025-01-11 18:54:56,532 - INFO - Checking for buy signals.
+2025-01-11 18:54:56,532 - INFO - Calculating position size to trade.
+2025-01-11 18:54:56,627 - INFO - Sleeping for 60 seconds
+2025-01-11 18:55:56,637 - INFO - Fetching latest data...
+2025-01-11 18:55:56,638 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:55:56,739 - INFO - No new data available.
+2025-01-11 18:55:56,739 - INFO - Calculating EMA.
+2025-01-11 18:55:56,740 - INFO - Calculating RSI.
+2025-01-11 18:55:56,743 - INFO - Indicators Calculated.
+2025-01-11 18:55:56,744 - INFO - Checking for buy signals.
+2025-01-11 18:55:56,744 - INFO - Calculating position size to trade.
+2025-01-11 18:55:56,840 - INFO - Sleeping for 60 seconds
+2025-01-11 18:56:56,840 - INFO - Fetching latest data...
+2025-01-11 18:56:56,840 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:56:56,931 - INFO - No new data available.
+2025-01-11 18:56:56,932 - INFO - Calculating EMA.
+2025-01-11 18:56:56,933 - INFO - Calculating RSI.
+2025-01-11 18:56:56,935 - INFO - Indicators Calculated.
+2025-01-11 18:56:56,935 - INFO - Checking for buy signals.
+2025-01-11 18:56:56,935 - INFO - Calculating position size to trade.
+2025-01-11 18:56:57,019 - INFO - Sleeping for 60 seconds
+2025-01-11 18:57:57,032 - INFO - Fetching latest data...
+2025-01-11 18:57:57,032 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:57:57,122 - INFO - No new data available.
+2025-01-11 18:57:57,122 - INFO - Calculating EMA.
+2025-01-11 18:57:57,123 - INFO - Calculating RSI.
+2025-01-11 18:57:57,128 - INFO - Indicators Calculated.
+2025-01-11 18:57:57,128 - INFO - Checking for buy signals.
+2025-01-11 18:57:57,128 - INFO - Calculating position size to trade.
+2025-01-11 18:57:57,215 - INFO - Sleeping for 60 seconds
+2025-01-11 18:58:57,221 - INFO - Fetching latest data...
+2025-01-11 18:58:57,221 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:58:57,314 - INFO - No new data available.
+2025-01-11 18:58:57,314 - INFO - Calculating EMA.
+2025-01-11 18:58:57,314 - INFO - Calculating RSI.
+2025-01-11 18:58:57,314 - INFO - Indicators Calculated.
+2025-01-11 18:58:57,314 - INFO - Checking for buy signals.
+2025-01-11 18:58:57,314 - INFO - Calculating position size to trade.
+2025-01-11 18:58:57,419 - INFO - Sleeping for 60 seconds
+2025-01-11 18:59:57,419 - INFO - Fetching latest data...
+2025-01-11 18:59:57,421 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 18:59:57,514 - INFO - No new data available.
+2025-01-11 18:59:57,514 - INFO - Calculating EMA.
+2025-01-11 18:59:57,515 - INFO - Calculating RSI.
+2025-01-11 18:59:57,515 - INFO - Indicators Calculated.
+2025-01-11 18:59:57,515 - INFO - Checking for buy signals.
+2025-01-11 18:59:57,515 - INFO - Calculating position size to trade.
+2025-01-11 18:59:57,614 - INFO - Sleeping for 60 seconds
+2025-01-11 19:00:57,616 - INFO - Fetching latest data...
+2025-01-11 19:00:57,616 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:00:57,709 - INFO - No new data available.
+2025-01-11 19:00:57,710 - INFO - Calculating EMA.
+2025-01-11 19:00:57,710 - INFO - Calculating RSI.
+2025-01-11 19:00:57,713 - INFO - Indicators Calculated.
+2025-01-11 19:00:57,713 - INFO - Checking for buy signals.
+2025-01-11 19:00:57,714 - INFO - Calculating position size to trade.
+2025-01-11 19:00:57,807 - INFO - Sleeping for 60 seconds
+2025-01-11 19:01:57,809 - INFO - Fetching latest data...
+2025-01-11 19:01:57,811 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:01:57,924 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 19:01:57,931 - INFO - Latest data added.
+2025-01-11 19:01:57,931 - INFO - Calculating EMA.
+2025-01-11 19:01:57,931 - INFO - Calculating RSI.
+2025-01-11 19:01:57,933 - INFO - Indicators Calculated.
+2025-01-11 19:01:57,933 - INFO - Checking for buy signals.
+2025-01-11 19:01:57,933 - INFO - Calculating position size to trade.
+2025-01-11 19:01:58,014 - INFO - Sleeping for 60 seconds
+2025-01-11 19:02:58,020 - INFO - Fetching latest data...
+2025-01-11 19:02:58,022 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:02:58,123 - INFO - No new data available.
+2025-01-11 19:02:58,123 - INFO - Calculating EMA.
+2025-01-11 19:02:58,125 - INFO - Calculating RSI.
+2025-01-11 19:02:58,128 - INFO - Indicators Calculated.
+2025-01-11 19:02:58,128 - INFO - Checking for buy signals.
+2025-01-11 19:02:58,129 - INFO - Calculating position size to trade.
+2025-01-11 19:02:58,222 - INFO - Sleeping for 60 seconds
+2025-01-11 19:03:58,234 - INFO - Fetching latest data...
+2025-01-11 19:03:58,234 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:03:58,334 - INFO - No new data available.
+2025-01-11 19:03:58,334 - INFO - Calculating EMA.
+2025-01-11 19:03:58,334 - INFO - Calculating RSI.
+2025-01-11 19:03:58,348 - INFO - Indicators Calculated.
+2025-01-11 19:03:58,348 - INFO - Checking for buy signals.
+2025-01-11 19:03:58,348 - INFO - Calculating position size to trade.
+2025-01-11 19:03:58,431 - INFO - Sleeping for 60 seconds
+2025-01-11 19:04:58,444 - INFO - Fetching latest data...
+2025-01-11 19:04:58,445 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:04:58,530 - INFO - No new data available.
+2025-01-11 19:04:58,530 - INFO - Calculating EMA.
+2025-01-11 19:04:58,530 - INFO - Calculating RSI.
+2025-01-11 19:04:58,543 - INFO - Indicators Calculated.
+2025-01-11 19:04:58,543 - INFO - Checking for buy signals.
+2025-01-11 19:04:58,543 - INFO - Calculating position size to trade.
+2025-01-11 19:04:58,639 - INFO - Sleeping for 60 seconds
+2025-01-11 19:05:58,654 - INFO - Fetching latest data...
+2025-01-11 19:05:58,655 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:05:58,751 - INFO - No new data available.
+2025-01-11 19:05:58,751 - INFO - Calculating EMA.
+2025-01-11 19:05:58,751 - INFO - Calculating RSI.
+2025-01-11 19:05:58,751 - INFO - Indicators Calculated.
+2025-01-11 19:05:58,751 - INFO - Checking for buy signals.
+2025-01-11 19:05:58,751 - INFO - Calculating position size to trade.
+2025-01-11 19:05:58,845 - INFO - Sleeping for 60 seconds
+2025-01-11 19:06:58,847 - INFO - Fetching latest data...
+2025-01-11 19:06:58,848 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:06:58,927 - INFO - No new data available.
+2025-01-11 19:06:58,927 - INFO - Calculating EMA.
+2025-01-11 19:06:58,943 - INFO - Calculating RSI.
+2025-01-11 19:06:58,946 - INFO - Indicators Calculated.
+2025-01-11 19:06:58,946 - INFO - Checking for buy signals.
+2025-01-11 19:06:58,946 - INFO - Calculating position size to trade.
+2025-01-11 19:06:59,044 - INFO - Sleeping for 60 seconds
+2025-01-11 19:07:59,059 - INFO - Fetching latest data...
+2025-01-11 19:07:59,059 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:07:59,156 - INFO - No new data available.
+2025-01-11 19:07:59,156 - INFO - Calculating EMA.
+2025-01-11 19:07:59,156 - INFO - Calculating RSI.
+2025-01-11 19:07:59,156 - INFO - Indicators Calculated.
+2025-01-11 19:07:59,156 - INFO - Checking for buy signals.
+2025-01-11 19:07:59,156 - INFO - Calculating position size to trade.
+2025-01-11 19:07:59,262 - INFO - Sleeping for 60 seconds
+2025-01-11 19:08:59,268 - INFO - Fetching latest data...
+2025-01-11 19:08:59,268 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:08:59,363 - INFO - No new data available.
+2025-01-11 19:08:59,363 - INFO - Calculating EMA.
+2025-01-11 19:08:59,364 - INFO - Calculating RSI.
+2025-01-11 19:08:59,364 - INFO - Indicators Calculated.
+2025-01-11 19:08:59,364 - INFO - Checking for buy signals.
+2025-01-11 19:08:59,364 - INFO - Calculating position size to trade.
+2025-01-11 19:08:59,453 - INFO - Sleeping for 60 seconds
+2025-01-11 19:09:59,455 - INFO - Fetching latest data...
+2025-01-11 19:09:59,455 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:09:59,548 - INFO - No new data available.
+2025-01-11 19:09:59,548 - INFO - Calculating EMA.
+2025-01-11 19:09:59,548 - INFO - Calculating RSI.
+2025-01-11 19:09:59,551 - INFO - Indicators Calculated.
+2025-01-11 19:09:59,551 - INFO - Checking for buy signals.
+2025-01-11 19:09:59,551 - INFO - Calculating position size to trade.
+2025-01-11 19:09:59,651 - INFO - Sleeping for 60 seconds
+2025-01-11 19:10:59,660 - INFO - Fetching latest data...
+2025-01-11 19:10:59,662 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:10:59,754 - INFO - No new data available.
+2025-01-11 19:10:59,755 - INFO - Calculating EMA.
+2025-01-11 19:10:59,756 - INFO - Calculating RSI.
+2025-01-11 19:10:59,758 - INFO - Indicators Calculated.
+2025-01-11 19:10:59,758 - INFO - Checking for buy signals.
+2025-01-11 19:10:59,758 - INFO - Calculating position size to trade.
+2025-01-11 19:10:59,846 - INFO - Sleeping for 60 seconds
+2025-01-11 19:11:59,861 - INFO - Fetching latest data...
+2025-01-11 19:11:59,863 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:11:59,953 - INFO - No new data available.
+2025-01-11 19:11:59,953 - INFO - Calculating EMA.
+2025-01-11 19:11:59,953 - INFO - Calculating RSI.
+2025-01-11 19:11:59,953 - INFO - Indicators Calculated.
+2025-01-11 19:11:59,953 - INFO - Checking for buy signals.
+2025-01-11 19:11:59,953 - INFO - Calculating position size to trade.
+2025-01-11 19:12:00,069 - INFO - Sleeping for 60 seconds
+2025-01-11 19:13:00,072 - INFO - Fetching latest data...
+2025-01-11 19:13:00,073 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:13:00,168 - INFO - No new data available.
+2025-01-11 19:13:00,168 - INFO - Calculating EMA.
+2025-01-11 19:13:00,168 - INFO - Calculating RSI.
+2025-01-11 19:13:00,168 - INFO - Indicators Calculated.
+2025-01-11 19:13:00,168 - INFO - Checking for buy signals.
+2025-01-11 19:13:00,183 - INFO - Calculating position size to trade.
+2025-01-11 19:13:00,283 - INFO - Sleeping for 60 seconds
+2025-01-11 19:14:00,295 - INFO - Fetching latest data...
+2025-01-11 19:14:00,297 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:14:00,379 - INFO - No new data available.
+2025-01-11 19:14:00,379 - INFO - Calculating EMA.
+2025-01-11 19:14:00,379 - INFO - Calculating RSI.
+2025-01-11 19:14:00,396 - INFO - Indicators Calculated.
+2025-01-11 19:14:00,396 - INFO - Checking for buy signals.
+2025-01-11 19:14:00,396 - INFO - Calculating position size to trade.
+2025-01-11 19:14:00,495 - INFO - Sleeping for 60 seconds
+2025-01-11 19:15:00,511 - INFO - Fetching latest data...
+2025-01-11 19:15:00,512 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:15:00,605 - INFO - No new data available.
+2025-01-11 19:15:00,605 - INFO - Calculating EMA.
+2025-01-11 19:15:00,607 - INFO - Calculating RSI.
+2025-01-11 19:15:00,611 - INFO - Indicators Calculated.
+2025-01-11 19:15:00,611 - INFO - Checking for buy signals.
+2025-01-11 19:15:00,611 - INFO - Calculating position size to trade.
+2025-01-11 19:15:00,691 - INFO - Sleeping for 60 seconds
+2025-01-11 19:16:00,700 - INFO - Fetching latest data...
+2025-01-11 19:16:00,702 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:16:00,798 - INFO - No new data available.
+2025-01-11 19:16:00,799 - INFO - Calculating EMA.
+2025-01-11 19:16:00,799 - INFO - Calculating RSI.
+2025-01-11 19:16:00,802 - INFO - Indicators Calculated.
+2025-01-11 19:16:00,802 - INFO - Checking for buy signals.
+2025-01-11 19:16:00,803 - INFO - Calculating position size to trade.
+2025-01-11 19:16:00,888 - INFO - Sleeping for 60 seconds
+2025-01-11 19:17:00,896 - INFO - Fetching latest data...
+2025-01-11 19:17:00,898 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:17:00,997 - INFO - No new data available.
+2025-01-11 19:17:00,997 - INFO - Calculating EMA.
+2025-01-11 19:17:00,997 - INFO - Calculating RSI.
+2025-01-11 19:17:00,997 - INFO - Indicators Calculated.
+2025-01-11 19:17:00,997 - INFO - Checking for buy signals.
+2025-01-11 19:17:00,997 - INFO - Calculating position size to trade.
+2025-01-11 19:17:01,081 - INFO - Sleeping for 60 seconds
+2025-01-11 19:18:01,091 - INFO - Fetching latest data...
+2025-01-11 19:18:01,092 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:18:01,212 - INFO - No new data available.
+2025-01-11 19:18:01,212 - INFO - Calculating EMA.
+2025-01-11 19:18:01,214 - INFO - Calculating RSI.
+2025-01-11 19:18:01,216 - INFO - Indicators Calculated.
+2025-01-11 19:18:01,216 - INFO - Checking for buy signals.
+2025-01-11 19:18:01,216 - INFO - Calculating position size to trade.
+2025-01-11 19:18:01,346 - INFO - Sleeping for 60 seconds
+2025-01-11 19:19:01,347 - INFO - Fetching latest data...
+2025-01-11 19:19:01,347 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:19:01,441 - INFO - No new data available.
+2025-01-11 19:19:01,441 - INFO - Calculating EMA.
+2025-01-11 19:19:01,441 - INFO - Calculating RSI.
+2025-01-11 19:19:01,441 - INFO - Indicators Calculated.
+2025-01-11 19:19:01,441 - INFO - Checking for buy signals.
+2025-01-11 19:19:01,441 - INFO - Calculating position size to trade.
+2025-01-11 19:19:01,536 - INFO - Sleeping for 60 seconds
+2025-01-11 19:20:01,545 - INFO - Fetching latest data...
+2025-01-11 19:20:01,545 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:20:01,639 - INFO - No new data available.
+2025-01-11 19:20:01,640 - INFO - Calculating EMA.
+2025-01-11 19:20:01,640 - INFO - Calculating RSI.
+2025-01-11 19:20:01,644 - INFO - Indicators Calculated.
+2025-01-11 19:20:01,644 - INFO - Checking for buy signals.
+2025-01-11 19:20:01,644 - INFO - Calculating position size to trade.
+2025-01-11 19:20:01,748 - INFO - Sleeping for 60 seconds
+2025-01-11 19:21:01,759 - INFO - Fetching latest data...
+2025-01-11 19:21:01,759 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:21:01,860 - INFO - No new data available.
+2025-01-11 19:21:01,860 - INFO - Calculating EMA.
+2025-01-11 19:21:01,860 - INFO - Calculating RSI.
+2025-01-11 19:21:01,860 - INFO - Indicators Calculated.
+2025-01-11 19:21:01,860 - INFO - Checking for buy signals.
+2025-01-11 19:21:01,860 - INFO - Calculating position size to trade.
+2025-01-11 19:21:01,965 - INFO - Sleeping for 60 seconds
+2025-01-11 19:22:01,973 - INFO - Fetching latest data...
+2025-01-11 19:22:01,973 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:22:02,076 - INFO - No new data available.
+2025-01-11 19:22:02,076 - INFO - Calculating EMA.
+2025-01-11 19:22:02,077 - INFO - Calculating RSI.
+2025-01-11 19:22:02,080 - INFO - Indicators Calculated.
+2025-01-11 19:22:02,080 - INFO - Checking for buy signals.
+2025-01-11 19:22:02,080 - INFO - Calculating position size to trade.
+2025-01-11 19:22:02,175 - INFO - Sleeping for 60 seconds
+2025-01-11 19:23:02,180 - INFO - Fetching latest data...
+2025-01-11 19:23:02,182 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:23:02,294 - INFO - No new data available.
+2025-01-11 19:23:02,295 - INFO - Calculating EMA.
+2025-01-11 19:23:02,296 - INFO - Calculating RSI.
+2025-01-11 19:23:02,299 - INFO - Indicators Calculated.
+2025-01-11 19:23:02,299 - INFO - Checking for buy signals.
+2025-01-11 19:23:02,299 - INFO - Calculating position size to trade.
+2025-01-11 19:23:02,392 - INFO - Sleeping for 60 seconds
+2025-01-11 19:24:02,403 - INFO - Fetching latest data...
+2025-01-11 19:24:02,403 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:24:02,498 - INFO - No new data available.
+2025-01-11 19:24:02,498 - INFO - Calculating EMA.
+2025-01-11 19:24:02,498 - INFO - Calculating RSI.
+2025-01-11 19:24:02,498 - INFO - Indicators Calculated.
+2025-01-11 19:24:02,498 - INFO - Checking for buy signals.
+2025-01-11 19:24:02,498 - INFO - Calculating position size to trade.
+2025-01-11 19:24:02,594 - INFO - Sleeping for 60 seconds
+2025-01-11 19:25:02,602 - INFO - Fetching latest data...
+2025-01-11 19:25:02,602 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:25:02,703 - INFO - No new data available.
+2025-01-11 19:25:02,703 - INFO - Calculating EMA.
+2025-01-11 19:25:02,703 - INFO - Calculating RSI.
+2025-01-11 19:25:02,703 - INFO - Indicators Calculated.
+2025-01-11 19:25:02,703 - INFO - Checking for buy signals.
+2025-01-11 19:25:02,703 - INFO - Calculating position size to trade.
+2025-01-11 19:25:02,796 - INFO - Sleeping for 60 seconds
+2025-01-11 19:26:02,798 - INFO - Fetching latest data...
+2025-01-11 19:26:02,798 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:26:02,884 - INFO - No new data available.
+2025-01-11 19:26:02,884 - INFO - Calculating EMA.
+2025-01-11 19:26:02,884 - INFO - Calculating RSI.
+2025-01-11 19:26:02,898 - INFO - Indicators Calculated.
+2025-01-11 19:26:02,898 - INFO - Checking for buy signals.
+2025-01-11 19:26:02,898 - INFO - Calculating position size to trade.
+2025-01-11 19:26:02,996 - INFO - Sleeping for 60 seconds
+2025-01-11 19:27:03,009 - INFO - Fetching latest data...
+2025-01-11 19:27:03,011 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:27:03,104 - INFO - No new data available.
+2025-01-11 19:27:03,104 - INFO - Calculating EMA.
+2025-01-11 19:27:03,105 - INFO - Calculating RSI.
+2025-01-11 19:27:03,109 - INFO - Indicators Calculated.
+2025-01-11 19:27:03,109 - INFO - Checking for buy signals.
+2025-01-11 19:27:03,109 - INFO - Calculating position size to trade.
+2025-01-11 19:27:03,201 - INFO - Sleeping for 60 seconds
+2025-01-11 19:28:03,202 - INFO - Fetching latest data...
+2025-01-11 19:28:03,205 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:28:03,300 - INFO - No new data available.
+2025-01-11 19:28:03,301 - INFO - Calculating EMA.
+2025-01-11 19:28:03,301 - INFO - Calculating RSI.
+2025-01-11 19:28:03,303 - INFO - Indicators Calculated.
+2025-01-11 19:28:03,304 - INFO - Checking for buy signals.
+2025-01-11 19:28:03,304 - INFO - Calculating position size to trade.
+2025-01-11 19:28:03,398 - INFO - Sleeping for 60 seconds
+2025-01-11 19:29:03,412 - INFO - Fetching latest data...
+2025-01-11 19:29:03,412 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:29:03,537 - INFO - No new data available.
+2025-01-11 19:29:03,538 - INFO - Calculating EMA.
+2025-01-11 19:29:03,538 - INFO - Calculating RSI.
+2025-01-11 19:29:03,540 - INFO - Indicators Calculated.
+2025-01-11 19:29:03,540 - INFO - Checking for buy signals.
+2025-01-11 19:29:03,541 - INFO - Calculating position size to trade.
+2025-01-11 19:29:03,634 - INFO - Sleeping for 60 seconds
+2025-01-11 19:30:03,640 - INFO - Fetching latest data...
+2025-01-11 19:30:03,641 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:30:03,742 - INFO - No new data available.
+2025-01-11 19:30:03,742 - INFO - Calculating EMA.
+2025-01-11 19:30:03,744 - INFO - Calculating RSI.
+2025-01-11 19:30:03,747 - INFO - Indicators Calculated.
+2025-01-11 19:30:03,747 - INFO - Checking for buy signals.
+2025-01-11 19:30:03,747 - INFO - Calculating position size to trade.
+2025-01-11 19:30:03,846 - INFO - Sleeping for 60 seconds
+2025-01-11 19:31:03,853 - INFO - Fetching latest data...
+2025-01-11 19:31:03,855 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:31:03,963 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 19:31:03,967 - INFO - Latest data added.
+2025-01-11 19:31:03,967 - INFO - Calculating EMA.
+2025-01-11 19:31:03,968 - INFO - Calculating RSI.
+2025-01-11 19:31:03,970 - INFO - Indicators Calculated.
+2025-01-11 19:31:03,970 - INFO - Checking for buy signals.
+2025-01-11 19:31:03,970 - INFO - Calculating position size to trade.
+2025-01-11 19:31:04,059 - INFO - Sleeping for 60 seconds
+2025-01-11 19:32:04,067 - INFO - Fetching latest data...
+2025-01-11 19:32:04,067 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:32:04,400 - INFO - No new data available.
+2025-01-11 19:32:04,400 - INFO - Calculating EMA.
+2025-01-11 19:32:04,400 - INFO - Calculating RSI.
+2025-01-11 19:32:04,400 - INFO - Indicators Calculated.
+2025-01-11 19:32:04,400 - INFO - Checking for buy signals.
+2025-01-11 19:32:04,400 - INFO - Calculating position size to trade.
+2025-01-11 19:32:04,731 - INFO - Sleeping for 60 seconds
+2025-01-11 19:33:04,734 - INFO - Fetching latest data...
+2025-01-11 19:33:04,736 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:33:04,837 - INFO - No new data available.
+2025-01-11 19:33:04,837 - INFO - Calculating EMA.
+2025-01-11 19:33:04,837 - INFO - Calculating RSI.
+2025-01-11 19:33:04,837 - INFO - Indicators Calculated.
+2025-01-11 19:33:04,837 - INFO - Checking for buy signals.
+2025-01-11 19:33:04,837 - INFO - Calculating position size to trade.
+2025-01-11 19:33:04,937 - INFO - Sleeping for 60 seconds
+2025-01-11 19:34:04,951 - INFO - Fetching latest data...
+2025-01-11 19:34:04,951 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:34:05,080 - INFO - No new data available.
+2025-01-11 19:34:05,080 - INFO - Calculating EMA.
+2025-01-11 19:34:05,080 - INFO - Calculating RSI.
+2025-01-11 19:34:05,083 - INFO - Indicators Calculated.
+2025-01-11 19:34:05,083 - INFO - Checking for buy signals.
+2025-01-11 19:34:05,083 - INFO - Calculating position size to trade.
+2025-01-11 19:34:05,168 - INFO - Sleeping for 60 seconds
+2025-01-11 19:35:05,172 - INFO - Fetching latest data...
+2025-01-11 19:35:05,172 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:35:05,267 - INFO - No new data available.
+2025-01-11 19:35:05,267 - INFO - Calculating EMA.
+2025-01-11 19:35:05,267 - INFO - Calculating RSI.
+2025-01-11 19:35:05,267 - INFO - Indicators Calculated.
+2025-01-11 19:35:05,267 - INFO - Checking for buy signals.
+2025-01-11 19:35:05,267 - INFO - Calculating position size to trade.
+2025-01-11 19:35:05,360 - INFO - Sleeping for 60 seconds
+2025-01-11 19:36:05,361 - INFO - Fetching latest data...
+2025-01-11 19:36:05,361 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:36:05,439 - INFO - No new data available.
+2025-01-11 19:36:05,439 - INFO - Calculating EMA.
+2025-01-11 19:36:05,439 - INFO - Calculating RSI.
+2025-01-11 19:36:05,455 - INFO - Indicators Calculated.
+2025-01-11 19:36:05,455 - INFO - Checking for buy signals.
+2025-01-11 19:36:05,455 - INFO - Calculating position size to trade.
+2025-01-11 19:36:05,549 - INFO - Sleeping for 60 seconds
+2025-01-11 19:37:05,553 - INFO - Fetching latest data...
+2025-01-11 19:37:05,553 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:37:05,647 - INFO - No new data available.
+2025-01-11 19:37:05,647 - INFO - Calculating EMA.
+2025-01-11 19:37:05,647 - INFO - Calculating RSI.
+2025-01-11 19:37:05,647 - INFO - Indicators Calculated.
+2025-01-11 19:37:05,647 - INFO - Checking for buy signals.
+2025-01-11 19:37:05,647 - INFO - Calculating position size to trade.
+2025-01-11 19:37:05,740 - INFO - Sleeping for 60 seconds
+2025-01-11 19:38:05,742 - INFO - Fetching latest data...
+2025-01-11 19:38:05,742 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:38:05,836 - INFO - No new data available.
+2025-01-11 19:38:05,836 - INFO - Calculating EMA.
+2025-01-11 19:38:05,836 - INFO - Calculating RSI.
+2025-01-11 19:38:05,836 - INFO - Indicators Calculated.
+2025-01-11 19:38:05,836 - INFO - Checking for buy signals.
+2025-01-11 19:38:05,836 - INFO - Calculating position size to trade.
+2025-01-11 19:38:05,930 - INFO - Sleeping for 60 seconds
+2025-01-11 19:39:05,931 - INFO - Fetching latest data...
+2025-01-11 19:39:05,932 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:39:06,013 - INFO - No new data available.
+2025-01-11 19:39:06,013 - INFO - Calculating EMA.
+2025-01-11 19:39:06,013 - INFO - Calculating RSI.
+2025-01-11 19:39:06,026 - INFO - Indicators Calculated.
+2025-01-11 19:39:06,026 - INFO - Checking for buy signals.
+2025-01-11 19:39:06,026 - INFO - Calculating position size to trade.
+2025-01-11 19:39:06,106 - INFO - Sleeping for 60 seconds
+2025-01-11 19:40:06,116 - INFO - Fetching latest data...
+2025-01-11 19:40:06,116 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:40:06,210 - INFO - No new data available.
+2025-01-11 19:40:06,210 - INFO - Calculating EMA.
+2025-01-11 19:40:06,210 - INFO - Calculating RSI.
+2025-01-11 19:40:06,210 - INFO - Indicators Calculated.
+2025-01-11 19:40:06,210 - INFO - Checking for buy signals.
+2025-01-11 19:40:06,210 - INFO - Calculating position size to trade.
+2025-01-11 19:40:06,351 - INFO - Sleeping for 60 seconds
+2025-01-11 19:41:06,354 - INFO - Fetching latest data...
+2025-01-11 19:41:06,354 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:41:06,450 - INFO - No new data available.
+2025-01-11 19:41:06,450 - INFO - Calculating EMA.
+2025-01-11 19:41:06,450 - INFO - Calculating RSI.
+2025-01-11 19:41:06,450 - INFO - Indicators Calculated.
+2025-01-11 19:41:06,450 - INFO - Checking for buy signals.
+2025-01-11 19:41:06,450 - INFO - Calculating position size to trade.
+2025-01-11 19:41:06,544 - INFO - Sleeping for 60 seconds
+2025-01-11 19:42:06,556 - INFO - Fetching latest data...
+2025-01-11 19:42:06,557 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:42:06,634 - INFO - No new data available.
+2025-01-11 19:42:06,634 - INFO - Calculating EMA.
+2025-01-11 19:42:06,634 - INFO - Calculating RSI.
+2025-01-11 19:42:06,650 - INFO - Indicators Calculated.
+2025-01-11 19:42:06,650 - INFO - Checking for buy signals.
+2025-01-11 19:42:06,650 - INFO - Calculating position size to trade.
+2025-01-11 19:42:06,730 - INFO - Sleeping for 60 seconds
+2025-01-11 19:43:06,745 - INFO - Fetching latest data...
+2025-01-11 19:43:06,745 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:43:06,824 - INFO - No new data available.
+2025-01-11 19:43:06,824 - INFO - Calculating EMA.
+2025-01-11 19:43:06,839 - INFO - Calculating RSI.
+2025-01-11 19:43:06,841 - INFO - Indicators Calculated.
+2025-01-11 19:43:06,841 - INFO - Checking for buy signals.
+2025-01-11 19:43:06,841 - INFO - Calculating position size to trade.
+2025-01-11 19:43:06,919 - INFO - Sleeping for 60 seconds
+2025-01-11 19:44:06,923 - INFO - Fetching latest data...
+2025-01-11 19:44:06,923 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:44:07,017 - INFO - No new data available.
+2025-01-11 19:44:07,017 - INFO - Calculating EMA.
+2025-01-11 19:44:07,017 - INFO - Calculating RSI.
+2025-01-11 19:44:07,017 - INFO - Indicators Calculated.
+2025-01-11 19:44:07,017 - INFO - Checking for buy signals.
+2025-01-11 19:44:07,017 - INFO - Calculating position size to trade.
+2025-01-11 19:44:07,112 - INFO - Sleeping for 60 seconds
+2025-01-11 19:45:07,112 - INFO - Fetching latest data...
+2025-01-11 19:45:07,113 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:45:07,192 - INFO - No new data available.
+2025-01-11 19:45:07,192 - INFO - Calculating EMA.
+2025-01-11 19:45:07,192 - INFO - Calculating RSI.
+2025-01-11 19:45:07,208 - INFO - Indicators Calculated.
+2025-01-11 19:45:07,208 - INFO - Checking for buy signals.
+2025-01-11 19:45:07,208 - INFO - Calculating position size to trade.
+2025-01-11 19:45:07,287 - INFO - Sleeping for 60 seconds
+2025-01-11 19:46:07,295 - INFO - Fetching latest data...
+2025-01-11 19:46:07,295 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:46:07,391 - INFO - No new data available.
+2025-01-11 19:46:07,391 - INFO - Calculating EMA.
+2025-01-11 19:46:07,391 - INFO - Calculating RSI.
+2025-01-11 19:46:07,391 - INFO - Indicators Calculated.
+2025-01-11 19:46:07,391 - INFO - Checking for buy signals.
+2025-01-11 19:46:07,391 - INFO - Calculating position size to trade.
+2025-01-11 19:46:07,470 - INFO - Sleeping for 60 seconds
+2025-01-11 19:47:07,498 - INFO - Fetching latest data...
+2025-01-11 19:47:07,498 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:47:07,592 - INFO - No new data available.
+2025-01-11 19:47:07,592 - INFO - Calculating EMA.
+2025-01-11 19:47:07,592 - INFO - Calculating RSI.
+2025-01-11 19:47:07,592 - INFO - Indicators Calculated.
+2025-01-11 19:47:07,592 - INFO - Checking for buy signals.
+2025-01-11 19:47:07,592 - INFO - Calculating position size to trade.
+2025-01-11 19:47:07,686 - INFO - Sleeping for 60 seconds
+2025-01-11 19:48:07,689 - INFO - Fetching latest data...
+2025-01-11 19:48:07,689 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:48:07,783 - INFO - No new data available.
+2025-01-11 19:48:07,783 - INFO - Calculating EMA.
+2025-01-11 19:48:07,783 - INFO - Calculating RSI.
+2025-01-11 19:48:07,783 - INFO - Indicators Calculated.
+2025-01-11 19:48:07,783 - INFO - Checking for buy signals.
+2025-01-11 19:48:07,783 - INFO - Calculating position size to trade.
+2025-01-11 19:48:07,877 - INFO - Sleeping for 60 seconds
+2025-01-11 19:49:07,883 - INFO - Fetching latest data...
+2025-01-11 19:49:07,883 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:49:07,976 - INFO - No new data available.
+2025-01-11 19:49:07,976 - INFO - Calculating EMA.
+2025-01-11 19:49:07,976 - INFO - Calculating RSI.
+2025-01-11 19:49:07,976 - INFO - Indicators Calculated.
+2025-01-11 19:49:07,976 - INFO - Checking for buy signals.
+2025-01-11 19:49:07,976 - INFO - Calculating position size to trade.
+2025-01-11 19:49:08,070 - INFO - Sleeping for 60 seconds
+2025-01-11 19:50:08,075 - INFO - Fetching latest data...
+2025-01-11 19:50:08,075 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:50:08,154 - INFO - No new data available.
+2025-01-11 19:50:08,154 - INFO - Calculating EMA.
+2025-01-11 19:50:08,169 - INFO - Calculating RSI.
+2025-01-11 19:50:08,169 - INFO - Indicators Calculated.
+2025-01-11 19:50:08,169 - INFO - Checking for buy signals.
+2025-01-11 19:50:08,169 - INFO - Calculating position size to trade.
+2025-01-11 19:50:08,263 - INFO - Sleeping for 60 seconds
+2025-01-11 19:51:08,265 - INFO - Fetching latest data...
+2025-01-11 19:51:08,266 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:51:08,375 - INFO - No new data available.
+2025-01-11 19:51:08,375 - INFO - Calculating EMA.
+2025-01-11 19:51:08,375 - INFO - Calculating RSI.
+2025-01-11 19:51:08,375 - INFO - Indicators Calculated.
+2025-01-11 19:51:08,375 - INFO - Checking for buy signals.
+2025-01-11 19:51:08,375 - INFO - Calculating position size to trade.
+2025-01-11 19:51:08,486 - INFO - Sleeping for 60 seconds
+2025-01-11 19:52:08,494 - INFO - Fetching latest data...
+2025-01-11 19:52:08,494 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:52:08,589 - INFO - No new data available.
+2025-01-11 19:52:08,589 - INFO - Calculating EMA.
+2025-01-11 19:52:08,589 - INFO - Calculating RSI.
+2025-01-11 19:52:08,589 - INFO - Indicators Calculated.
+2025-01-11 19:52:08,589 - INFO - Checking for buy signals.
+2025-01-11 19:52:08,589 - INFO - Calculating position size to trade.
+2025-01-11 19:52:08,731 - INFO - Sleeping for 60 seconds
+2025-01-11 19:53:08,747 - INFO - Fetching latest data...
+2025-01-11 19:53:08,747 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:53:08,856 - INFO - No new data available.
+2025-01-11 19:53:08,856 - INFO - Calculating EMA.
+2025-01-11 19:53:08,856 - INFO - Calculating RSI.
+2025-01-11 19:53:08,856 - INFO - Indicators Calculated.
+2025-01-11 19:53:08,856 - INFO - Checking for buy signals.
+2025-01-11 19:53:08,856 - INFO - Calculating position size to trade.
+2025-01-11 19:53:08,950 - INFO - Sleeping for 60 seconds
+2025-01-11 19:54:08,951 - INFO - Fetching latest data...
+2025-01-11 19:54:08,951 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:54:09,051 - INFO - No new data available.
+2025-01-11 19:54:09,052 - INFO - Calculating EMA.
+2025-01-11 19:54:09,053 - INFO - Calculating RSI.
+2025-01-11 19:54:09,056 - INFO - Indicators Calculated.
+2025-01-11 19:54:09,056 - INFO - Checking for buy signals.
+2025-01-11 19:54:09,056 - INFO - Calculating position size to trade.
+2025-01-11 19:54:09,147 - INFO - Sleeping for 60 seconds
+2025-01-11 19:55:09,159 - INFO - Fetching latest data...
+2025-01-11 19:55:09,159 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:55:09,260 - INFO - No new data available.
+2025-01-11 19:55:09,260 - INFO - Calculating EMA.
+2025-01-11 19:55:09,260 - INFO - Calculating RSI.
+2025-01-11 19:55:09,260 - INFO - Indicators Calculated.
+2025-01-11 19:55:09,260 - INFO - Checking for buy signals.
+2025-01-11 19:55:09,260 - INFO - Calculating position size to trade.
+2025-01-11 19:55:09,368 - INFO - Sleeping for 60 seconds
+2025-01-11 19:56:09,371 - INFO - Fetching latest data...
+2025-01-11 19:56:09,372 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:56:09,455 - INFO - No new data available.
+2025-01-11 19:56:09,455 - INFO - Calculating EMA.
+2025-01-11 19:56:09,455 - INFO - Calculating RSI.
+2025-01-11 19:56:09,468 - INFO - Indicators Calculated.
+2025-01-11 19:56:09,468 - INFO - Checking for buy signals.
+2025-01-11 19:56:09,468 - INFO - Calculating position size to trade.
+2025-01-11 19:56:09,555 - INFO - Sleeping for 60 seconds
+2025-01-11 19:57:09,565 - INFO - Fetching latest data...
+2025-01-11 19:57:09,567 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:57:09,649 - INFO - No new data available.
+2025-01-11 19:57:09,649 - INFO - Calculating EMA.
+2025-01-11 19:57:09,664 - INFO - Calculating RSI.
+2025-01-11 19:57:09,666 - INFO - Indicators Calculated.
+2025-01-11 19:57:09,666 - INFO - Checking for buy signals.
+2025-01-11 19:57:09,666 - INFO - Calculating position size to trade.
+2025-01-11 19:57:09,760 - INFO - Sleeping for 60 seconds
+2025-01-11 19:58:09,769 - INFO - Fetching latest data...
+2025-01-11 19:58:09,769 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:58:09,865 - INFO - No new data available.
+2025-01-11 19:58:09,865 - INFO - Calculating EMA.
+2025-01-11 19:58:09,865 - INFO - Calculating RSI.
+2025-01-11 19:58:09,865 - INFO - Indicators Calculated.
+2025-01-11 19:58:09,865 - INFO - Checking for buy signals.
+2025-01-11 19:58:09,865 - INFO - Calculating position size to trade.
+2025-01-11 19:58:09,961 - INFO - Sleeping for 60 seconds
+2025-01-11 19:59:09,973 - INFO - Fetching latest data...
+2025-01-11 19:59:09,973 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 19:59:10,056 - INFO - No new data available.
+2025-01-11 19:59:10,056 - INFO - Calculating EMA.
+2025-01-11 19:59:10,056 - INFO - Calculating RSI.
+2025-01-11 19:59:10,072 - INFO - Indicators Calculated.
+2025-01-11 19:59:10,072 - INFO - Checking for buy signals.
+2025-01-11 19:59:10,073 - INFO - Calculating position size to trade.
+2025-01-11 19:59:10,155 - INFO - Sleeping for 60 seconds
+2025-01-11 20:00:10,165 - INFO - Fetching latest data...
+2025-01-11 20:00:10,166 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:00:10,245 - INFO - No new data available.
+2025-01-11 20:00:10,245 - INFO - Calculating EMA.
+2025-01-11 20:00:10,245 - INFO - Calculating RSI.
+2025-01-11 20:00:10,262 - INFO - Indicators Calculated.
+2025-01-11 20:00:10,262 - INFO - Checking for buy signals.
+2025-01-11 20:00:10,262 - INFO - Calculating position size to trade.
+2025-01-11 20:00:10,341 - INFO - Sleeping for 60 seconds
+2025-01-11 20:01:10,348 - INFO - Fetching latest data...
+2025-01-11 20:01:10,348 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:01:10,445 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 20:01:10,445 - INFO - Latest data added.
+2025-01-11 20:01:10,445 - INFO - Calculating EMA.
+2025-01-11 20:01:10,445 - INFO - Calculating RSI.
+2025-01-11 20:01:10,445 - INFO - Indicators Calculated.
+2025-01-11 20:01:10,445 - INFO - Checking for buy signals.
+2025-01-11 20:01:10,445 - INFO - Calculating position size to trade.
+2025-01-11 20:01:10,578 - INFO - Sleeping for 60 seconds
+2025-01-11 20:02:10,588 - INFO - Fetching latest data...
+2025-01-11 20:02:10,589 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:02:10,686 - INFO - No new data available.
+2025-01-11 20:02:10,686 - INFO - Calculating EMA.
+2025-01-11 20:02:10,686 - INFO - Calculating RSI.
+2025-01-11 20:02:10,686 - INFO - Indicators Calculated.
+2025-01-11 20:02:10,686 - INFO - Checking for buy signals.
+2025-01-11 20:02:10,686 - INFO - Calculating position size to trade.
+2025-01-11 20:02:10,783 - INFO - Sleeping for 60 seconds
+2025-01-11 20:03:10,797 - INFO - Fetching latest data...
+2025-01-11 20:03:10,797 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:03:10,894 - INFO - No new data available.
+2025-01-11 20:03:10,894 - INFO - Calculating EMA.
+2025-01-11 20:03:10,894 - INFO - Calculating RSI.
+2025-01-11 20:03:10,900 - INFO - Indicators Calculated.
+2025-01-11 20:03:10,900 - INFO - Checking for buy signals.
+2025-01-11 20:03:10,900 - INFO - Calculating position size to trade.
+2025-01-11 20:03:10,984 - INFO - Sleeping for 60 seconds
+2025-01-11 20:04:10,991 - INFO - Fetching latest data...
+2025-01-11 20:04:10,991 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:04:11,096 - INFO - No new data available.
+2025-01-11 20:04:11,096 - INFO - Calculating EMA.
+2025-01-11 20:04:11,096 - INFO - Calculating RSI.
+2025-01-11 20:04:11,096 - INFO - Indicators Calculated.
+2025-01-11 20:04:11,096 - INFO - Checking for buy signals.
+2025-01-11 20:04:11,096 - INFO - Calculating position size to trade.
+2025-01-11 20:04:11,195 - INFO - Sleeping for 60 seconds
+2025-01-11 20:05:11,204 - INFO - Fetching latest data...
+2025-01-11 20:05:11,204 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:05:11,300 - INFO - No new data available.
+2025-01-11 20:05:11,300 - INFO - Calculating EMA.
+2025-01-11 20:05:11,300 - INFO - Calculating RSI.
+2025-01-11 20:05:11,306 - INFO - Indicators Calculated.
+2025-01-11 20:05:11,306 - INFO - Checking for buy signals.
+2025-01-11 20:05:11,306 - INFO - Calculating position size to trade.
+2025-01-11 20:05:11,395 - INFO - Sleeping for 60 seconds
+2025-01-11 20:06:11,401 - INFO - Fetching latest data...
+2025-01-11 20:06:11,401 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:06:11,501 - INFO - No new data available.
+2025-01-11 20:06:11,501 - INFO - Calculating EMA.
+2025-01-11 20:06:11,501 - INFO - Calculating RSI.
+2025-01-11 20:06:11,501 - INFO - Indicators Calculated.
+2025-01-11 20:06:11,501 - INFO - Checking for buy signals.
+2025-01-11 20:06:11,501 - INFO - Calculating position size to trade.
+2025-01-11 20:06:11,584 - INFO - Sleeping for 60 seconds
+2025-01-11 20:07:11,596 - INFO - Fetching latest data...
+2025-01-11 20:07:11,597 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:07:11,677 - INFO - No new data available.
+2025-01-11 20:07:11,677 - INFO - Calculating EMA.
+2025-01-11 20:07:11,677 - INFO - Calculating RSI.
+2025-01-11 20:07:11,695 - INFO - Indicators Calculated.
+2025-01-11 20:07:11,695 - INFO - Checking for buy signals.
+2025-01-11 20:07:11,695 - INFO - Calculating position size to trade.
+2025-01-11 20:07:11,788 - INFO - Sleeping for 60 seconds
+2025-01-11 20:08:11,789 - INFO - Fetching latest data...
+2025-01-11 20:08:11,790 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:08:11,884 - INFO - No new data available.
+2025-01-11 20:08:11,884 - INFO - Calculating EMA.
+2025-01-11 20:08:11,884 - INFO - Calculating RSI.
+2025-01-11 20:08:11,884 - INFO - Indicators Calculated.
+2025-01-11 20:08:11,884 - INFO - Checking for buy signals.
+2025-01-11 20:08:11,884 - INFO - Calculating position size to trade.
+2025-01-11 20:08:11,980 - INFO - Sleeping for 60 seconds
+2025-01-11 20:09:11,983 - INFO - Fetching latest data...
+2025-01-11 20:09:11,983 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:09:12,070 - INFO - No new data available.
+2025-01-11 20:09:12,070 - INFO - Calculating EMA.
+2025-01-11 20:09:12,070 - INFO - Calculating RSI.
+2025-01-11 20:09:12,070 - INFO - Indicators Calculated.
+2025-01-11 20:09:12,070 - INFO - Checking for buy signals.
+2025-01-11 20:09:12,070 - INFO - Calculating position size to trade.
+2025-01-11 20:09:12,170 - INFO - Sleeping for 60 seconds
+2025-01-11 20:10:12,176 - INFO - Fetching latest data...
+2025-01-11 20:10:12,176 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:10:12,263 - INFO - No new data available.
+2025-01-11 20:10:12,263 - INFO - Calculating EMA.
+2025-01-11 20:10:12,263 - INFO - Calculating RSI.
+2025-01-11 20:10:12,272 - INFO - Indicators Calculated.
+2025-01-11 20:10:12,272 - INFO - Checking for buy signals.
+2025-01-11 20:10:12,272 - INFO - Calculating position size to trade.
+2025-01-11 20:10:12,363 - INFO - Sleeping for 60 seconds
+2025-01-11 20:11:12,364 - INFO - Fetching latest data...
+2025-01-11 20:11:12,364 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:11:12,460 - INFO - No new data available.
+2025-01-11 20:11:12,460 - INFO - Calculating EMA.
+2025-01-11 20:11:12,460 - INFO - Calculating RSI.
+2025-01-11 20:11:12,460 - INFO - Indicators Calculated.
+2025-01-11 20:11:12,460 - INFO - Checking for buy signals.
+2025-01-11 20:11:12,460 - INFO - Calculating position size to trade.
+2025-01-11 20:11:12,541 - INFO - Sleeping for 60 seconds
+2025-01-11 20:12:12,551 - INFO - Fetching latest data...
+2025-01-11 20:12:12,552 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:12:12,644 - INFO - No new data available.
+2025-01-11 20:12:12,644 - INFO - Calculating EMA.
+2025-01-11 20:12:12,645 - INFO - Calculating RSI.
+2025-01-11 20:12:12,648 - INFO - Indicators Calculated.
+2025-01-11 20:12:12,648 - INFO - Checking for buy signals.
+2025-01-11 20:12:12,649 - INFO - Calculating position size to trade.
+2025-01-11 20:12:12,731 - INFO - Sleeping for 60 seconds
+2025-01-11 20:13:12,741 - INFO - Fetching latest data...
+2025-01-11 20:13:12,741 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:13:12,829 - INFO - No new data available.
+2025-01-11 20:13:12,829 - INFO - Calculating EMA.
+2025-01-11 20:13:12,829 - INFO - Calculating RSI.
+2025-01-11 20:13:12,829 - INFO - Indicators Calculated.
+2025-01-11 20:13:12,829 - INFO - Checking for buy signals.
+2025-01-11 20:13:12,829 - INFO - Calculating position size to trade.
+2025-01-11 20:13:12,924 - INFO - Sleeping for 60 seconds
+2025-01-11 20:14:12,930 - INFO - Fetching latest data...
+2025-01-11 20:14:12,930 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:14:13,009 - INFO - No new data available.
+2025-01-11 20:14:13,025 - INFO - Calculating EMA.
+2025-01-11 20:14:13,025 - INFO - Calculating RSI.
+2025-01-11 20:14:13,025 - INFO - Indicators Calculated.
+2025-01-11 20:14:13,025 - INFO - Checking for buy signals.
+2025-01-11 20:14:13,025 - INFO - Calculating position size to trade.
+2025-01-11 20:14:13,129 - INFO - Sleeping for 60 seconds
+2025-01-11 20:15:13,135 - INFO - Fetching latest data...
+2025-01-11 20:15:13,137 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:15:13,270 - INFO - No new data available.
+2025-01-11 20:15:13,270 - INFO - Calculating EMA.
+2025-01-11 20:15:13,270 - INFO - Calculating RSI.
+2025-01-11 20:15:13,270 - INFO - Indicators Calculated.
+2025-01-11 20:15:13,270 - INFO - Checking for buy signals.
+2025-01-11 20:15:13,270 - INFO - Calculating position size to trade.
+2025-01-11 20:15:13,457 - INFO - Sleeping for 60 seconds
+2025-01-11 20:16:13,466 - INFO - Fetching latest data...
+2025-01-11 20:16:13,466 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:16:13,565 - INFO - No new data available.
+2025-01-11 20:16:13,566 - INFO - Calculating EMA.
+2025-01-11 20:16:13,566 - INFO - Calculating RSI.
+2025-01-11 20:16:13,566 - INFO - Indicators Calculated.
+2025-01-11 20:16:13,566 - INFO - Checking for buy signals.
+2025-01-11 20:16:13,566 - INFO - Calculating position size to trade.
+2025-01-11 20:16:13,664 - INFO - Sleeping for 60 seconds
+2025-01-11 20:17:13,672 - INFO - Fetching latest data...
+2025-01-11 20:17:13,672 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:17:13,753 - INFO - No new data available.
+2025-01-11 20:17:13,753 - INFO - Calculating EMA.
+2025-01-11 20:17:13,769 - INFO - Calculating RSI.
+2025-01-11 20:17:13,769 - INFO - Indicators Calculated.
+2025-01-11 20:17:13,769 - INFO - Checking for buy signals.
+2025-01-11 20:17:13,769 - INFO - Calculating position size to trade.
+2025-01-11 20:17:13,859 - INFO - Sleeping for 60 seconds
+2025-01-11 20:18:13,869 - INFO - Fetching latest data...
+2025-01-11 20:18:13,869 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:18:13,963 - INFO - No new data available.
+2025-01-11 20:18:13,963 - INFO - Calculating EMA.
+2025-01-11 20:18:13,963 - INFO - Calculating RSI.
+2025-01-11 20:18:13,970 - INFO - Indicators Calculated.
+2025-01-11 20:18:13,970 - INFO - Checking for buy signals.
+2025-01-11 20:18:13,970 - INFO - Calculating position size to trade.
+2025-01-11 20:18:14,055 - INFO - Sleeping for 60 seconds
+2025-01-11 20:19:14,065 - INFO - Fetching latest data...
+2025-01-11 20:19:14,066 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:19:14,163 - INFO - No new data available.
+2025-01-11 20:19:14,163 - INFO - Calculating EMA.
+2025-01-11 20:19:14,163 - INFO - Calculating RSI.
+2025-01-11 20:19:14,163 - INFO - Indicators Calculated.
+2025-01-11 20:19:14,163 - INFO - Checking for buy signals.
+2025-01-11 20:19:14,163 - INFO - Calculating position size to trade.
+2025-01-11 20:19:14,267 - INFO - Sleeping for 60 seconds
+2025-01-11 20:20:14,268 - INFO - Fetching latest data...
+2025-01-11 20:20:14,268 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:20:14,362 - INFO - No new data available.
+2025-01-11 20:20:14,362 - INFO - Calculating EMA.
+2025-01-11 20:20:14,362 - INFO - Calculating RSI.
+2025-01-11 20:20:14,362 - INFO - Indicators Calculated.
+2025-01-11 20:20:14,362 - INFO - Checking for buy signals.
+2025-01-11 20:20:14,362 - INFO - Calculating position size to trade.
+2025-01-11 20:20:14,455 - INFO - Sleeping for 60 seconds
+2025-01-11 20:21:14,470 - INFO - Fetching latest data...
+2025-01-11 20:21:14,470 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:21:14,555 - INFO - No new data available.
+2025-01-11 20:21:14,555 - INFO - Calculating EMA.
+2025-01-11 20:21:14,555 - INFO - Calculating RSI.
+2025-01-11 20:21:14,555 - INFO - Indicators Calculated.
+2025-01-11 20:21:14,555 - INFO - Checking for buy signals.
+2025-01-11 20:21:14,555 - INFO - Calculating position size to trade.
+2025-01-11 20:21:14,656 - INFO - Sleeping for 60 seconds
+2025-01-11 20:22:14,663 - INFO - Fetching latest data...
+2025-01-11 20:22:14,663 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:22:14,766 - INFO - No new data available.
+2025-01-11 20:22:14,766 - INFO - Calculating EMA.
+2025-01-11 20:22:14,767 - INFO - Calculating RSI.
+2025-01-11 20:22:14,771 - INFO - Indicators Calculated.
+2025-01-11 20:22:14,771 - INFO - Checking for buy signals.
+2025-01-11 20:22:14,771 - INFO - Calculating position size to trade.
+2025-01-11 20:22:14,863 - INFO - Sleeping for 60 seconds
+2025-01-11 20:23:14,875 - INFO - Fetching latest data...
+2025-01-11 20:23:14,876 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:23:14,966 - INFO - No new data available.
+2025-01-11 20:23:14,966 - INFO - Calculating EMA.
+2025-01-11 20:23:14,966 - INFO - Calculating RSI.
+2025-01-11 20:23:14,968 - INFO - Indicators Calculated.
+2025-01-11 20:23:14,968 - INFO - Checking for buy signals.
+2025-01-11 20:23:14,968 - INFO - Calculating position size to trade.
+2025-01-11 20:23:15,059 - INFO - Sleeping for 60 seconds
+2025-01-11 20:24:15,067 - INFO - Fetching latest data...
+2025-01-11 20:24:15,068 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:24:15,171 - INFO - No new data available.
+2025-01-11 20:24:15,171 - INFO - Calculating EMA.
+2025-01-11 20:24:15,172 - INFO - Calculating RSI.
+2025-01-11 20:24:15,175 - INFO - Indicators Calculated.
+2025-01-11 20:24:15,175 - INFO - Checking for buy signals.
+2025-01-11 20:24:15,175 - INFO - Calculating position size to trade.
+2025-01-11 20:24:15,303 - INFO - Sleeping for 60 seconds
+2025-01-11 20:25:15,316 - INFO - Fetching latest data...
+2025-01-11 20:25:15,317 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:25:15,411 - INFO - No new data available.
+2025-01-11 20:25:15,412 - INFO - Calculating EMA.
+2025-01-11 20:25:15,413 - INFO - Calculating RSI.
+2025-01-11 20:25:15,416 - INFO - Indicators Calculated.
+2025-01-11 20:25:15,417 - INFO - Checking for buy signals.
+2025-01-11 20:25:15,417 - INFO - Calculating position size to trade.
+2025-01-11 20:25:15,501 - INFO - Sleeping for 60 seconds
+2025-01-11 20:26:15,511 - INFO - Fetching latest data...
+2025-01-11 20:26:15,512 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:26:15,600 - INFO - No new data available.
+2025-01-11 20:26:15,600 - INFO - Calculating EMA.
+2025-01-11 20:26:15,601 - INFO - Calculating RSI.
+2025-01-11 20:26:15,603 - INFO - Indicators Calculated.
+2025-01-11 20:26:15,603 - INFO - Checking for buy signals.
+2025-01-11 20:26:15,603 - INFO - Calculating position size to trade.
+2025-01-11 20:26:15,694 - INFO - Sleeping for 60 seconds
+2025-01-11 20:27:15,704 - INFO - Fetching latest data...
+2025-01-11 20:27:15,705 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:27:15,801 - INFO - No new data available.
+2025-01-11 20:27:15,801 - INFO - Calculating EMA.
+2025-01-11 20:27:15,802 - INFO - Calculating RSI.
+2025-01-11 20:27:15,806 - INFO - Indicators Calculated.
+2025-01-11 20:27:15,806 - INFO - Checking for buy signals.
+2025-01-11 20:27:15,806 - INFO - Calculating position size to trade.
+2025-01-11 20:27:15,895 - INFO - Sleeping for 60 seconds
+2025-01-11 20:28:15,901 - INFO - Fetching latest data...
+2025-01-11 20:28:15,902 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:28:16,000 - INFO - No new data available.
+2025-01-11 20:28:16,000 - INFO - Calculating EMA.
+2025-01-11 20:28:16,001 - INFO - Calculating RSI.
+2025-01-11 20:28:16,004 - INFO - Indicators Calculated.
+2025-01-11 20:28:16,004 - INFO - Checking for buy signals.
+2025-01-11 20:28:16,004 - INFO - Calculating position size to trade.
+2025-01-11 20:28:16,097 - INFO - Sleeping for 60 seconds
+2025-01-11 20:29:16,112 - INFO - Fetching latest data...
+2025-01-11 20:29:16,113 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:29:16,207 - INFO - No new data available.
+2025-01-11 20:29:16,207 - INFO - Calculating EMA.
+2025-01-11 20:29:16,208 - INFO - Calculating RSI.
+2025-01-11 20:29:16,210 - INFO - Indicators Calculated.
+2025-01-11 20:29:16,210 - INFO - Checking for buy signals.
+2025-01-11 20:29:16,210 - INFO - Calculating position size to trade.
+2025-01-11 20:29:16,301 - INFO - Sleeping for 60 seconds
+2025-01-11 20:30:16,304 - INFO - Fetching latest data...
+2025-01-11 20:30:16,305 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:30:16,415 - INFO - No new data available.
+2025-01-11 20:30:16,416 - INFO - Calculating EMA.
+2025-01-11 20:30:16,417 - INFO - Calculating RSI.
+2025-01-11 20:30:16,420 - INFO - Indicators Calculated.
+2025-01-11 20:30:16,421 - INFO - Checking for buy signals.
+2025-01-11 20:30:16,421 - INFO - Calculating position size to trade.
+2025-01-11 20:30:16,507 - INFO - Sleeping for 60 seconds
+2025-01-11 20:31:16,513 - INFO - Fetching latest data...
+2025-01-11 20:31:16,513 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:31:16,607 - INFO - No new data available.
+2025-01-11 20:31:16,608 - INFO - Calculating EMA.
+2025-01-11 20:31:16,609 - INFO - Calculating RSI.
+2025-01-11 20:31:16,611 - INFO - Indicators Calculated.
+2025-01-11 20:31:16,611 - INFO - Checking for buy signals.
+2025-01-11 20:31:16,611 - INFO - Calculating position size to trade.
+2025-01-11 20:31:16,707 - INFO - Sleeping for 60 seconds
+2025-01-11 20:32:16,709 - INFO - Fetching latest data...
+2025-01-11 20:32:16,710 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:32:16,811 - INFO - No new data available.
+2025-01-11 20:32:16,811 - INFO - Calculating EMA.
+2025-01-11 20:32:16,812 - INFO - Calculating RSI.
+2025-01-11 20:32:16,815 - INFO - Indicators Calculated.
+2025-01-11 20:32:16,815 - INFO - Checking for buy signals.
+2025-01-11 20:32:16,815 - INFO - Calculating position size to trade.
+2025-01-11 20:32:16,899 - INFO - Sleeping for 60 seconds
+2025-01-11 20:33:16,905 - INFO - Fetching latest data...
+2025-01-11 20:33:16,907 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:33:17,208 - INFO - No new data available.
+2025-01-11 20:33:17,208 - INFO - Calculating EMA.
+2025-01-11 20:33:17,209 - INFO - Calculating RSI.
+2025-01-11 20:33:17,212 - INFO - Indicators Calculated.
+2025-01-11 20:33:17,212 - INFO - Checking for buy signals.
+2025-01-11 20:33:17,212 - INFO - Calculating position size to trade.
+2025-01-11 20:33:17,474 - INFO - Sleeping for 60 seconds
+2025-01-11 20:34:17,484 - INFO - Fetching latest data...
+2025-01-11 20:34:17,485 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:34:17,570 - INFO - No new data available.
+2025-01-11 20:34:17,570 - INFO - Calculating EMA.
+2025-01-11 20:34:17,570 - INFO - Calculating RSI.
+2025-01-11 20:34:17,570 - INFO - Indicators Calculated.
+2025-01-11 20:34:17,570 - INFO - Checking for buy signals.
+2025-01-11 20:34:17,570 - INFO - Calculating position size to trade.
+2025-01-11 20:34:17,673 - INFO - Sleeping for 60 seconds
+2025-01-11 20:35:17,678 - INFO - Fetching latest data...
+2025-01-11 20:35:17,680 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:35:17,780 - INFO - No new data available.
+2025-01-11 20:35:17,780 - INFO - Calculating EMA.
+2025-01-11 20:35:17,780 - INFO - Calculating RSI.
+2025-01-11 20:35:17,780 - INFO - Indicators Calculated.
+2025-01-11 20:35:17,780 - INFO - Checking for buy signals.
+2025-01-11 20:35:17,780 - INFO - Calculating position size to trade.
+2025-01-11 20:35:17,878 - INFO - Sleeping for 60 seconds
+2025-01-11 20:36:17,892 - INFO - Fetching latest data...
+2025-01-11 20:36:17,892 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:36:17,990 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 20:36:17,990 - INFO - Latest data added.
+2025-01-11 20:36:17,990 - INFO - Calculating EMA.
+2025-01-11 20:36:17,990 - INFO - Calculating RSI.
+2025-01-11 20:36:17,990 - INFO - Indicators Calculated.
+2025-01-11 20:36:17,990 - INFO - Checking for buy signals.
+2025-01-11 20:36:17,990 - INFO - Calculating position size to trade.
+2025-01-11 20:36:18,091 - INFO - Sleeping for 60 seconds
+2025-01-11 20:37:18,101 - INFO - Fetching latest data...
+2025-01-11 20:37:18,102 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:37:18,185 - INFO - No new data available.
+2025-01-11 20:37:18,185 - INFO - Calculating EMA.
+2025-01-11 20:37:18,185 - INFO - Calculating RSI.
+2025-01-11 20:37:18,185 - INFO - Indicators Calculated.
+2025-01-11 20:37:18,185 - INFO - Checking for buy signals.
+2025-01-11 20:37:18,185 - INFO - Calculating position size to trade.
+2025-01-11 20:37:18,289 - INFO - Sleeping for 60 seconds
+2025-01-11 20:38:18,295 - INFO - Fetching latest data...
+2025-01-11 20:38:18,296 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:38:18,392 - INFO - No new data available.
+2025-01-11 20:38:18,393 - INFO - Calculating EMA.
+2025-01-11 20:38:18,394 - INFO - Calculating RSI.
+2025-01-11 20:38:18,397 - INFO - Indicators Calculated.
+2025-01-11 20:38:18,397 - INFO - Checking for buy signals.
+2025-01-11 20:38:18,397 - INFO - Calculating position size to trade.
+2025-01-11 20:38:18,490 - INFO - Sleeping for 60 seconds
+2025-01-11 20:39:18,505 - INFO - Fetching latest data...
+2025-01-11 20:39:18,506 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:39:18,604 - INFO - No new data available.
+2025-01-11 20:39:18,604 - INFO - Calculating EMA.
+2025-01-11 20:39:18,605 - INFO - Calculating RSI.
+2025-01-11 20:39:18,607 - INFO - Indicators Calculated.
+2025-01-11 20:39:18,607 - INFO - Checking for buy signals.
+2025-01-11 20:39:18,607 - INFO - Calculating position size to trade.
+2025-01-11 20:39:18,706 - INFO - Sleeping for 60 seconds
+2025-01-11 20:40:18,718 - INFO - Fetching latest data...
+2025-01-11 20:40:18,720 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:40:18,810 - INFO - No new data available.
+2025-01-11 20:40:18,810 - INFO - Calculating EMA.
+2025-01-11 20:40:18,811 - INFO - Calculating RSI.
+2025-01-11 20:40:18,814 - INFO - Indicators Calculated.
+2025-01-11 20:40:18,814 - INFO - Checking for buy signals.
+2025-01-11 20:40:18,814 - INFO - Calculating position size to trade.
+2025-01-11 20:40:18,904 - INFO - Sleeping for 60 seconds
+2025-01-11 20:41:18,911 - INFO - Fetching latest data...
+2025-01-11 20:41:18,913 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:41:19,015 - INFO - No new data available.
+2025-01-11 20:41:19,015 - INFO - Calculating EMA.
+2025-01-11 20:41:19,016 - INFO - Calculating RSI.
+2025-01-11 20:41:19,018 - INFO - Indicators Calculated.
+2025-01-11 20:41:19,018 - INFO - Checking for buy signals.
+2025-01-11 20:41:19,019 - INFO - Calculating position size to trade.
+2025-01-11 20:41:19,113 - INFO - Sleeping for 60 seconds
+2025-01-11 20:42:19,127 - INFO - Fetching latest data...
+2025-01-11 20:42:19,128 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:42:19,219 - INFO - No new data available.
+2025-01-11 20:42:19,219 - INFO - Calculating EMA.
+2025-01-11 20:42:19,220 - INFO - Calculating RSI.
+2025-01-11 20:42:19,224 - INFO - Indicators Calculated.
+2025-01-11 20:42:19,224 - INFO - Checking for buy signals.
+2025-01-11 20:42:19,224 - INFO - Calculating position size to trade.
+2025-01-11 20:42:19,315 - INFO - Sleeping for 60 seconds
+2025-01-11 20:43:19,317 - INFO - Fetching latest data...
+2025-01-11 20:43:19,319 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:43:19,421 - INFO - No new data available.
+2025-01-11 20:43:19,421 - INFO - Calculating EMA.
+2025-01-11 20:43:19,422 - INFO - Calculating RSI.
+2025-01-11 20:43:19,426 - INFO - Indicators Calculated.
+2025-01-11 20:43:19,426 - INFO - Checking for buy signals.
+2025-01-11 20:43:19,427 - INFO - Calculating position size to trade.
+2025-01-11 20:43:19,519 - INFO - Sleeping for 60 seconds
+2025-01-11 20:44:19,529 - INFO - Fetching latest data...
+2025-01-11 20:44:19,531 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:44:19,622 - INFO - No new data available.
+2025-01-11 20:44:19,622 - INFO - Calculating EMA.
+2025-01-11 20:44:19,623 - INFO - Calculating RSI.
+2025-01-11 20:44:19,626 - INFO - Indicators Calculated.
+2025-01-11 20:44:19,626 - INFO - Checking for buy signals.
+2025-01-11 20:44:19,626 - INFO - Calculating position size to trade.
+2025-01-11 20:44:19,717 - INFO - Sleeping for 60 seconds
+2025-01-11 20:45:19,724 - INFO - Fetching latest data...
+2025-01-11 20:45:19,726 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:45:19,817 - INFO - No new data available.
+2025-01-11 20:45:19,818 - INFO - Calculating EMA.
+2025-01-11 20:45:19,819 - INFO - Calculating RSI.
+2025-01-11 20:45:19,821 - INFO - Indicators Calculated.
+2025-01-11 20:45:19,821 - INFO - Checking for buy signals.
+2025-01-11 20:45:19,821 - INFO - Calculating position size to trade.
+2025-01-11 20:45:19,916 - INFO - Sleeping for 60 seconds
+2025-01-11 20:46:19,919 - INFO - Fetching latest data...
+2025-01-11 20:46:19,921 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:46:20,022 - INFO - No new data available.
+2025-01-11 20:46:20,022 - INFO - Calculating EMA.
+2025-01-11 20:46:20,022 - INFO - Calculating RSI.
+2025-01-11 20:46:20,022 - INFO - Indicators Calculated.
+2025-01-11 20:46:20,022 - INFO - Checking for buy signals.
+2025-01-11 20:46:20,022 - INFO - Calculating position size to trade.
+2025-01-11 20:46:20,106 - INFO - Sleeping for 60 seconds
+2025-01-11 20:47:20,113 - INFO - Fetching latest data...
+2025-01-11 20:47:20,116 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:47:20,209 - INFO - No new data available.
+2025-01-11 20:47:20,210 - INFO - Calculating EMA.
+2025-01-11 20:47:20,211 - INFO - Calculating RSI.
+2025-01-11 20:47:20,213 - INFO - Indicators Calculated.
+2025-01-11 20:47:20,214 - INFO - Checking for buy signals.
+2025-01-11 20:47:20,214 - INFO - Calculating position size to trade.
+2025-01-11 20:47:20,306 - INFO - Sleeping for 60 seconds
+2025-01-11 20:48:20,309 - INFO - Fetching latest data...
+2025-01-11 20:48:20,310 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:48:20,393 - INFO - No new data available.
+2025-01-11 20:48:20,393 - INFO - Calculating EMA.
+2025-01-11 20:48:20,393 - INFO - Calculating RSI.
+2025-01-11 20:48:20,393 - INFO - Indicators Calculated.
+2025-01-11 20:48:20,393 - INFO - Checking for buy signals.
+2025-01-11 20:48:20,393 - INFO - Calculating position size to trade.
+2025-01-11 20:48:20,498 - INFO - Sleeping for 60 seconds
+2025-01-11 20:49:20,503 - INFO - Fetching latest data...
+2025-01-11 20:49:20,504 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:49:20,599 - INFO - No new data available.
+2025-01-11 20:49:20,599 - INFO - Calculating EMA.
+2025-01-11 20:49:20,600 - INFO - Calculating RSI.
+2025-01-11 20:49:20,602 - INFO - Indicators Calculated.
+2025-01-11 20:49:20,602 - INFO - Checking for buy signals.
+2025-01-11 20:49:20,603 - INFO - Calculating position size to trade.
+2025-01-11 20:49:20,695 - INFO - Sleeping for 60 seconds
+2025-01-11 20:50:20,697 - INFO - Fetching latest data...
+2025-01-11 20:50:20,699 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:50:20,784 - INFO - No new data available.
+2025-01-11 20:50:20,784 - INFO - Calculating EMA.
+2025-01-11 20:50:20,784 - INFO - Calculating RSI.
+2025-01-11 20:50:20,784 - INFO - Indicators Calculated.
+2025-01-11 20:50:20,784 - INFO - Checking for buy signals.
+2025-01-11 20:50:20,784 - INFO - Calculating position size to trade.
+2025-01-11 20:50:20,882 - INFO - Sleeping for 60 seconds
+2025-01-11 20:51:20,891 - INFO - Fetching latest data...
+2025-01-11 20:51:20,893 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:51:20,987 - INFO - No new data available.
+2025-01-11 20:51:20,987 - INFO - Calculating EMA.
+2025-01-11 20:51:20,988 - INFO - Calculating RSI.
+2025-01-11 20:51:20,991 - INFO - Indicators Calculated.
+2025-01-11 20:51:20,991 - INFO - Checking for buy signals.
+2025-01-11 20:51:20,992 - INFO - Calculating position size to trade.
+2025-01-11 20:51:21,080 - INFO - Sleeping for 60 seconds
+2025-01-11 20:52:21,087 - INFO - Fetching latest data...
+2025-01-11 20:52:21,087 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:52:21,174 - INFO - No new data available.
+2025-01-11 20:52:21,174 - INFO - Calculating EMA.
+2025-01-11 20:52:21,174 - INFO - Calculating RSI.
+2025-01-11 20:52:21,174 - INFO - Indicators Calculated.
+2025-01-11 20:52:21,174 - INFO - Checking for buy signals.
+2025-01-11 20:52:21,174 - INFO - Calculating position size to trade.
+2025-01-11 20:52:21,271 - INFO - Sleeping for 60 seconds
+2025-01-11 20:53:21,280 - INFO - Fetching latest data...
+2025-01-11 20:53:21,281 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:53:21,398 - INFO - No new data available.
+2025-01-11 20:53:21,399 - INFO - Calculating EMA.
+2025-01-11 20:53:21,399 - INFO - Calculating RSI.
+2025-01-11 20:53:21,399 - INFO - Indicators Calculated.
+2025-01-11 20:53:21,399 - INFO - Checking for buy signals.
+2025-01-11 20:53:21,399 - INFO - Calculating position size to trade.
+2025-01-11 20:53:21,501 - INFO - Sleeping for 60 seconds
+2025-01-11 20:54:21,512 - INFO - Fetching latest data...
+2025-01-11 20:54:21,513 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:54:21,608 - INFO - No new data available.
+2025-01-11 20:54:21,609 - INFO - Calculating EMA.
+2025-01-11 20:54:21,609 - INFO - Calculating RSI.
+2025-01-11 20:54:21,611 - INFO - Indicators Calculated.
+2025-01-11 20:54:21,611 - INFO - Checking for buy signals.
+2025-01-11 20:54:21,611 - INFO - Calculating position size to trade.
+2025-01-11 20:54:21,711 - INFO - Sleeping for 60 seconds
+2025-01-11 20:55:21,736 - INFO - Fetching latest data...
+2025-01-11 20:55:21,737 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:55:21,824 - INFO - No new data available.
+2025-01-11 20:55:21,824 - INFO - Calculating EMA.
+2025-01-11 20:55:21,824 - INFO - Calculating RSI.
+2025-01-11 20:55:21,838 - INFO - Indicators Calculated.
+2025-01-11 20:55:21,839 - INFO - Checking for buy signals.
+2025-01-11 20:55:21,839 - INFO - Calculating position size to trade.
+2025-01-11 20:55:21,929 - INFO - Sleeping for 60 seconds
+2025-01-11 20:56:21,933 - INFO - Fetching latest data...
+2025-01-11 20:56:21,934 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:56:22,062 - INFO - No new data available.
+2025-01-11 20:56:22,063 - INFO - Calculating EMA.
+2025-01-11 20:56:22,063 - INFO - Calculating RSI.
+2025-01-11 20:56:22,066 - INFO - Indicators Calculated.
+2025-01-11 20:56:22,066 - INFO - Checking for buy signals.
+2025-01-11 20:56:22,066 - INFO - Calculating position size to trade.
+2025-01-11 20:56:22,165 - INFO - Sleeping for 60 seconds
+2025-01-11 20:57:22,179 - INFO - Fetching latest data...
+2025-01-11 20:57:22,180 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:57:22,278 - INFO - No new data available.
+2025-01-11 20:57:22,278 - INFO - Calculating EMA.
+2025-01-11 20:57:22,278 - INFO - Calculating RSI.
+2025-01-11 20:57:22,281 - INFO - Indicators Calculated.
+2025-01-11 20:57:22,281 - INFO - Checking for buy signals.
+2025-01-11 20:57:22,281 - INFO - Calculating position size to trade.
+2025-01-11 20:57:22,378 - INFO - Sleeping for 60 seconds
+2025-01-11 20:58:22,387 - INFO - Fetching latest data...
+2025-01-11 20:58:22,389 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:58:22,468 - INFO - No new data available.
+2025-01-11 20:58:22,468 - INFO - Calculating EMA.
+2025-01-11 20:58:22,468 - INFO - Calculating RSI.
+2025-01-11 20:58:22,486 - INFO - Indicators Calculated.
+2025-01-11 20:58:22,486 - INFO - Checking for buy signals.
+2025-01-11 20:58:22,486 - INFO - Calculating position size to trade.
+2025-01-11 20:58:22,573 - INFO - Sleeping for 60 seconds
+2025-01-11 20:59:22,582 - INFO - Fetching latest data...
+2025-01-11 20:59:22,583 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 20:59:22,667 - INFO - No new data available.
+2025-01-11 20:59:22,667 - INFO - Calculating EMA.
+2025-01-11 20:59:22,667 - INFO - Calculating RSI.
+2025-01-11 20:59:22,667 - INFO - Indicators Calculated.
+2025-01-11 20:59:22,667 - INFO - Checking for buy signals.
+2025-01-11 20:59:22,667 - INFO - Calculating position size to trade.
+2025-01-11 20:59:22,772 - INFO - Sleeping for 60 seconds
+2025-01-11 21:00:22,777 - INFO - Fetching latest data...
+2025-01-11 21:00:22,779 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:00:22,861 - INFO - No new data available.
+2025-01-11 21:00:22,875 - INFO - Calculating EMA.
+2025-01-11 21:00:22,875 - INFO - Calculating RSI.
+2025-01-11 21:00:22,878 - INFO - Indicators Calculated.
+2025-01-11 21:00:22,878 - INFO - Checking for buy signals.
+2025-01-11 21:00:22,878 - INFO - Calculating position size to trade.
+2025-01-11 21:00:22,967 - INFO - Sleeping for 60 seconds
+2025-01-11 21:01:22,971 - INFO - Fetching latest data...
+2025-01-11 21:01:22,973 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:01:23,072 - INFO - New data fetched, adding to existing dataset.
+2025-01-11 21:01:23,075 - INFO - Latest data added.
+2025-01-11 21:01:23,076 - INFO - Calculating EMA.
+2025-01-11 21:01:23,076 - INFO - Calculating RSI.
+2025-01-11 21:01:23,078 - INFO - Indicators Calculated.
+2025-01-11 21:01:23,078 - INFO - Checking for buy signals.
+2025-01-11 21:01:23,078 - INFO - Calculating position size to trade.
+2025-01-11 21:01:23,169 - INFO - Sleeping for 60 seconds
+2025-01-11 21:02:23,183 - INFO - Fetching latest data...
+2025-01-11 21:02:23,184 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:02:23,268 - INFO - No new data available.
+2025-01-11 21:02:23,268 - INFO - Calculating EMA.
+2025-01-11 21:02:23,268 - INFO - Calculating RSI.
+2025-01-11 21:02:23,268 - INFO - Indicators Calculated.
+2025-01-11 21:02:23,268 - INFO - Checking for buy signals.
+2025-01-11 21:02:23,268 - INFO - Calculating position size to trade.
+2025-01-11 21:02:23,382 - INFO - Sleeping for 60 seconds
+2025-01-11 21:03:23,394 - INFO - Fetching latest data...
+2025-01-11 21:03:23,396 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:03:23,489 - INFO - No new data available.
+2025-01-11 21:03:23,489 - INFO - Calculating EMA.
+2025-01-11 21:03:23,490 - INFO - Calculating RSI.
+2025-01-11 21:03:23,494 - INFO - Indicators Calculated.
+2025-01-11 21:03:23,495 - INFO - Checking for buy signals.
+2025-01-11 21:03:23,495 - INFO - Calculating position size to trade.
+2025-01-11 21:03:23,585 - INFO - Sleeping for 60 seconds
+2025-01-11 21:04:23,588 - INFO - Fetching latest data...
+2025-01-11 21:04:23,588 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:04:23,673 - INFO - No new data available.
+2025-01-11 21:04:23,673 - INFO - Calculating EMA.
+2025-01-11 21:04:23,673 - INFO - Calculating RSI.
+2025-01-11 21:04:23,673 - INFO - Indicators Calculated.
+2025-01-11 21:04:23,673 - INFO - Checking for buy signals.
+2025-01-11 21:04:23,673 - INFO - Calculating position size to trade.
+2025-01-11 21:04:23,757 - INFO - Sleeping for 60 seconds
+2025-01-11 21:05:23,763 - INFO - Fetching latest data...
+2025-01-11 21:05:23,763 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:05:23,844 - INFO - No new data available.
+2025-01-11 21:05:23,844 - INFO - Calculating EMA.
+2025-01-11 21:05:23,860 - INFO - Calculating RSI.
+2025-01-11 21:05:23,860 - INFO - Indicators Calculated.
+2025-01-11 21:05:23,860 - INFO - Checking for buy signals.
+2025-01-11 21:05:23,860 - INFO - Calculating position size to trade.
+2025-01-11 21:05:23,952 - INFO - Sleeping for 60 seconds
+2025-01-11 21:06:23,961 - INFO - Fetching latest data...
+2025-01-11 21:06:23,964 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:06:24,054 - INFO - No new data available.
+2025-01-11 21:06:24,055 - INFO - Calculating EMA.
+2025-01-11 21:06:24,055 - INFO - Calculating RSI.
+2025-01-11 21:06:24,058 - INFO - Indicators Calculated.
+2025-01-11 21:06:24,058 - INFO - Checking for buy signals.
+2025-01-11 21:06:24,058 - INFO - Calculating position size to trade.
+2025-01-11 21:06:24,142 - INFO - Sleeping for 60 seconds
+2025-01-11 21:07:24,145 - INFO - Fetching latest data...
+2025-01-11 21:07:24,145 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:07:24,242 - INFO - No new data available.
+2025-01-11 21:07:24,242 - INFO - Calculating EMA.
+2025-01-11 21:07:24,243 - INFO - Calculating RSI.
+2025-01-11 21:07:24,245 - INFO - Indicators Calculated.
+2025-01-11 21:07:24,245 - INFO - Checking for buy signals.
+2025-01-11 21:07:24,245 - INFO - Calculating position size to trade.
+2025-01-11 21:07:24,336 - INFO - Sleeping for 60 seconds
+2025-01-11 21:08:24,349 - INFO - Fetching latest data...
+2025-01-11 21:08:24,350 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:08:24,446 - INFO - No new data available.
+2025-01-11 21:08:24,446 - INFO - Calculating EMA.
+2025-01-11 21:08:24,446 - INFO - Calculating RSI.
+2025-01-11 21:08:24,448 - INFO - Indicators Calculated.
+2025-01-11 21:08:24,448 - INFO - Checking for buy signals.
+2025-01-11 21:08:24,448 - INFO - Calculating position size to trade.
+2025-01-11 21:08:24,536 - INFO - Sleeping for 60 seconds
+2025-01-11 21:09:24,541 - INFO - Fetching latest data...
+2025-01-11 21:09:24,542 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:09:24,626 - INFO - No new data available.
+2025-01-11 21:09:24,626 - INFO - Calculating EMA.
+2025-01-11 21:09:24,626 - INFO - Calculating RSI.
+2025-01-11 21:09:24,626 - INFO - Indicators Calculated.
+2025-01-11 21:09:24,626 - INFO - Checking for buy signals.
+2025-01-11 21:09:24,626 - INFO - Calculating position size to trade.
+2025-01-11 21:09:24,718 - INFO - Sleeping for 60 seconds
+2025-01-11 21:10:24,723 - INFO - Fetching latest data...
+2025-01-11 21:10:24,725 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:10:24,818 - INFO - No new data available.
+2025-01-11 21:10:24,818 - INFO - Calculating EMA.
+2025-01-11 21:10:24,819 - INFO - Calculating RSI.
+2025-01-11 21:10:24,819 - INFO - Indicators Calculated.
+2025-01-11 21:10:24,819 - INFO - Checking for buy signals.
+2025-01-11 21:10:24,819 - INFO - Calculating position size to trade.
+2025-01-11 21:10:24,909 - INFO - Sleeping for 60 seconds
+2025-01-11 21:11:24,919 - INFO - Fetching latest data...
+2025-01-11 21:11:24,920 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:11:25,003 - INFO - No new data available.
+2025-01-11 21:11:25,003 - INFO - Calculating EMA.
+2025-01-11 21:11:25,003 - INFO - Calculating RSI.
+2025-01-11 21:11:25,019 - INFO - Indicators Calculated.
+2025-01-11 21:11:25,019 - INFO - Checking for buy signals.
+2025-01-11 21:11:25,019 - INFO - Calculating position size to trade.
+2025-01-11 21:11:25,109 - INFO - Sleeping for 60 seconds
+2025-01-11 21:12:25,112 - INFO - Fetching latest data...
+2025-01-11 21:12:25,113 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:12:25,203 - INFO - No new data available.
+2025-01-11 21:12:25,203 - INFO - Calculating EMA.
+2025-01-11 21:12:25,204 - INFO - Calculating RSI.
+2025-01-11 21:12:25,206 - INFO - Indicators Calculated.
+2025-01-11 21:12:25,206 - INFO - Checking for buy signals.
+2025-01-11 21:12:25,206 - INFO - Calculating position size to trade.
+2025-01-11 21:12:25,294 - INFO - Sleeping for 60 seconds
+2025-01-11 21:13:25,307 - INFO - Fetching latest data...
+2025-01-11 21:13:25,308 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:13:25,399 - INFO - No new data available.
+2025-01-11 21:13:25,400 - INFO - Calculating EMA.
+2025-01-11 21:13:25,400 - INFO - Calculating RSI.
+2025-01-11 21:13:25,403 - INFO - Indicators Calculated.
+2025-01-11 21:13:25,403 - INFO - Checking for buy signals.
+2025-01-11 21:13:25,404 - INFO - Calculating position size to trade.
+2025-01-11 21:13:25,491 - INFO - Sleeping for 60 seconds
+2025-01-11 21:14:25,493 - INFO - Fetching latest data...
+2025-01-11 21:14:25,493 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:14:25,586 - INFO - No new data available.
+2025-01-11 21:14:25,586 - INFO - Calculating EMA.
+2025-01-11 21:14:25,586 - INFO - Calculating RSI.
+2025-01-11 21:14:25,590 - INFO - Indicators Calculated.
+2025-01-11 21:14:25,590 - INFO - Checking for buy signals.
+2025-01-11 21:14:25,590 - INFO - Calculating position size to trade.
+2025-01-11 21:14:25,687 - INFO - Sleeping for 60 seconds
+2025-01-11 21:15:25,693 - INFO - Fetching latest data...
+2025-01-11 21:15:25,693 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:15:25,788 - INFO - No new data available.
+2025-01-11 21:15:25,788 - INFO - Calculating EMA.
+2025-01-11 21:15:25,788 - INFO - Calculating RSI.
+2025-01-11 21:15:25,788 - INFO - Indicators Calculated.
+2025-01-11 21:15:25,788 - INFO - Checking for buy signals.
+2025-01-11 21:15:25,788 - INFO - Calculating position size to trade.
+2025-01-11 21:15:25,882 - INFO - Sleeping for 60 seconds
+2025-01-11 21:16:25,882 - INFO - Fetching latest data...
+2025-01-11 21:16:25,882 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:16:25,984 - INFO - No new data available.
+2025-01-11 21:16:25,984 - INFO - Calculating EMA.
+2025-01-11 21:16:25,985 - INFO - Calculating RSI.
+2025-01-11 21:16:25,987 - INFO - Indicators Calculated.
+2025-01-11 21:16:25,987 - INFO - Checking for buy signals.
+2025-01-11 21:16:25,987 - INFO - Calculating position size to trade.
+2025-01-11 21:16:26,080 - INFO - Sleeping for 60 seconds
+2025-01-11 21:17:26,084 - INFO - Fetching latest data...
+2025-01-11 21:17:26,085 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:17:26,173 - INFO - No new data available.
+2025-01-11 21:17:26,173 - INFO - Calculating EMA.
+2025-01-11 21:17:26,173 - INFO - Calculating RSI.
+2025-01-11 21:17:26,187 - INFO - Indicators Calculated.
+2025-01-11 21:17:26,187 - INFO - Checking for buy signals.
+2025-01-11 21:17:26,187 - INFO - Calculating position size to trade.
+2025-01-11 21:17:26,306 - INFO - Sleeping for 60 seconds
+2025-01-11 21:18:26,314 - INFO - Fetching latest data...
+2025-01-11 21:18:26,314 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:18:26,451 - INFO - No new data available.
+2025-01-11 21:18:26,452 - INFO - Calculating EMA.
+2025-01-11 21:18:26,453 - INFO - Calculating RSI.
+2025-01-11 21:18:26,456 - INFO - Indicators Calculated.
+2025-01-11 21:18:26,456 - INFO - Checking for buy signals.
+2025-01-11 21:18:26,456 - INFO - Calculating position size to trade.
+2025-01-11 21:18:26,657 - INFO - Sleeping for 60 seconds
+2025-01-11 21:19:26,659 - INFO - Fetching latest data...
+2025-01-11 21:19:26,660 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:19:26,757 - INFO - No new data available.
+2025-01-11 21:19:26,757 - INFO - Calculating EMA.
+2025-01-11 21:19:26,758 - INFO - Calculating RSI.
+2025-01-11 21:19:26,760 - INFO - Indicators Calculated.
+2025-01-11 21:19:26,761 - INFO - Checking for buy signals.
+2025-01-11 21:19:26,761 - INFO - Calculating position size to trade.
+2025-01-11 21:19:26,846 - INFO - Sleeping for 60 seconds
+2025-01-11 21:20:26,852 - INFO - Fetching latest data...
+2025-01-11 21:20:26,855 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:20:26,949 - INFO - No new data available.
+2025-01-11 21:20:26,949 - INFO - Calculating EMA.
+2025-01-11 21:20:26,950 - INFO - Calculating RSI.
+2025-01-11 21:20:26,954 - INFO - Indicators Calculated.
+2025-01-11 21:20:26,954 - INFO - Checking for buy signals.
+2025-01-11 21:20:26,954 - INFO - Calculating position size to trade.
+2025-01-11 21:20:27,046 - INFO - Sleeping for 60 seconds
+2025-01-11 21:21:27,048 - INFO - Fetching latest data...
+2025-01-11 21:21:27,048 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:21:27,162 - INFO - No new data available.
+2025-01-11 21:21:27,162 - INFO - Calculating EMA.
+2025-01-11 21:21:27,163 - INFO - Calculating RSI.
+2025-01-11 21:21:27,165 - INFO - Indicators Calculated.
+2025-01-11 21:21:27,165 - INFO - Checking for buy signals.
+2025-01-11 21:21:27,165 - INFO - Calculating position size to trade.
+2025-01-11 21:21:27,251 - INFO - Sleeping for 60 seconds
+2025-01-11 21:22:27,259 - INFO - Fetching latest data...
+2025-01-11 21:22:27,261 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:22:27,350 - INFO - No new data available.
+2025-01-11 21:22:27,350 - INFO - Calculating EMA.
+2025-01-11 21:22:27,351 - INFO - Calculating RSI.
+2025-01-11 21:22:27,353 - INFO - Indicators Calculated.
+2025-01-11 21:22:27,354 - INFO - Checking for buy signals.
+2025-01-11 21:22:27,354 - INFO - Calculating position size to trade.
+2025-01-11 21:22:27,439 - INFO - Sleeping for 60 seconds
+2025-01-11 21:23:27,446 - INFO - Fetching latest data...
+2025-01-11 21:23:27,446 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:23:27,541 - INFO - No new data available.
+2025-01-11 21:23:27,541 - INFO - Calculating EMA.
+2025-01-11 21:23:27,541 - INFO - Calculating RSI.
+2025-01-11 21:23:27,541 - INFO - Indicators Calculated.
+2025-01-11 21:23:27,541 - INFO - Checking for buy signals.
+2025-01-11 21:23:27,541 - INFO - Calculating position size to trade.
+2025-01-11 21:23:27,639 - INFO - Sleeping for 60 seconds
+2025-01-11 21:24:27,644 - INFO - Fetching latest data...
+2025-01-11 21:24:27,644 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:24:27,734 - INFO - No new data available.
+2025-01-11 21:24:27,734 - INFO - Calculating EMA.
+2025-01-11 21:24:27,735 - INFO - Calculating RSI.
+2025-01-11 21:24:27,738 - INFO - Indicators Calculated.
+2025-01-11 21:24:27,738 - INFO - Checking for buy signals.
+2025-01-11 21:24:27,738 - INFO - Calculating position size to trade.
+2025-01-11 21:24:27,832 - INFO - Sleeping for 60 seconds
+2025-01-11 21:25:27,841 - INFO - Fetching latest data...
+2025-01-11 21:25:27,841 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:25:27,951 - INFO - No new data available.
+2025-01-11 21:25:27,951 - INFO - Calculating EMA.
+2025-01-11 21:25:27,951 - INFO - Calculating RSI.
+2025-01-11 21:25:27,951 - INFO - Indicators Calculated.
+2025-01-11 21:25:27,951 - INFO - Checking for buy signals.
+2025-01-11 21:25:27,951 - INFO - Calculating position size to trade.
+2025-01-11 21:25:28,053 - INFO - Sleeping for 60 seconds
+2025-01-11 21:26:28,067 - INFO - Fetching latest data...
+2025-01-11 21:26:28,067 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:26:28,201 - INFO - No new data available.
+2025-01-11 21:26:28,205 - INFO - Calculating EMA.
+2025-01-11 21:26:28,206 - INFO - Calculating RSI.
+2025-01-11 21:26:28,206 - INFO - Indicators Calculated.
+2025-01-11 21:26:28,206 - INFO - Checking for buy signals.
+2025-01-11 21:26:28,206 - INFO - Calculating position size to trade.
+2025-01-11 21:26:28,324 - INFO - Sleeping for 60 seconds
+2025-01-11 21:27:28,334 - INFO - Fetching latest data...
+2025-01-11 21:27:28,334 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:27:28,427 - INFO - No new data available.
+2025-01-11 21:27:28,427 - INFO - Calculating EMA.
+2025-01-11 21:27:28,428 - INFO - Calculating RSI.
+2025-01-11 21:27:28,431 - INFO - Indicators Calculated.
+2025-01-11 21:27:28,432 - INFO - Checking for buy signals.
+2025-01-11 21:27:28,432 - INFO - Calculating position size to trade.
+2025-01-11 21:27:28,525 - INFO - Sleeping for 60 seconds
+2025-01-11 21:28:28,528 - INFO - Fetching latest data...
+2025-01-11 21:28:28,530 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:28:28,773 - INFO - No new data available.
+2025-01-11 21:28:28,773 - INFO - Calculating EMA.
+2025-01-11 21:28:28,774 - INFO - Calculating RSI.
+2025-01-11 21:28:28,778 - INFO - Indicators Calculated.
+2025-01-11 21:28:28,778 - INFO - Checking for buy signals.
+2025-01-11 21:28:28,778 - INFO - Calculating position size to trade.
+2025-01-11 21:28:28,887 - INFO - Sleeping for 60 seconds
+2025-01-11 21:29:28,891 - INFO - Fetching latest data...
+2025-01-11 21:29:28,892 - INFO - Fetching new data from the last timestamp onward.
+2025-01-11 21:29:28,988 - INFO - No new data available.
+2025-01-11 21:29:28,989 - INFO - Calculating EMA.
+2025-01-11 21:29:28,989 - INFO - Calculating RSI.
+2025-01-11 21:29:28,992 - INFO - Indicators Calculated.
+2025-01-11 21:29:28,992 - INFO - Checking for buy signals.
+2025-01-11 21:29:28,992 - INFO - Calculating position size to trade.
+2025-01-11 21:29:29,077 - INFO - Sleeping for 60 seconds
+2025-01-11 21:30:29,084 - INFO - Reached maximum runtime of 4:00:00. Exiting.
